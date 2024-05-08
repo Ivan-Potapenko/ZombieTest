@@ -1,0 +1,493 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 17
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A \u0442\u044B \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0448\u044C
+      \u043D\u0430 \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A \u0442\u044B \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0448\u044C
+        \u043D\u0430 \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438?"
+    - language: 1
+      text: How do you react to the smell of blood?
+    - language: 2
+      text: "Kan kokusuna nas\u0131l tepki verirsiniz?"
+    - language: 3
+      text: "Qan\u0131n qoxusuna nec\u0259 reaksiya verirsiniz?"
+    - language: 4
+      text: "\u042F\u043A \u0442\u044B \u0440\u044D\u0430\u0433\u0443\u0435\u0448
+        \u043D\u0430 \u043F\u0430\u0445 \u043A\u0440\u044B\u0432\u0456?"
+    - language: 5
+      text: "\u05D0\u05D9\u05DA \u05D0\u05EA\u05D4 \u05DE\u05D2\u05D9\u05D1 \u05DC\u05E8\u05D9\u05D7
+        \u05D4\u05D3\u05DD?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u0565\u055E\u057D \u0565\u0584 \u057E\u0565\u0580\u0561\u0562\u0565\u0580\u057E\u0578\u0582\u0574
+        \u0561\u0580\u0575\u0561\u0576 \u0570\u0578\u057F\u056B\u0576:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0 \u10E0\u10D4\u10D0\u10D2\u10D8\u10E0\u10D4\u10D1\u10D7
+        \u10E1\u10D8\u10E1\u10EE\u10DA\u10D8\u10E1 \u10E1\u10E3\u10DC\u10D6\u10D4?"
+    - language: 8
+      text: "Kuidas reageerite vere l\xF5hnale?"
+    - language: 9
+      text: "Comment r\xE9agissez-vous \xE0 l\u2019odeur du sang ?"
+    - language: 10
+      text: "\u049A\u0430\u043D\u043D\u044B\u04A3 \u0438\u0456\u0441\u0456\u043D\u0435
+        \u049B\u0430\u043B\u0430\u0439 \u049B\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 11
+      text: "\u041A\u0430\u043D\u0434\u044B\u043D \u0436\u044B\u0442\u044B\u043D\u0430
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u043A\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kaip reaguojate \u012F kraujo kvap\u0105?"
+    - language: 13
+      text: "K\u0101 j\u016Bs rea\u0123\u0113jat uz asi\u0146u smar\u017Eu?"
+    - language: 14
+      text: Cum reactionezi la mirosul de sange?
+    - language: 15
+      text: "\u0428\u0443\u043C\u043E \u0431\u0430 \u0431\u04EF\u0438 \u0445\u0443\u043D
+        \u0447\u04E3 \u0433\u0443\u043D\u0430 \u043C\u0443\u043D\u043E\u0441\u0438\u0431\u0430\u0442
+        \u043C\u0435\u043A\u0443\u043D\u0435\u0434?"
+    - language: 16
+      text: "Gany\u0148 ysyna n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A \u0442\u0438 \u0440\u0435\u0430\u0433\u0443\u0454\u0448
+        \u043D\u0430 \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0456?"
+    - language: 18
+      text: Qonning hidiga qanday munosabatda bo'lasiz?
+    - language: 19
+      text: "\xBFC\xF3mo reaccionas ante el olor a sangre?"
+    - language: 20
+      text: "Como voc\xEA reage ao cheiro de sangue?"
+    - language: 21
+      text: "\u0643\u064A\u0641 \u062A\u062A\u0641\u0627\u0639\u0644 \u0645\u0639
+        \u0631\u0627\u0626\u062D\u0629 \u0627\u0644\u062F\u0645\u061F"
+    - language: 22
+      text: Bagaimana reaksi Anda terhadap bau darah?
+    - language: 23
+      text: "\u8840\u306E\u5302\u3044\u306B\u3069\u3046\u53CD\u5FDC\u3057\u307E\u3059\u304B\uFF1F"
+    - language: 24
+      text: Come reagisci all'odore del sangue?
+    - language: 25
+      text: Wie reagieren Sie auf den Geruch von Blut?
+    - language: 26
+      text: "\u0916\u0942\u0928 \u0915\u0940 \u0917\u0902\u0927 \u092A\u0930 \u0906\u092A\u0915\u0940
+        \u0915\u094D\u092F\u093E \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E
+        \u0939\u094B\u0924\u0940 \u0939\u0948?"
+  _answersData:
+  - _resultDataId:
+      _value: Witch
+    _localizedText:
+      _defaultText: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438
+        \u0432\u044B\u0437\u044B\u0432\u0430\u0435\u0442 \u0443 \u043C\u0435\u043D\u044F
+        \u0436\u0435\u043B\u0430\u043D\u0438\u0435 \u0430\u0442\u0430\u043A\u043E\u0432\u0430\u0442\u044C
+        \u0438 \u043D\u0430\u043F\u0430\u0441\u0442\u044C \u043D\u0430 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A
+        \u0437\u0430\u043F\u0430\u0445\u0430"
+      _languages:
+      - language: 0
+        text: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438 \u0432\u044B\u0437\u044B\u0432\u0430\u0435\u0442
+          \u0443 \u043C\u0435\u043D\u044F \u0436\u0435\u043B\u0430\u043D\u0438\u0435
+          \u0430\u0442\u0430\u043A\u043E\u0432\u0430\u0442\u044C \u0438 \u043D\u0430\u043F\u0430\u0441\u0442\u044C
+          \u043D\u0430 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A \u0437\u0430\u043F\u0430\u0445\u0430"
+      - language: 1
+        text: The smell of blood makes me want to attack and attack the source of
+          the smell
+      - language: 2
+        text: "Kan kokusu bende sald\u0131r\u0131 ve kokunun kayna\u011F\u0131na
+          sald\u0131rma iste\u011Fi uyand\u0131r\u0131yor"
+      - language: 3
+        text: "Qan\u0131n qoxusu m\u0259ni qoxu m\u0259nb\u0259yin\u0259 h\xFCcum
+          etm\u0259k v\u0259 h\xFCcum etm\u0259k ist\u0259yi yarad\u0131r"
+      - language: 4
+        text: "\u041F\u0430\u0445 \u043A\u0440\u044B\u0432\u0456 \u0432\u044B\u043A\u043B\u0456\u043A\u0430\u0435
+          \u045E \u043C\u044F\u043D\u0435 \u0436\u0430\u0434\u0430\u043D\u043D\u0435
+          \u0430\u0442\u0430\u043A\u0430\u0432\u0430\u0446\u044C \u0456 \u043D\u0430\u043F\u0430\u0441\u0446\u0456
+          \u043D\u0430 \u043A\u0440\u044B\u043D\u0456\u0446\u0443 \u043F\u0430\u0445\u0443"
+      - language: 5
+        text: "\u05E8\u05D9\u05D7 \u05D4\u05D3\u05DD \u05D2\u05D5\u05E8\u05DD \u05DC\u05D9
+          \u05DC\u05E8\u05E6\u05D5\u05EA \u05DC\u05EA\u05E7\u05D5\u05E3 \u05D5\u05DC\u05EA\u05E7\u05D5\u05E3
+          \u05D0\u05EA \u05DE\u05E7\u05D5\u05E8 \u05D4\u05E8\u05D9\u05D7"
+      - language: 6
+        text: "\u0531\u0580\u0575\u0561\u0576 \u0570\u0578\u057F\u0576 \u056B\u0576\u0571
+          \u057D\u057F\u056B\u057A\u0578\u0582\u0574 \u0567 \u0570\u0561\u0580\u0571\u0561\u056F\u057E\u0565\u056C
+          \u0587 \u0570\u0561\u0580\u0571\u0561\u056F\u057E\u0565\u056C \u0570\u0578\u057F\u056B
+          \u0561\u0572\u0562\u0575\u0578\u0582\u0580\u056B \u057E\u0580\u0561"
+      - language: 7
+        text: "\u10E1\u10D8\u10E1\u10EE\u10DA\u10D8\u10E1 \u10E1\u10E3\u10DC\u10D8
+          \u10DB\u10D0\u10D8\u10EB\u10E3\u10DA\u10D4\u10D1\u10E1 \u10E8\u10D4\u10E2\u10D4\u10D5\u10D0
+          \u10D3\u10D0 \u10E8\u10D4\u10E2\u10D4\u10D5\u10D0 \u10E1\u10E3\u10DC\u10D8\u10E1
+          \u10EC\u10E7\u10D0\u10E0\u10DD\u10D6\u10D4"
+      - language: 8
+        text: "Vere l\xF5hn tekitab minus soovi r\xFCnnata ja r\xFCnnata l\xF5hna
+          allikat"
+      - language: 9
+        text: L'odeur du sang me donne envie d'attaquer et d'attaquer la source de
+          l'odeur
+      - language: 10
+        text: "\u049A\u0430\u043D\u043D\u044B\u04A3 \u0438\u0456\u0441\u0456 \u043C\u0435\u043D\u0456
+          \u0438\u0456\u0441\u0442\u0456\u04A3 \u043A\u04E9\u0437\u0456\u043D\u0435
+          \u0448\u0430\u0431\u0443\u044B\u043B \u0436\u0430\u0441\u0430\u043F, \u0448\u0430\u0431\u0443\u044B\u043B
+          \u0436\u0430\u0441\u0430\u0443\u0434\u044B \u049B\u0430\u043B\u0430\u0439\u0434\u044B"
+      - language: 11
+        text: "\u041A\u0430\u043D\u0434\u044B\u043D \u0436\u044B\u0442\u044B \u043C\u0435\u043D\u0438
+          \u0436\u044B\u0442\u0442\u044B\u043D \u0431\u0443\u043B\u0430\u0433\u044B\u043D\u0430
+          \u043A\u043E\u043B \u0441\u0430\u043B\u0433\u044B\u043C \u043A\u0435\u043B\u0435\u0442"
+      - language: 12
+        text: "D\u0117l kraujo kvapo norisi pulti ir pulti prie kvapo \u0161altinio"
+      - language: 13
+        text: "Asins smar\u017Ea man rada v\u0113lmi uzbrukt un uzbrukt smakas avotam"
+      - language: 14
+        text: "Mirosul de s\xE2nge m\u0103 face s\u0103 vreau s\u0103 atac \u0219i
+          s\u0103 atac sursa mirosului"
+      - language: 15
+        text: "\u0411\u04EF\u0438 \u0445\u0443\u043D \u043C\u0430\u0440\u043E \u0432\u043E\u0434\u043E\u0440
+          \u043C\u0435\u043A\u0443\u043D\u0430\u0434, \u043A\u0438 \u0431\u0430 \u043C\u0430\u043D\u0431\u0430\u0438
+          \u0431\u04EF\u0439 \u04B3\u0430\u043C\u043B\u0430 \u043A\u0443\u043D\u0430\u043C
+          \u0432\u0430 \u04B3\u0430\u043C\u043B\u0430 \u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Gany\u0148 ysy meni ysy\u0148 \xE7e\u015Fmesine h\xFCj\xFCm etmek
+          we h\xFCj\xFCm etmek isle\xFD\xE4r"
+      - language: 17
+        text: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0456 \u0432\u0438\u043A\u043B\u0438\u043A\u0430\u0454
+          \u0432 \u043C\u0435\u043D\u0435 \u0431\u0430\u0436\u0430\u043D\u043D\u044F
+          \u0430\u0442\u0430\u043A\u0443\u0432\u0430\u0442\u0438 \u0442\u0430 \u043D\u0430\u043F\u0430\u0441\u0442\u0438
+          \u043D\u0430 \u0434\u0436\u0435\u0440\u0435\u043B\u043E \u0437\u0430\u043F\u0430\u0445\u0443"
+      - language: 18
+        text: Qonning hidi meni hidning manbasiga hujum qilish va hujum qilishni
+          xohlaydi
+      - language: 19
+        text: El olor a sangre me da ganas de atacar y atacar la fuente del olor.
+      - language: 20
+        text: "O cheiro de sangue me d\xE1 vontade de atacar e atacar a fonte do
+          cheiro"
+      - language: 21
+        text: "\u0631\u0627\u0626\u062D\u0629 \u0627\u0644\u062F\u0645 \u062A\u062C\u0639\u0644\u0646\u064A
+          \u0623\u0631\u063A\u0628 \u0641\u064A \u0645\u0647\u0627\u062C\u0645\u0629
+          \u0645\u0635\u062F\u0631 \u0627\u0644\u0631\u0627\u0626\u062D\u0629 \u0648\u0645\u0647\u0627\u062C\u0645\u062A\u0647"
+      - language: 22
+        text: Bau darah membuatku ingin menyerang dan menyerang sumber baunya
+      - language: 23
+        text: "\u8840\u306E\u5302\u3044\u306F\u5302\u3044\u306E\u6839\u6E90\u3092\u653B\u6483\u3057\u3066\u653B\u6483\u3057\u305F\u304F\u306A\u308B"
+      - language: 24
+        text: L'odore del sangue mi fa venire voglia di attaccare e attaccare la
+          fonte dell'odore
+      - language: 25
+        text: Der Geruch von Blut weckt in mir den Wunsch, die Quelle des Geruchs
+          anzugreifen und anzugreifen
+      - language: 26
+        text: "\u0916\u0942\u0928 \u0915\u0940 \u0917\u0902\u0927 \u092E\u0941\u091D\u0947
+          \u0917\u0902\u0927 \u0915\u0947 \u0938\u094D\u0930\u094B\u0924 \u092A\u0930
+          \u0939\u092E\u0932\u093E \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F
+          \u092A\u094D\u0930\u0947\u0930\u093F\u0924 \u0915\u0930\u0924\u0940 \u0939\u0948"
+  - _resultDataId:
+      _value: Hunter
+    _localizedText:
+      _defaultText: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E
+        \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438, \u0447\u0442\u043E\u0431\u044B
+        \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0438\u0442\u044C \u043C\u0435\u0441\u0442\u043E\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435
+        \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445 "
+      _languages:
+      - language: 0
+        text: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E \u0437\u0430\u043F\u0430\u0445
+          \u043A\u0440\u043E\u0432\u0438, \u0447\u0442\u043E\u0431\u044B \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0438\u0442\u044C
+          \u043C\u0435\u0441\u0442\u043E\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435
+          \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445"
+      - language: 1
+        text: I use the scent of blood to locate survivors
+      - language: 2
+        text: "Hayatta kalanlar\u0131n yerini tespit etmek i\xE7in kan\u0131n kokusunu
+          kullan\u0131yorum"
+      - language: 3
+        text: "Sa\u011F qalanlar\u0131n yerini tapmaq \xFC\xE7\xFCn qan qoxusundan
+          istifad\u0259 edir\u0259m"
+      - language: 4
+        text: "\u042F \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u044E
+          \u043F\u0430\u0445 \u043A\u0440\u044B\u0432\u0456, \u043A\u0430\u0431 \u0432\u044B\u0437\u043D\u0430\u0447\u044B\u0446\u044C
+          \u043C\u0435\u0441\u0446\u0430\u0437\u043D\u0430\u0445\u043E\u0434\u0436\u0430\u043D\u043D\u0435
+          \u0442\u044B\u0445, \u0445\u0442\u043E \u0432\u044B\u0436\u044B\u045E"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E9\u05EA\u05DE\u05E9 \u05D1\u05E0\u05D9\u05D7\u05D5\u05D7
+          \u05D4\u05D3\u05DD \u05DB\u05D3\u05D9 \u05DC\u05D0\u05EA\u05E8 \u05E0\u05D9\u05E6\u05D5\u05DC\u05D9\u05DD"
+      - language: 6
+        text: "\u0535\u057D \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0578\u0582\u0574
+          \u0565\u0574 \u0561\u0580\u0575\u0561\u0576 \u0562\u0578\u0582\u0575\u0580\u0568\u055D
+          \u0583\u0580\u056F\u057E\u0561\u056E\u0576\u0565\u0580\u056B\u0576 \u0563\u057F\u0576\u0565\u056C\u0578\u0582
+          \u0570\u0561\u0574\u0561\u0580"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E1\u10D8\u10E1\u10EE\u10DA\u10D8\u10E1 \u10E1\u10E3\u10E0\u10DC\u10D4\u10DA\u10E1
+          \u10D5\u10D8\u10E7\u10D4\u10DC\u10D4\u10D1 \u10D2\u10D0\u10D3\u10D0\u10E0\u10E9\u10D4\u10DC\u10D8\u10DA\u10D4\u10D1\u10D8\u10E1
+          \u10E1\u10D0\u10DE\u10DD\u10D5\u10DC\u10D4\u10DA\u10D0\u10D3"
+      - language: 8
+        text: "Ma kasutan elluj\xE4\xE4nute leidmiseks vere l\xF5hna"
+      - language: 9
+        text: J'utilise l'odeur du sang pour localiser les survivants
+      - language: 10
+        text: "\u041C\u0435\u043D \u0442\u0456\u0440\u0456 \u049B\u0430\u043B\u0493\u0430\u043D\u0434\u0430\u0440\u0434\u044B
+          \u0442\u0430\u0431\u0443 \u04AF\u0448\u0456\u043D \u049B\u0430\u043D\u043D\u044B\u04A3
+          \u0438\u0456\u0441\u0456\u043D \u049B\u043E\u043B\u0434\u0430\u043D\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0430\u043C\u0430\u043D \u043A\u0430\u043B\u0433\u0430\u043D\u0434\u0430\u0440\u0434\u044B
+          \u0442\u0430\u0431\u0443\u0443 \u04AF\u0447\u04AF\u043D \u043A\u0430\u043D\u0434\u044B\u043D
+          \u0436\u044B\u0442\u044B\u043D \u043A\u043E\u043B\u0434\u043E\u043D\u043E\u043C"
+      - language: 12
+        text: "A\u0161 naudoju kraujo kvap\u0105, kad suras\u010Diau i\u0161gyvenusius"
+      - language: 13
+        text: "Es izmantoju asi\u0146u smar\u017Eu, lai atrastu izdz\u012Bvoju\u0161os"
+      - language: 14
+        text: "Folosesc parfumul s\xE2ngelui pentru a localiza supravie\u021Buitorii"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u04EF\u0438 \u0445\u0443\u043D\u0440\u043E
+          \u0431\u0430\u0440\u043E\u0438 \u043F\u0430\u0439\u0434\u043E \u043A\u0430\u0440\u0434\u0430\u043D\u0438
+          \u043D\u0430\u04B7\u043E\u0442\u0451\u0444\u0442\u0430\u0433\u043E\u043D
+          \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430 \u043C\u0435\u0431\u0430\u0440\u0430\u043C"
+      - language: 16
+        text: "Diri galanlary tapmak \xFC\xE7in gany\u0148 ysyny ulan\xFDaryn"
+      - language: 17
+        text: "\u042F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u044E
+          \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0456, \u0449\u043E\u0431
+          \u0432\u0438\u0437\u043D\u0430\u0447\u0438\u0442\u0438 \u043C\u0456\u0441\u0446\u0435\u0437\u043D\u0430\u0445\u043E\u0434\u0436\u0435\u043D\u043D\u044F
+          \u0442\u0438\u0445, \u0445\u0442\u043E \u0432\u0438\u0436\u0438\u0432"
+      - language: 18
+        text: Men omon qolganlarni topish uchun qonning hididan foydalanaman
+      - language: 19
+        text: Utilizo el olor de la sangre para localizar a los supervivientes.
+      - language: 20
+        text: Eu uso o cheiro de sangue para localizar sobreviventes
+      - language: 21
+        text: "\u0623\u0633\u062A\u062E\u062F\u0645 \u0631\u0627\u0626\u062D\u0629
+          \u0627\u0644\u062F\u0645 \u0644\u062A\u062D\u062F\u064A\u062F \u0645\u0643\u0627\u0646
+          \u0627\u0644\u0646\u0627\u062C\u064A\u0646"
+      - language: 22
+        text: Saya menggunakan aroma darah untuk menemukan korban yang selamat
+      - language: 23
+        text: "\u79C1\u306F\u8840\u306E\u5302\u3044\u3092\u4F7F\u3063\u3066\u751F\u5B58\u8005\u3092\u898B\u3064\u3051\u307E\u3059"
+      - language: 24
+        text: Uso l'odore del sangue per localizzare i sopravvissuti
+      - language: 25
+        text: "Ich nutze den Blutgeruch, um \xDCberlebende zu orten"
+      - language: 26
+        text: "\u091C\u0940\u0935\u093F\u0924 \u092C\u091A\u0947 \u0932\u094B\u0917\u094B\u0902
+          \u0915\u093E \u092A\u0924\u093E \u0932\u0917\u093E\u0928\u0947 \u0915\u0947
+          \u0932\u093F\u090F \u092E\u0948\u0902 \u0916\u0942\u0928 \u0915\u0940 \u0917\u0902\u0927
+          \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Smoker
+    _localizedText:
+      _defaultText: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+        \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438 \u0434\u043B\u044F
+        \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u044F \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445
+        \u0432 \u043C\u043E\u044E \u043B\u043E\u0432\u0443\u0448\u043A\u0443"
+      _languages:
+      - language: 0
+        text: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+          \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438 \u0434\u043B\u044F
+          \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u044F \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445
+          \u0432 \u043C\u043E\u044E \u043B\u043E\u0432\u0443\u0448\u043A\u0443"
+      - language: 1
+        text: I can use the scent of blood to attract survivors to my trap.
+      - language: 2
+        text: "Hayatta kalanlar\u0131 tuza\u011F\u0131ma \xE7ekmek i\xE7in kan kokusunu
+          kullanabilirim."
+      - language: 3
+        text: "Sa\u011F qalanlar\u0131 t\u0259l\u0259m\u0259 \xE7\u0259km\u0259k
+          \xFC\xE7\xFCn qan qoxusundan istifad\u0259 ed\u0259 bil\u0259r\u0259m."
+      - language: 4
+        text: "\u042F \u043C\u0430\u0433\u0443 \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u0446\u044C
+          \u043F\u0430\u0445 \u043A\u0440\u044B\u0432\u0456 \u0434\u043B\u044F \u043F\u0440\u044B\u0446\u044F\u0433\u043D\u0435\u043D\u043D\u044F
+          \u0442\u044B\u0445, \u0445\u0442\u043E \u0432\u044B\u0436\u044B\u045E \u0443
+          \u043C\u0430\u044E \u043F\u0430\u0441\u0442\u043A\u0443"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05D9\u05DB\u05D5\u05DC \u05DC\u05D4\u05E9\u05EA\u05DE\u05E9
+          \u05D1\u05E0\u05D9\u05D7\u05D5\u05D7 \u05D4\u05D3\u05DD \u05DB\u05D3\u05D9
+          \u05DC\u05DE\u05E9\u05D5\u05DA \u05E0\u05D9\u05E6\u05D5\u05DC\u05D9\u05DD
+          \u05DC\u05DE\u05DC\u05DB\u05D5\u05D3\u05EA \u05E9\u05DC\u05D9."
+      - language: 6
+        text: "\u0535\u057D \u056F\u0561\u0580\u0578\u0572 \u0565\u0574 \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0565\u056C
+          \u0561\u0580\u0575\u0561\u0576 \u0562\u0578\u0582\u0575\u0580\u0568, \u0578\u0580\u057A\u0565\u057D\u0566\u056B
+          \u057E\u0565\u0580\u0561\u057A\u0580\u0561\u056E\u0576\u0565\u0580\u056B\u0576
+          \u0563\u0580\u0561\u057E\u0565\u0574 \u056B\u0574 \u056E\u0578\u0582\u0572\u0561\u056F\u0568:"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E8\u10D4\u10DB\u10D8\u10EB\u10DA\u10D8\u10D0 \u10E1\u10D8\u10E1\u10EE\u10DA\u10D8\u10E1
+          \u10E1\u10E3\u10E0\u10DC\u10D4\u10DA\u10D8 \u10D2\u10D0\u10DB\u10DD\u10D5\u10D8\u10E7\u10D4\u10DC\u10DD
+          \u10D2\u10D0\u10D3\u10D0\u10E0\u10E9\u10D4\u10DC\u10D8\u10DA\u10D4\u10D1\u10D8\u10E1
+          \u10DB\u10DD\u10E1\u10D0\u10D6\u10D8\u10D3\u10D0\u10D3 \u10E9\u10D4\u10DB\u10E1
+          \u10EE\u10D0\u10E4\u10D0\u10DC\u10D2\u10E8\u10D8."
+      - language: 8
+        text: "Ma saan kasutada vere l\xF5hna, et meelitada elluj\xE4\xE4jaid oma
+          l\xF5ksu."
+      - language: 9
+        text: "Je peux utiliser l'odeur du sang pour attirer les survivants vers
+          mon pi\xE8ge."
+      - language: 10
+        text: "\u041C\u0435\u043D \u0442\u0456\u0440\u0456 \u049B\u0430\u043B\u0493\u0430\u043D\u0434\u0430\u0440\u0434\u044B
+          \u0442\u04B1\u0437\u0430\u0493\u044B\u043C\u0430 \u0442\u0430\u0440\u0442\u0443
+          \u04AF\u0448\u0456\u043D \u049B\u0430\u043D\u043D\u044B\u04A3 \u0438\u0456\u0441\u0456\u043D
+          \u049B\u043E\u043B\u0434\u0430\u043D\u0430 \u0430\u043B\u0430\u043C\u044B\u043D."
+      - language: 11
+        text: "\u041C\u0435\u043D \u0430\u043C\u0430\u043D \u043A\u0430\u043B\u0433\u0430\u043D\u0434\u0430\u0440\u0434\u044B
+          \u0442\u0443\u0437\u0430\u0433\u044B\u043C\u0430 \u0442\u0430\u0440\u0442\u0443\u0443
+          \u04AF\u0447\u04AF\u043D \u043A\u0430\u043D\u0434\u044B\u043D \u0436\u044B\u0442\u044B\u043D
+          \u043A\u043E\u043B\u0434\u043E\u043D\u043E \u0430\u043B\u0430\u043C."
+      - language: 12
+        text: "Galiu panaudoti kraujo kvap\u0105, kad pritrauk\u010Diau i\u0161gyvenusius
+          \u012F savo sp\u0105stus."
+      - language: 13
+        text: "Es varu izmantot asi\u0146u smar\u017Eu, lai piesaist\u012Btu izdz\u012Bvoju\u0161os
+          savam slazdam."
+      - language: 14
+        text: "Pot folosi parfumul s\xE2ngelui pentru a atrage supravie\u021Buitorii
+          \xEEn capcana mea."
+      - language: 15
+        text: "\u041C\u0430\u043D \u043C\u0435\u0442\u0430\u0432\u043E\u043D\u0430\u043C
+          \u0430\u0437 \u0431\u04EF\u0438 \u0445\u0443\u043D \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430
+          \u0431\u0430\u0440\u0430\u043C, \u0442\u043E \u043D\u0430\u04B7\u043E\u0442\u0451\u0444\u0442\u0430\u0433\u043E\u043D\u0440\u043E
+          \u0431\u0430 \u0434\u043E\u043C\u0438 \u0445\u0443\u0434 \u04B7\u0430\u043B\u0431
+          \u043A\u0443\u043D\u0430\u043C."
+      - language: 16
+        text: "Duzdan diri galanlary \xE7ekmek \xFC\xE7in gany\u0148 ysyny ulanyp
+          bilerin."
+      - language: 17
+        text: "\u042F \u043C\u043E\u0436\u0443 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u0432\u0430\u0442\u0438
+          \u0437\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0456 \u0434\u043B\u044F
+          \u0437\u0430\u043B\u0443\u0447\u0435\u043D\u043D\u044F \u0442\u0438\u0445,
+          \u0445\u0442\u043E \u0432\u0438\u0436\u0438\u0432 \u0443 \u043C\u043E\u044E
+          \u043F\u0430\u0441\u0442\u043A\u0443"
+      - language: 18
+        text: Men omon qolganlarni tuzog'imga jalb qilish uchun qonning hididan foydalanishim
+          mumkin.
+      - language: 19
+        text: Puedo usar el olor de la sangre para atraer supervivientes a mi trampa.
+      - language: 20
+        text: Posso usar o cheiro de sangue para atrair sobreviventes para minha
+          armadilha.
+      - language: 21
+        text: "\u064A\u0645\u0643\u0646\u0646\u064A \u0627\u0633\u062A\u062E\u062F\u0627\u0645
+          \u0631\u0627\u0626\u062D\u0629 \u0627\u0644\u062F\u0645 \u0644\u062C\u0630\u0628
+          \u0627\u0644\u0646\u0627\u062C\u064A\u0646 \u0625\u0644\u0649 \u0641\u062E\u0651\u064A."
+      - language: 22
+        text: Saya bisa menggunakan aroma darah untuk menarik orang yang selamat
+          ke perangkap saya.
+      - language: 23
+        text: "\u8840\u306E\u9999\u308A\u3092\u4F7F\u3063\u3066\u751F\u5B58\u8005\u3092\u7F60\u306B\u5F15\u304D\u5BC4\u305B\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002"
+      - language: 24
+        text: Posso usare l'odore del sangue per attirare i sopravvissuti nella mia
+          trappola.
+      - language: 25
+        text: "Ich kann den Geruch von Blut nutzen, um \xDCberlebende in meine Falle
+          zu locken."
+      - language: 26
+        text: "\u092E\u0948\u0902 \u091C\u0940\u0935\u093F\u0924 \u092C\u091A\u0947
+          \u0932\u094B\u0917\u094B\u0902 \u0915\u094B \u0905\u092A\u0928\u0947 \u091C\u093E\u0932
+          \u0915\u0940 \u0913\u0930 \u0906\u0915\u0930\u094D\u0937\u093F\u0924 \u0915\u0930\u0928\u0947
+          \u0915\u0947 \u0932\u093F\u090F \u0916\u0942\u0928 \u0915\u0940 \u0917\u0902\u0927
+          \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930 \u0938\u0915\u0924\u093E
+          \u0939\u0942\u0902\u0964"
+  - _resultDataId:
+      _value: Tank
+    _localizedText:
+      _defaultText: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438
+        \u0432\u044B\u0437\u044B\u0432\u0430\u0435\u0442 \u0443 \u043C\u0435\u043D\u044F
+        \u043E\u0442\u0432\u0440\u0430\u0449\u0435\u043D\u0438\u0435, \u043D\u043E
+        \u044D\u0442\u043E \u043D\u0435 \u043C\u0435\u0448\u0430\u0435\u0442 \u043C\u043E\u0438\u043C
+        \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F\u043C "
+      _languages:
+      - language: 0
+        text: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0438 \u0432\u044B\u0437\u044B\u0432\u0430\u0435\u0442
+          \u0443 \u043C\u0435\u043D\u044F \u043E\u0442\u0432\u0440\u0430\u0449\u0435\u043D\u0438\u0435,
+          \u043D\u043E \u044D\u0442\u043E \u043D\u0435 \u043C\u0435\u0448\u0430\u0435\u0442
+          \u043C\u043E\u0438\u043C \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F\u043C"
+      - language: 1
+        text: The smell of blood disgusts me, but it doesn't interfere with my actions
+      - language: 2
+        text: "Kan kokusu beni i\u011Frendiriyor ama hareketlerime engel olmuyor"
+      - language: 3
+        text: "Qan\u0131n qoxusu m\u0259ni iyr\u0259ndirs\u0259 d\u0259, h\u0259r\u0259k\u0259tl\u0259rim\u0259
+          mane olmur"
+      - language: 4
+        text: "\u041F\u0430\u0445 \u043A\u0440\u044B\u0432\u0456 \u0432\u044B\u043A\u043B\u0456\u043A\u0430\u0435
+          \u045E \u043C\u044F\u043D\u0435 \u0430\u0433\u0456\u0434\u0443, \u0430\u043B\u0435
+          \u0433\u044D\u0442\u0430 \u043D\u0435 \u043C\u044F\u0448\u0430\u0435 \u043C\u0430\u0456\u043C
+          \u0434\u0437\u0435\u044F\u043D\u043D\u044F\u043C"
+      - language: 5
+        text: "\u05E8\u05D9\u05D7 \u05D4\u05D3\u05DD \u05DE\u05D2\u05E2\u05D9\u05DC
+          \u05D0\u05D5\u05EA\u05D9, \u05D0\u05D1\u05DC \u05D4\u05D5\u05D0 \u05DC\u05D0
+          \u05DE\u05E4\u05E8\u05D9\u05E2 \u05DC\u05DE\u05E2\u05E9\u05D9\u05DD \u05E9\u05DC\u05D9"
+      - language: 6
+        text: "\u0531\u0580\u0575\u0561\u0576 \u0570\u0578\u057F\u0568 \u0566\u0566\u057E\u0578\u0582\u0574
+          \u0567 \u056B\u0576\u0571, \u0562\u0561\u0575\u0581 \u0564\u0561 \u0579\u056B
+          \u056D\u0561\u0576\u0563\u0561\u0580\u0578\u0582\u0574 \u056B\u0574 \u0563\u0578\u0580\u056E\u0578\u0572\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580\u056B\u0576"
+      - language: 7
+        text: "\u10E1\u10D8\u10E1\u10EE\u10DA\u10D8\u10E1 \u10E1\u10E3\u10DC\u10D8
+          \u10DB\u10D4\u10D6\u10D8\u10D6\u10E6\u10D4\u10D1\u10D0, \u10DB\u10D0\u10D2\u10E0\u10D0\u10DB
+          \u10E9\u10D4\u10DB\u10E1 \u10E5\u10DB\u10D4\u10D3\u10D4\u10D1\u10D4\u10D1\u10E8\u10D8
+          \u10EE\u10D4\u10DA\u10E1 \u10D0\u10E0 \u10E3\u10E8\u10DA\u10D8\u10E1"
+      - language: 8
+        text: "Vere l\xF5hn tekitab vastikust, kuid see ei sega mu tegevust"
+      - language: 9
+        text: "L'odeur du sang me d\xE9go\xFBte, mais elle ne g\xEAne pas mes actions"
+      - language: 10
+        text: "\u049A\u0430\u043D\u043D\u044B\u04A3 \u0438\u0456\u0441\u0456 \u043C\u0435\u043D\u0456
+          \u0436\u0438\u0456\u0440\u043A\u0435\u043D\u0434\u0456\u0440\u0435\u0434\u0456,
+          \u0431\u0456\u0440\u0430\u049B \u0431\u04B1\u043B \u043C\u0435\u043D\u0456\u04A3
+          \u04D9\u0440\u0435\u043A\u0435\u0442\u0442\u0435\u0440\u0456\u043C\u0435
+          \u043A\u0435\u0434\u0435\u0440\u0433\u0456 \u043A\u0435\u043B\u0442\u0456\u0440\u043C\u0435\u0439\u0434\u0456"
+      - language: 11
+        text: "\u041A\u0430\u043D\u0434\u044B\u043D \u0436\u044B\u0442\u044B \u043C\u0435\u043D\u0438
+          \u0436\u0438\u0439\u0438\u0440\u043A\u0435\u043D\u0435\u0442, \u0431\u0438\u0440\u043E\u043A
+          \u043A\u044B\u043B\u044B\u0433\u044B\u043C\u0430 \u0442\u043E\u0441\u043A\u043E\u043E\u043B
+          \u0431\u043E\u043B\u0431\u043E\u0439\u0442"
+      - language: 12
+        text: "Kraujo kvapas man \u0161lyk\u0161tus, bet tai netrukdo mano veiksmams"
+      - language: 13
+        text: "Asins smaka man riebjas, bet manai r\u012Bc\u012Bbai netrauc\u0113"
+      - language: 14
+        text: "Mirosul de s\xE2nge m\u0103 dezgust\u0103, dar nu interfereaz\u0103
+          cu ac\u021Biunile mele"
+      - language: 15
+        text: "\u0411\u04EF\u0438 \u0445\u0443\u043D \u043C\u0430\u0440\u043E \u043D\u0430\u0444\u0440\u0430\u0442
+          \u043C\u0435\u043A\u0443\u043D\u0430\u0434, \u0430\u043C\u043C\u043E \u0431\u0430
+          \u043A\u0438\u0440\u0434\u043E\u0440\u0438 \u043C\u0430\u043D \u0445\u0430\u043B\u0430\u043B
+          \u043D\u0430\u043C\u0435\u0440\u0430\u0441\u043E\u043D\u0430\u0434"
+      - language: 16
+        text: "Gany\u0148 ysy meni biynjalyk ed\xFD\xE4r, \xFD\xF6ne bu meni\u0148
+          hereketlerime p\xE4sgel berme\xFD\xE4r"
+      - language: 17
+        text: "\u0417\u0430\u043F\u0430\u0445 \u043A\u0440\u043E\u0432\u0456 \u0432\u0438\u043A\u043B\u0438\u043A\u0430\u0454
+          \u0443 \u043C\u0435\u043D\u0435 \u043E\u0433\u0438\u0434\u0443, \u0430\u043B\u0435
+          \u0446\u0435 \u043D\u0435 \u0437\u0430\u0432\u0430\u0436\u0430\u0454 \u043C\u043E\u0457\u043C
+          \u0434\u0456\u044F\u043C"
+      - language: 18
+        text: Qon hidi meni jirkanadi, lekin harakatlarimga xalaqit bermaydi
+      - language: 19
+        text: El olor a sangre me repugna, pero no interfiere con mis acciones.
+      - language: 20
+        text: "O cheiro de sangue me d\xE1 nojo, mas n\xE3o interfere nas minhas
+          a\xE7\xF5es"
+      - language: 21
+        text: "\u0631\u0627\u0626\u062D\u0629 \u0627\u0644\u062F\u0645 \u062A\u062B\u064A\u0631
+          \u0627\u0634\u0645\u0626\u0632\u0627\u0632\u064A\u060C \u0644\u0643\u0646\u0647\u0627
+          \u0644\u0627 \u062A\u062A\u0639\u0627\u0631\u0636 \u0645\u0639 \u062A\u0635\u0631\u0641\u0627\u062A\u064A"
+      - language: 22
+        text: Bau darah membuatku jijik, tapi tidak mengganggu tindakanku
+      - language: 23
+        text: "\u8840\u306E\u5302\u3044\u306F\u5ACC\u3060\u3051\u3069\u3001\u884C\u52D5\u306B\u306F\u652F\u969C\u306A\u3044\u3088"
+      - language: 24
+        text: L'odore del sangue mi disgusta, ma non interferisce con le mie azioni
+      - language: 25
+        text: "Der Geruch von Blut ekelt mich an, aber er beeintr\xE4chtigt meine
+          Handlungen nicht"
+      - language: 26
+        text: "\u0916\u093C\u0942\u0928 \u0915\u0940 \u0917\u0902\u0927 \u0938\u0947
+          \u092E\u0941\u091D\u0947 \u0918\u0943\u0923\u093E \u0939\u094B\u0924\u0940
+          \u0939\u0948, \u0932\u0947\u0915\u093F\u0928 \u092F\u0939 \u092E\u0947\u0930\u0947
+          \u0915\u093E\u0930\u094D\u092F\u094B\u0902 \u092E\u0947\u0902 \u0939\u0938\u094D\u0924\u0915\u094D\u0937\u0947\u092A
+          \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0940"

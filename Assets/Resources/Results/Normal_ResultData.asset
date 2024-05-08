@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b6cdadd3e32004b8ebadbc0deb1979, type: 3}
+  m_Name: Normal_ResultData
+  m_EditorClassIdentifier: 
+  _id: Normal
+  _background: {fileID: 21300000, guid: f56780b6767b0164e91895a01bd64685, type: 3}
+  _title:
+    _defaultText: "\u0412\u044B \u043E\u0431\u044B\u0447\u043D\u044B\u0439 \u0437\u043E\u043C\u0431\u0438"
+    _languages:
+    - language: 0
+      text: "\u0412\u044B \u043E\u0431\u044B\u0447\u043D\u044B\u0439 \u0437\u043E\u043C\u0431\u0438"
+    - language: 1
+      text: Are you a regular zombie?
+    - language: 2
+      text: "S\u0131radan bir zombi misin?"
+    - language: 3
+      text: Siz adi zombisiniz?
+    - language: 4
+      text: "\u0412\u044B \u0437\u0432\u044B\u0447\u0430\u0439\u043D\u044B \u0437\u043E\u043C\u0431\u0456"
+    - language: 5
+      text: "\u05D4\u05D0\u05DD \u05D0\u05EA\u05D4 \u05D6\u05D5\u05DE\u05D1\u05D9
+        \u05E8\u05D2\u05D9\u05DC?"
+    - language: 6
+      text: "\u0534\u0578\u0582\u0584 \u057D\u0578\u057E\u0578\u0580\u0561\u056F\u0561\u0576
+        \u0566\u0578\u0574\u0562\u056B\u055E \u0565\u0584:"
+    - language: 7
+      text: "\u10E9\u10D5\u10D4\u10E3\u10DA\u10D4\u10D1\u10E0\u10D8\u10D5\u10D8 \u10D6\u10DD\u10DB\u10D1\u10D8
+        \u10EE\u10D0\u10E0?"
+    - language: 8
+      text: Kas sa oled tavaline zombi?
+    - language: 9
+      text: "\xCAtes-vous un zombie ordinaire ?"
+    - language: 10
+      text: "\u0421\u0456\u0437 \u043A\u04D9\u0434\u0456\u043C\u0433\u0456 \u0437\u043E\u043C\u0431\u0438\u0441\u0456\u0437
+        \u0431\u0435?"
+    - language: 11
+      text: "\u0421\u0438\u0437 \u043A\u0430\u0434\u0438\u043C\u043A\u0438 \u0437\u043E\u043C\u0431\u0438\u0441\u0438\u0437\u0431\u0438?"
+    - language: 12
+      text: Ar tu eilinis zombis?
+    - language: 13
+      text: Vai tu esi parasts zombijs?
+    - language: 14
+      text: "E\u0219ti un zombi obi\u0219nuit?"
+    - language: 15
+      text: "\u041E\u0451 \u0448\u0443\u043C\u043E \u0437\u043E\u043C\u0431\u0438
+        \u043C\u0443\u049B\u0430\u0440\u0440\u0430\u0440\u04E3 \u04B3\u0430\u0441\u0442\u0435\u0434?"
+    - language: 16
+      text: Siz adaty zombi?
+    - language: 17
+      text: "\u0412\u0438 \u0437\u0432\u0438\u0447\u0430\u0439\u043D\u0438\u0439
+        \u0437\u043E\u043C\u0431\u0456"
+    - language: 18
+      text: Siz oddiy zombimisiz?
+    - language: 19
+      text: "\xBFEres un zombi normal?"
+    - language: 20
+      text: "Voc\xEA \xE9 um zumbi normal?"
+    - language: 21
+      text: "\u0647\u0644 \u0623\u0646\u062A \u0632\u0648\u0645\u0628\u064A \u0639\u0627\u062F\u064A\u061F"
+    - language: 22
+      text: Apakah Anda zombie biasa?
+    - language: 23
+      text: "\u3042\u306A\u305F\u306F\u666E\u901A\u306E\u30BE\u30F3\u30D3\u3067\u3059\u304B\uFF1F"
+    - language: 24
+      text: Sei uno zombie normale?
+    - language: 25
+      text: Bist du ein normaler Zombie?
+    - language: 26
+      text: "\u0915\u094D\u092F\u093E \u0906\u092A \u090F\u0915 \u0928\u093F\u092F\u092E\u093F\u0924
+        \u091C\u093C\u094B\u0902\u092C\u0940 \u0939\u0948\u0902?"
+  _description:
+    _defaultText: "\u041E\u0431\u044B\u0447\u043D\u044B\u0439 \u0437\u043E\u043C\u0431\u0438
+      \u2014 \u0447\u0430\u0441\u0442\u044C \u0431\u0435\u0437\u043B\u0438\u043A\u043E\u0439
+      \u0442\u043E\u043B\u043F\u044B \u0433\u043E\u043B\u043E\u0434\u043D\u043E\u0439
+      \u0438 \u043E\u0447\u0435\u043D\u044C \u0437\u043B\u043E\u0439."
+    _languages:
+    - language: 0
+      text: "\u041E\u0431\u044B\u0447\u043D\u044B\u0439 \u0437\u043E\u043C\u0431\u0438
+        \u2014 \u0447\u0430\u0441\u0442\u044C \u0431\u0435\u0437\u043B\u0438\u043A\u043E\u0439
+        \u0442\u043E\u043B\u043F\u044B \u0433\u043E\u043B\u043E\u0434\u043D\u043E\u0439
+        \u0438 \u043E\u0447\u0435\u043D\u044C \u0437\u043B\u043E\u0439."
+    - language: 1
+      text: An ordinary zombie is part of a faceless crowd that is hungry and very
+        angry.
+    - language: 2
+      text: "S\u0131radan bir zombi, a\xE7 ve \xE7ok k\u0131zg\u0131n, me\xE7hul
+        bir kalabal\u0131\u011F\u0131n par\xE7as\u0131d\u0131r."
+    - language: 3
+      text: "Adi bir zombi ac v\u0259 \xE7ox q\u0259z\u0259bli simas\u0131z k\xFCtl\u0259nin
+        bir hiss\u0259sidir."
+    - language: 4
+      text: "\u0417\u0432\u044B\u0447\u0430\u0439\u043D\u044B \u0437\u043E\u043C\u0431\u0456
+        - \u0447\u0430\u0441\u0442\u043A\u0430 \u0431\u0435\u0437\u0430\u0431\u043B\u0456\u0447\u043D\u0430\u0433\u0430
+        \u043D\u0430\u0442\u043E\u045E\u043F\u0443 \u0433\u0430\u043B\u043E\u0434\u043D\u0430\u0439
+        \u0456 \u0432\u0435\u043B\u044C\u043C\u0456 \u0437\u043B\u044B."
+    - language: 5
+      text: "\u05D6\u05D5\u05DE\u05D1\u05D9 \u05E8\u05D2\u05D9\u05DC \u05D4\u05D5\u05D0
+        \u05D7\u05DC\u05E7 \u05DE\u05E7\u05D4\u05DC \u05D7\u05E1\u05E8 \u05E4\u05E0\u05D9\u05DD
+        \u05E8\u05E2\u05D1 \u05D5\u05DB\u05D5\u05E2\u05E1 \u05DE\u05D0\u05D5\u05D3."
+    - language: 6
+      text: "\u054D\u0578\u057E\u0578\u0580\u0561\u056F\u0561\u0576 \u0566\u0578\u0574\u0562\u056B\u0568
+        \u0561\u0576\u0564\u0565\u0574 \u0561\u0574\u0562\u0578\u056D\u056B \u0574\u056B
+        \u0574\u0561\u057D\u0576 \u0567, \u0578\u0580\u0568 \u057D\u0578\u057E\u0561\u056E
+        \u0567 \u0587 \u0577\u0561\u057F \u0566\u0561\u0575\u0580\u0561\u0581\u0561\u056E:"
+    - language: 7
+      text: "\u10E9\u10D5\u10D4\u10E3\u10DA\u10D4\u10D1\u10E0\u10D8\u10D5\u10D8 \u10D6\u10DD\u10DB\u10D1\u10D8
+        \u10D0\u10E0\u10D8\u10E1 \u10E3\u10E1\u10D0\u10EE\u10DD \u10D1\u10E0\u10D1\u10DD\u10E1
+        \u10DC\u10D0\u10EC\u10D8\u10DA\u10D8, \u10E0\u10DD\u10DB\u10D4\u10DA\u10D8\u10EA
+        \u10DB\u10E8\u10D8\u10D4\u10E0\u10D8 \u10D3\u10D0 \u10EB\u10D0\u10DA\u10D8\u10D0\u10DC
+        \u10D2\u10D0\u10D1\u10E0\u10D0\u10D6\u10D4\u10D1\u10E3\u10DA\u10D8\u10D0."
+    - language: 8
+      text: "Tavaline zombi on osa n\xE4ota rahvahulgast, mis on n\xE4ljane ja v\xE4ga
+        vihane."
+    - language: 9
+      text: "Un zombie ordinaire fait partie d\u2019une foule sans visage, affam\xE9e
+        et tr\xE8s en col\xE8re."
+    - language: 10
+      text: "\u049A\u0430\u0440\u0430\u043F\u0430\u0439\u044B\u043C \u0437\u043E\u043C\u0431\u0438
+        - \u0430\u0448 \u0436\u04D9\u043D\u0435 \u049B\u0430\u0442\u0442\u044B \u0430\u0448\u0443\u043B\u0430\u043D\u0493\u0430\u043D
+        \u0431\u0435\u0442-\u0436\u04AF\u0437\u0456 \u0436\u043E\u049B \u0442\u043E\u0431\u044B\u0440\u0434\u044B\u04A3
+        \u0431\u04E9\u043B\u0456\u0433\u0456."
+    - language: 11
+      text: "\u041A\u0430\u0434\u0438\u043C\u043A\u0438 \u0437\u043E\u043C\u0431\u0438
+        \u0430\u0447\u043A\u0430 \u0436\u0430\u043D\u0430 \u0430\u0431\u0434\u0430\u043D
+        \u0430\u0447\u0443\u0443\u043B\u0430\u043D\u0433\u0430\u043D \u0431\u0435\u0442\u0438
+        \u0436\u043E\u043A \u044D\u043B\u0434\u0438\u043D \u0431\u0438\u0440 \u0431\u04E9\u043B\u04AF\u0433\u04AF."
+    - language: 12
+      text: "Paprastas zombis yra beveid\u0117s minios, kuri yra alkana ir labai
+        pikta, dalis."
+    - language: 13
+      text: "Parasts zombijs ir da\u013Ca no p\u016B\u013Ca bez sejas, kas ir izsalcis
+        un \u013Coti dusm\u012Bgs."
+    - language: 14
+      text: "Un zombi obi\u0219nuit face parte dintr-o mul\u021Bime f\u0103r\u0103
+        chip care este foame \u0219i foarte sup\u0103rat\u0103."
+    - language: 15
+      text: "\u0417\u043E\u043C\u0431\u0438 \u043E\u0434\u0434\u04E3 \u044F\u043A
+        \u049B\u0438\u0441\u043C\u0438 \u0438\u0437\u0434\u0438\u04B3\u043E\u043C\u0438
+        \u0431\u0435\u0447\u0435\u04B3\u0440\u0430\u0435\u0441\u0442, \u043A\u0438
+        \u0433\u0443\u0440\u0443\u0441\u043D\u0430 \u0432\u0430 \u0445\u0435\u043B\u0435
+        \u0445\u0430\u0448\u043C\u0433\u0438\u043D \u0430\u0441\u0442."
+    - language: 16
+      text: "Ordinary\xF6neke\xFD zombi a\xE7 we gaty gaharly \xFD\xFCzbe-\xFD\xFCz
+        m\xE4rek\xE4ni\u0148 bir b\xF6legidir."
+    - language: 17
+      text: "\u0417\u0432\u0438\u0447\u0430\u0439\u043D\u0438\u0439 \u0437\u043E\u043C\u0431\u0456
+        - \u0447\u0430\u0441\u0442\u0438\u043D\u0430 \u0431\u0435\u0437\u043B\u0438\u043A\u043E\u0433\u043E
+        \u043D\u0430\u0442\u043E\u0432\u043F\u0443 \u0433\u043E\u043B\u043E\u0434\u043D\u043E\u0433\u043E
+        \u0456 \u0434\u0443\u0436\u0435 \u0437\u043B\u0438\u0439."
+    - language: 18
+      text: Oddiy zombi och va juda g'azablangan yuzsiz olomonning bir qismidir.
+    - language: 19
+      text: "Un zombi com\xFAn y corriente es parte de una multitud sin rostro, hambrienta
+        y muy enojada."
+    - language: 20
+      text: "Um zumbi comum faz parte de uma multid\xE3o sem rosto que est\xE1 com
+        fome e com muita raiva."
+    - language: 21
+      text: "\u0627\u0644\u0632\u0648\u0645\u0628\u064A \u0627\u0644\u0639\u0627\u062F\u064A
+        \u0647\u0648 \u062C\u0632\u0621 \u0645\u0646 \u062D\u0634\u062F \u0645\u062C\u0647\u0648\u0644
+        \u0627\u0644\u0647\u0648\u064A\u0629 \u062C\u0627\u0626\u0639 \u0648\u063A\u0627\u0636\u0628
+        \u062C\u062F\u064B\u0627."
+    - language: 22
+      text: Zombi biasa adalah bagian dari kerumunan tak berwajah yang lapar dan
+        sangat marah.
+    - language: 23
+      text: "\u666E\u901A\u306E\u30BE\u30F3\u30D3\u306F\u3001\u304A\u8179\u3092\u7A7A\u304B\u305B\u3066\u975E\u5E38\u306B\u6012\u3063\u3066\u3044\u308B\u9854\u306E\u306A\u3044\u7FA4\u8846\u306E\u4E00\u54E1\u3067\u3059\u3002"
+    - language: 24
+      text: Uno zombi normale fa parte di una folla senza volto, affamata e molto
+        arrabbiata.
+    - language: 25
+      text: "Ein gew\xF6hnlicher Zombie ist Teil einer gesichtslosen Menge, die hungrig
+        und sehr w\xFCtend ist."
+    - language: 26
+      text: "\u090F\u0915 \u0938\u093E\u0927\u093E\u0930\u0923 \u091C\u093C\u094B\u0902\u092C\u0940
+        \u090F\u0915 \u0905\u091C\u094D\u091E\u093E\u0924 \u092D\u0940\u0921\u093C
+        \u0915\u093E \u0939\u093F\u0938\u094D\u0938\u093E \u0939\u0948 \u091C\u094B
+        \u092D\u0942\u0916\u0940 \u0939\u0948 \u0914\u0930 \u092C\u0939\u0941\u0924
+        \u0917\u0941\u0938\u094D\u0938\u0947 \u092E\u0947\u0902 \u0939\u0948\u0964"

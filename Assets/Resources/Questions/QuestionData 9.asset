@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 9
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A \u0442\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0448\u044C\u0441\u044F
+      \u043A \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0435\u0439 \u0441\u0440\u0435\u0434\u0435?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A \u0442\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0448\u044C\u0441\u044F
+        \u043A \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0435\u0439 \u0441\u0440\u0435\u0434\u0435?"
+    - language: 1
+      text: How do you feel about the environment?
+    - language: 2
+      text: "\xC7evre hakk\u0131nda ne d\xFC\u015F\xFCn\xFCyorsunuz?"
+    - language: 3
+      text: "\u018Ftraf m\xFChit\u0259 m\xFCnasib\u0259tiniz nec\u0259dir?"
+    - language: 4
+      text: "\u042F\u043A \u0442\u044B \u0441\u0442\u0430\u0432\u0456\u0448\u0441\u044F
+        \u0434\u0430 \u043D\u0430\u0432\u0430\u043A\u043E\u043B\u044C\u043D\u0430\u0433\u0430
+        \u0430\u0441\u044F\u0440\u043E\u0434\u0434\u0437\u044F?"
+    - language: 5
+      text: "\u05D0\u05D9\u05DA \u05D0\u05EA\u05D4 \u05DE\u05E8\u05D2\u05D9\u05E9
+        \u05DC\u05D2\u05D1\u05D9 \u05D4\u05E1\u05D1\u05D9\u05D1\u05D4?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u0565\u055E\u057D \u0565\u0584 \u057E\u0565\u0580\u0561\u0562\u0565\u0580\u057E\u0578\u0582\u0574
+        \u0577\u0580\u057B\u0561\u056F\u0561 \u0574\u056B\u057B\u0561\u057E\u0561\u0575\u0580\u056B\u0576:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0 \u10D2\u10E0\u10EB\u10DC\u10DD\u10D1\u10D7
+        \u10D2\u10D0\u10E0\u10D4\u10DB\u10DD\u10E1?"
+    - language: 8
+      text: Kuidas suhtute keskkonda?
+    - language: 9
+      text: "Que pensez-vous de l\u2019environnement ?"
+    - language: 10
+      text: "\u0421\u0456\u0437 \u049B\u043E\u0440\u0448\u0430\u0493\u0430\u043D
+        \u043E\u0440\u0442\u0430\u0493\u0430 \u049B\u0430\u043B\u0430\u0439 \u049B\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 11
+      text: "\u0410\u0439\u043B\u0430\u043D\u0430-\u0447\u04E9\u0439\u0440\u04E9\u0433\u04E9
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u043A\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kaip jau\u010Diat\u0117s aplinkai?"
+    - language: 13
+      text: "K\u0101 j\u016Bs j\u016Btaties pret vidi?"
+    - language: 14
+      text: "Cum te sim\u021Bi cu mediul \xEEnconjur\u0103tor?"
+    - language: 15
+      text: "\u0428\u0443\u043C\u043E \u0434\u0430\u0440 \u0431\u043E\u0440\u0430\u0438
+        \u043C\u0443\u04B3\u0438\u0442\u0438 \u0437\u0438\u0441\u0442 \u0447\u04E3
+        \u0433\u0443\u043D\u0430 \u04B3\u0438\u0441 \u043C\u0435\u043A\u0443\u043D\u0435\u0434?"
+    - language: 16
+      text: "Da\u015Fky gur\u015Fawa n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A \u0442\u0438 \u0441\u0442\u0430\u0432\u0438\u0448\u0441\u044F
+        \u0434\u043E \u0434\u043E\u0432\u043A\u0456\u043B\u043B\u044F?"
+    - language: 18
+      text: Atrof-muhitga qanday munosabatdasiz?
+    - language: 19
+      text: "\xBFC\xF3mo te sientes respecto del medio ambiente?"
+    - language: 20
+      text: "Como voc\xEA se sente em rela\xE7\xE3o ao meio ambiente?"
+    - language: 21
+      text: "\u0645\u0627 \u0647\u0648 \u0634\u0639\u0648\u0631\u0643 \u062A\u062C\u0627\u0647
+        \u0627\u0644\u0628\u064A\u0626\u0629\u061F"
+    - language: 22
+      text: Bagaimana perasaan Anda terhadap lingkungan?
+    - language: 23
+      text: "\u74B0\u5883\u306B\u3064\u3044\u3066\u3069\u3046\u601D\u3044\u307E\u3059\u304B\uFF1F"
+    - language: 24
+      text: Come ti senti riguardo all'ambiente?
+    - language: 25
+      text: "Wie denkst du \xFCber die Umwelt?"
+    - language: 26
+      text: "\u0906\u092A \u092A\u0930\u094D\u092F\u093E\u0935\u0930\u0923 \u0915\u0947
+        \u092C\u093E\u0930\u0947 \u092E\u0947\u0902 \u0915\u0948\u0938\u093E \u092E\u0939\u0938\u0942\u0938
+        \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?"
+  _answersData:
+  - _resultDataId:
+      _value: Hunter
+    _localizedText:
+      _defaultText: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E
+        \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E \u0441\u0440\u0435\u0434\u0443
+        \u0432 \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      _languages:
+      - language: 0
+        text: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E
+          \u0441\u0440\u0435\u0434\u0443 \u0432 \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      - language: 1
+        text: I use the environment to my advantage
+      - language: 2
+        text: "Ortam\u0131 lehime kullan\u0131yorum"
+      - language: 3
+        text: "M\u0259n \u0259traf m\xFChitd\u0259n \xF6z xeyrim\u0259 istifad\u0259
+          edir\u0259m"
+      - language: 4
+        text: "\u042F \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u044E
+          \u043D\u0430\u0432\u0430\u043A\u043E\u043B\u044C\u043D\u0430\u0435 \u0430\u0441\u044F\u0440\u043E\u0434\u0434\u0437\u0435
+          \u045E \u0441\u0432\u0430\u0456\u0445 \u043C\u044D\u0442\u0430\u0445"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E9\u05EA\u05DE\u05E9 \u05D1\u05E1\u05D1\u05D9\u05D1\u05D4
+          \u05DC\u05D8\u05D5\u05D1\u05EA\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0578\u0582\u0574
+          \u0565\u0574 \u0574\u056B\u057B\u0561\u057E\u0561\u0575\u0580\u0576 \u056B\u0574
+          \u0585\u0563\u057F\u056B\u0576"
+      - language: 7
+        text: "\u10D2\u10D0\u10E0\u10D4\u10DB\u10DD\u10E1 \u10E9\u10D4\u10DB\u10E1
+          \u10E1\u10D0\u10E1\u10D0\u10E0\u10D2\u10D4\u10D1\u10DA\u10DD\u10D3 \u10D5\u10D8\u10E7\u10D4\u10DC\u10D4\u10D1"
+      - language: 8
+        text: Kasutan keskkonda enda huvides
+      - language: 9
+        text: "J'utilise l'environnement \xE0 mon avantage"
+      - language: 10
+        text: "\u041C\u0435\u043D \u049B\u043E\u0440\u0448\u0430\u0493\u0430\u043D
+          \u043E\u0440\u0442\u0430\u043D\u044B \u04E9\u0437 \u043F\u0430\u0439\u0434\u0430\u043C
+          \u04AF\u0448\u0456\u043D \u043F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0430\u0439\u043B\u0430\u043D\u0430-\u0447\u04E9\u0439\u0440\u04E9\u043D\u04AF
+          \u04E9\u0437 \u043F\u0430\u0439\u0434\u0430\u043C \u04AF\u0447\u04AF\u043D
+          \u043A\u043E\u043B\u0434\u043E\u043D\u043E\u043C"
+      - language: 12
+        text: "Aplink\u0105 naudoju savo naudai"
+      - language: 13
+        text: "Es izmantoju vidi sav\u0101 lab\u0101"
+      - language: 14
+        text: "Folosesc mediul \xEEn avantajul meu"
+      - language: 15
+        text: "\u041C\u0430\u043D \u043C\u0443\u04B3\u0438\u0442\u0438 \u0430\u0442\u0440\u043E\u0444\u0440\u043E
+          \u0431\u0430 \u043C\u0430\u043D\u0444\u0438\u0430\u0442\u0438 \u0445\u0443\u0434
+          \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430 \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Da\u015Fky gur\u015Fawy \xF6z pe\xFDdam \xFC\xE7in ulan\xFDaryn"
+      - language: 17
+        text: "\u042F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u044E
+          \u0434\u043E\u0432\u043A\u0456\u043B\u043B\u044F \u0443 \u0441\u0432\u043E\u0457\u0445
+          \u0446\u0456\u043B\u044F\u0445"
+      - language: 18
+        text: Men atrof-muhitdan o'z manfaatim uchun foydalanaman
+      - language: 19
+        text: Utilizo el medio ambiente a mi favor
+      - language: 20
+        text: Eu uso o meio ambiente a meu favor
+      - language: 21
+        text: "\u0623\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0628\u064A\u0626\u0629
+          \u0644\u0635\u0627\u0644\u062D\u064A"
+      - language: 22
+        text: Saya menggunakan lingkungan untuk keuntungan saya
+      - language: 23
+        text: "\u79C1\u306F\u74B0\u5883\u3092\u81EA\u5206\u306E\u5229\u76CA\u306E\u305F\u3081\u306B\u5229\u7528\u3057\u307E\u3059"
+      - language: 24
+        text: Sfrutto l'ambiente a mio vantaggio
+      - language: 25
+        text: Ich nutze die Umgebung zu meinem Vorteil
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u092A\u0928\u0947 \u0932\u093E\u092D \u0915\u0947
+          \u0932\u093F\u090F \u092A\u0930\u094D\u092F\u093E\u0935\u0930\u0923 \u0915\u093E
+          \u0909\u092A\u092F\u094B\u0917 \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Smoker
+    _localizedText:
+      _defaultText: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0437\u043C\u0435\u043D\u044F\u0442\u044C
+        \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E \u0441\u0440\u0435\u0434\u0443
+        \u0432 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438
+        \u0441\u043E \u0441\u0432\u043E\u0438\u043C\u0438 \u043F\u043E\u0442\u0440\u0435\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438"
+      _languages:
+      - language: 0
+        text: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0437\u043C\u0435\u043D\u044F\u0442\u044C
+          \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E \u0441\u0440\u0435\u0434\u0443
+          \u0432 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438
+          \u0441\u043E \u0441\u0432\u043E\u0438\u043C\u0438 \u043F\u043E\u0442\u0440\u0435\u0431\u043D\u043E\u0441\u0442\u044F\u043C\u0438"
+      - language: 1
+        text: I can change the environment to suit my needs
+      - language: 2
+        text: "Ortam\u0131 ihtiya\xE7lar\u0131ma uyacak \u015Fekilde de\u011Fi\u015Ftirebilirim"
+      - language: 3
+        text: "Ehtiyaclar\u0131ma uy\u011Fun olaraq m\xFChiti d\u0259yi\u015F\u0259
+          bil\u0259r\u0259m"
+      - language: 4
+        text: "\u042F \u043C\u0430\u0433\u0443 \u0437\u043C\u044F\u043D\u044F\u0446\u044C
+          \u043D\u0430\u0432\u0430\u043A\u043E\u043B\u044C\u043D\u0430\u0435 \u0430\u0441\u044F\u0440\u043E\u0434\u0434\u0437\u0435
+          \u045E \u0430\u0434\u043F\u0430\u0432\u0435\u0434\u043D\u0430\u0441\u0446\u0456
+          \u0441\u0430 \u0441\u0432\u0430\u0456\u043C\u0456 \u043F\u0430\u0442\u0440\u044D\u0431\u0430\u043C\u0456"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05D9\u05DB\u05D5\u05DC \u05DC\u05E9\u05E0\u05D5\u05EA
+          \u05D0\u05EA \u05D4\u05E1\u05D1\u05D9\u05D1\u05D4 \u05DB\u05D3\u05D9 \u05E9\u05EA\u05EA\u05D0\u05D9\u05DD
+          \u05DC\u05E6\u05E8\u05DB\u05D9\u05DD \u05E9\u05DC\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u056F\u0561\u0580\u0578\u0572 \u0565\u0574 \u0583\u0578\u056D\u0565\u056C
+          \u0574\u056B\u057B\u0561\u057E\u0561\u0575\u0580\u0568 \u056B\u0574 \u056F\u0561\u0580\u056B\u0584\u0576\u0565\u0580\u056B\u0576
+          \u0570\u0561\u0574\u0561\u057A\u0561\u057F\u0561\u057D\u056D\u0561\u0576"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E8\u10D4\u10DB\u10D8\u10EB\u10DA\u10D8\u10D0 \u10E8\u10D4\u10D5\u10EA\u10D5\u10D0\u10DA\u10DD
+          \u10D2\u10D0\u10E0\u10D4\u10DB\u10DD \u10E9\u10D4\u10DB\u10E1 \u10E1\u10D0\u10ED\u10D8\u10E0\u10DD\u10D4\u10D1\u10D4\u10D1\u10D6\u10D4"
+      - language: 8
+        text: Saan muuta keskkonda vastavalt oma vajadustele
+      - language: 9
+        text: Je peux modifier l'environnement en fonction de mes besoins
+      - language: 10
+        text: "\u041C\u0435\u043D \u04E9\u0437 \u049B\u0430\u0436\u0435\u0442\u0442\u0456\u043B\u0456\u043A\u0442\u0435\u0440\u0456\u043C\u0435
+          \u0441\u04D9\u0439\u043A\u0435\u0441 \u049B\u043E\u0440\u0448\u0430\u0493\u0430\u043D
+          \u043E\u0440\u0442\u0430\u043D\u044B \u04E9\u0437\u0433\u0435\u0440\u0442\u0435
+          \u0430\u043B\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u043C\u0443\u043A\u0442\u0430\u0436\u0434\u044B\u043A\u0442\u0430\u0440\u044B\u043C\u0430
+          \u044B\u043B\u0430\u0439\u044B\u043A \u0447\u04E9\u0439\u0440\u04E9\u043D\u04AF
+          \u04E9\u0437\u0433\u04E9\u0440\u0442\u04E9 \u0430\u043B\u0430\u043C"
+      - language: 12
+        text: "Galiu pakeisti aplink\u0105 pagal savo poreikius"
+      - language: 13
+        text: "Es varu main\u012Bt vidi atbilsto\u0161i sav\u0101m vajadz\u012Bb\u0101m"
+      - language: 14
+        text: "Pot schimba mediul \xEEn func\u021Bie de nevoile mele"
+      - language: 15
+        text: "\u041C\u0430\u043D \u043C\u0435\u0442\u0430\u0432\u043E\u043D\u0430\u043C
+          \u043C\u0443\u04B3\u0438\u0442\u0440\u043E \u043C\u0443\u0432\u043E\u0444\u0438\u049B\u0438
+          \u044D\u04B3\u0442\u0438\u0451\u04B7\u043E\u0442\u0438 \u0445\u0443\u0434
+          \u0442\u0430\u0493\u0439\u0438\u0440 \u0434\u0438\u04B3\u0430\u043C"
+      - language: 16
+        text: "Isleglerime g\xF6r\xE4 da\u015Fky gur\u015Fawy \xFC\xFDtgedip bilerin"
+      - language: 17
+        text: "\u042F \u043C\u043E\u0436\u0443 \u0437\u043C\u0456\u043D\u044E\u0432\u0430\u0442\u0438
+          \u0434\u043E\u0432\u043A\u0456\u043B\u043B\u044F \u0432\u0456\u0434\u043F\u043E\u0432\u0456\u0434\u043D\u043E
+          \u0434\u043E \u0441\u0432\u043E\u0457\u0445 \u043F\u043E\u0442\u0440\u0435\u0431"
+      - language: 18
+        text: Men o'z ehtiyojlarimga mos ravishda muhitni o'zgartirishim mumkin
+      - language: 19
+        text: Puedo cambiar el entorno para adaptarlo a mis necesidades.
+      - language: 20
+        text: "Posso mudar o ambiente para atender \xE0s minhas necessidades"
+      - language: 21
+        text: "\u064A\u0645\u0643\u0646\u0646\u064A \u062A\u063A\u064A\u064A\u0631
+          \u0627\u0644\u0628\u064A\u0626\u0629 \u0644\u062A\u0646\u0627\u0633\u0628
+          \u0627\u062D\u062A\u064A\u0627\u062C\u0627\u062A\u064A"
+      - language: 22
+        text: Saya dapat mengubah lingkungan sesuai kebutuhan saya
+      - language: 23
+        text: "\u81EA\u5206\u306E\u30CB\u30FC\u30BA\u306B\u5408\u308F\u305B\u3066\u74B0\u5883\u3092\u5909\u3048\u308B\u3053\u3068\u304C\u3067\u304D\u308B"
+      - language: 24
+        text: Posso cambiare l'ambiente in base alle mie esigenze
+      - language: 25
+        text: "Ich kann die Umgebung an meine Bed\xFCrfnisse anpassen"
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u092A\u0928\u0940 \u0906\u0935\u0936\u094D\u092F\u0915\u0924\u093E\u0913\u0902
+          \u0915\u0947 \u0905\u0928\u0941\u0930\u0942\u092A \u0935\u093E\u0924\u093E\u0935\u0930\u0923
+          \u0915\u094B \u092C\u0926\u0932 \u0938\u0915\u0924\u093E \u0939\u0942\u0901"
+  - _resultDataId:
+      _value: Tank
+    _localizedText:
+      _defaultText: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044E
+        \u0432\u0441\u0435 \u0432\u043E\u043A\u0440\u0443\u0433 \u0441\u0435\u0431\u044F"
+      _languages:
+      - language: 0
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044E
+          \u0432\u0441\u0435 \u0432\u043E\u043A\u0440\u0443\u0433 \u0441\u0435\u0431\u044F"
+      - language: 1
+        text: I just destroy everything around me
+      - language: 2
+        text: "Etraf\u0131mdaki her \u015Feyi yok ediyorum"
+      - language: 3
+        text: "Sad\u0259c\u0259 \u0259traf\u0131mdak\u0131 h\u0259r \u015Feyi m\u0259hv
+          edir\u0259m"
+      - language: 4
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u0430 \u0440\u0430\u0437\u0431\u0443\u0440\u0430\u044E
+          \u045E\u0441\u0451 \u0432\u0430\u043A\u043E\u043B \u0441\u044F\u0431\u0435"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E4\u05E9\u05D5\u05D8 \u05D4\u05D5\u05E8\u05E1
+          \u05D0\u05EA \u05DB\u05DC \u05DE\u05D4 \u05E9\u05E1\u05D1\u05D9\u05D1\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u0578\u0582\u0572\u0572\u0561\u056F\u056B \u0578\u0579\u0576\u0579\u0561\u0581\u0576\u0578\u0582\u0574
+          \u0565\u0574 \u056B\u0576\u0571 \u0577\u0580\u057B\u0561\u057A\u0561\u057F\u0578\u0572
+          \u0561\u0574\u0565\u0576 \u056B\u0576\u0579"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E3\u10D1\u10E0\u10D0\u10DA\u10DD\u10D3 \u10D5\u10D0\u10DC\u10D0\u10D3\u10D2\u10E3\u10E0\u10D4\u10D1
+          \u10E7\u10D5\u10D4\u10DA\u10D0\u10E4\u10D4\u10E0\u10E1 \u10E9\u10D4\u10DB\u10E1
+          \u10D8\u10E0\u10D2\u10D5\u10DA\u10D8\u10D5"
+      - language: 8
+        text: "Ma lihtsalt h\xE4vitan k\xF5ik enda \xFCmber"
+      - language: 9
+        text: "Je viens de d\xE9truire tout autour de moi"
+      - language: 10
+        text: "\u041C\u0435\u043D \u0430\u0439\u043D\u0430\u043B\u0430\u043C\u0434\u0430\u0493\u044B\u043D\u044B\u04A3
+          \u0431\u04D9\u0440\u0456\u043D \u049B\u04B1\u0440\u0442\u044B\u043F \u0436\u0456\u0431\u0435\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0436\u04E9\u043D \u0433\u0430\u043D\u0430 \u0430\u0439\u043B\u0430\u043D\u0430\u043C\u0434\u0430\u0433\u044B
+          \u043D\u0435\u0440\u0441\u0435\u043B\u0435\u0440\u0434\u0438\u043D \u0431\u0430\u0430\u0440\u044B\u043D
+          \u0436\u043E\u043A \u043A\u044B\u043B\u0430\u043C"
+      - language: 12
+        text: "A\u0161 tiesiog naikinu visk\u0105 aplinkui"
+      - language: 13
+        text: "Es vienk\u0101r\u0161i izn\u012Bcinu visu sev apk\u0101rt"
+      - language: 14
+        text: "Doar distrug tot ce m\u0103 \xEEnconjoar\u0103"
+      - language: 15
+        text: "\u041C\u0430\u043D \u04B3\u0430\u043C\u0430 \u0447\u0438\u0437\u0440\u043E
+          \u0434\u0430\u0440 \u0430\u0442\u0440\u043E\u0444\u0438 \u043C\u0430\u043D
+          \u043D\u0435\u0441\u0442 \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Men di\u0148e t\xF6weregimd\xE4ki \xE4hli zady \xFDok ed\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0440\u0443\u0439\u043D\u0443\u044E
+          \u0432\u0441\u0435 \u043D\u0430\u0432\u043A\u043E\u043B\u043E \u0441\u0435\u0431\u0435"
+      - language: 18
+        text: Men shunchaki atrofimdagi hamma narsani yo'q qilaman
+      - language: 19
+        text: Simplemente destruyo todo lo que me rodea
+      - language: 20
+        text: Eu simplesmente destruo tudo ao meu redor
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0641\u0642\u0637 \u0623\u062F\u0645\u0631 \u0643\u0644
+          \u0634\u064A\u0621 \u0645\u0646 \u062D\u0648\u0644\u064A"
+      - language: 22
+        text: Aku hanya menghancurkan segala sesuatu di sekitarku
+      - language: 23
+        text: "\u5468\u308A\u306E\u3082\u306E\u3059\u3079\u3066\u3092\u7834\u58CA\u3059\u308B\u3060\u3051\u3067\u3059"
+      - language: 24
+        text: "Distruggo semplicemente tutto ci\xF2 che mi circonda"
+      - language: 25
+        text: "Ich zerst\xF6re einfach alles um mich herum"
+      - language: 26
+        text: "\u092E\u0948\u0902 \u092C\u0938 \u0905\u092A\u0928\u0947 \u0906\u0938-\u092A\u093E\u0938
+          \u0915\u0940 \u0939\u0930 \u091A\u0940\u091C\u093C \u0915\u094B \u0928\u0937\u094D\u091F
+          \u0915\u0930 \u0926\u0947\u0924\u093E \u0939\u0942\u0901"
+  - _resultDataId:
+      _value: Witch
+    _localizedText:
+      _defaultText: "\u042F \u0447\u0430\u0441\u0442\u043E \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E
+        \u043D\u0430 \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E
+        \u0441\u0440\u0435\u0434\u0443 \u0441 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0435\u0439"
+      _languages:
+      - language: 0
+        text: "\u042F \u0447\u0430\u0441\u0442\u043E \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E
+          \u043D\u0430 \u043E\u043A\u0440\u0443\u0436\u0430\u044E\u0449\u0443\u044E
+          \u0441\u0440\u0435\u0434\u0443 \u0441 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0435\u0439"
+      - language: 1
+        text: I often react to my environment with aggression
+      - language: 2
+        text: "\xC7evreme s\u0131kl\u0131kla sald\u0131rganl\u0131kla tepki veririm"
+      - language: 3
+        text: "\xC7ox vaxt \u0259traf\u0131ma aqressiv reaksiya verir\u0259m"
+      - language: 4
+        text: "\u042F \u0447\u0430\u0441\u0442\u0430 \u0440\u044D\u0430\u0433\u0443\u044E
+          \u043D\u0430 \u043D\u0430\u0432\u0430\u043A\u043E\u043B\u044C\u043D\u0430\u0435
+          \u0430\u0441\u044F\u0440\u043E\u0434\u0434\u0437\u0435 \u0437 \u0430\u0433\u0440\u044D\u0441\u0456\u044F\u0439"
+      - language: 5
+        text: "\u05DC\u05E2\u05EA\u05D9\u05DD \u05E7\u05E8\u05D5\u05D1\u05D5\u05EA
+          \u05D0\u05E0\u05D9 \u05DE\u05D2\u05D9\u05D1 \u05DC\u05E1\u05D1\u05D9\u05D1\u05D4
+          \u05E9\u05DC\u05D9 \u05D1\u05EA\u05D5\u05E7\u05E4\u05E0\u05D5\u05EA"
+      - language: 6
+        text: "\u0535\u057D \u0570\u0561\u0573\u0561\u056D \u0565\u0574 \u0561\u0580\u0571\u0561\u0563\u0561\u0576\u0584\u0578\u0582\u0574
+          \u056B\u0574 \u0577\u0580\u057B\u0561\u057A\u0561\u057F\u056B\u0576 \u0561\u0563\u0580\u0565\u057D\u056B\u057E\u0578\u0582\u0569\u0575\u0561\u0574\u0562"
+      - language: 7
+        text: "\u10EE\u10E8\u10D8\u10E0\u10D0\u10D3 \u10D5\u10E0\u10D4\u10D0\u10D2\u10D8\u10E0\u10D4\u10D1
+          \u10E9\u10D4\u10DB\u10E1 \u10D2\u10D0\u10E0\u10D4\u10DB\u10DD\u10D6\u10D4
+          \u10D0\u10D2\u10E0\u10D4\u10E1\u10D8\u10D8\u10D7"
+      - language: 8
+        text: Tihti reageerin oma keskkonnale agressiivsusega
+      - language: 9
+        text: "Je r\xE9agis souvent \xE0 mon environnement avec agressivit\xE9"
+      - language: 10
+        text: "\u041C\u0435\u043D \u04E9\u0437 \u043E\u0440\u0442\u0430\u043C\u0430
+          \u0436\u0438\u0456 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044F\u043C\u0435\u043D
+          \u049B\u0430\u0440\u0430\u0439\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u043A\u04E9\u0431\u04AF\u043D\u0447\u04E9 \u0447\u04E9\u0439\u0440\u04E9\u043C\u04E9
+          \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u0434\u04AF\u04AF \u043C\u0430\u043C\u0438\u043B\u0435
+          \u043A\u044B\u043B\u0430\u043C"
+      - language: 12
+        text: "\u012E aplink\u0105 da\u017Enai reaguoju agresija"
+      - language: 13
+        text: "Es bie\u017Ei rea\u0123\u0113ju uz savu vidi ar agresiju"
+      - language: 14
+        text: "Reac\u021Bionez adesea la mediul meu cu agresivitate"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0430\u043A\u0441\u0430\u0440 \u0432\u0430\u049B\u0442
+          \u0431\u0430 \u043C\u0443\u04B3\u0438\u0442\u0438 \u0445\u0443\u0434 \u0431\u043E
+          \u0442\u0430\u04B7\u043E\u0432\u0443\u0437 \u043C\u0443\u043D\u043E\u0441\u0438\u0431\u0430\u0442
+          \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Men k\xF6plen\xE7 da\u015F-t\xF6weregime agressi\xFDa bilen reaksi\xFDa
+          bildir\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u0447\u0430\u0441\u0442\u043E \u0440\u0435\u0430\u0433\u0443\u044E
+          \u043D\u0430 \u0434\u043E\u0432\u043A\u0456\u043B\u043B\u044F \u0437 \u0430\u0433\u0440\u0435\u0441\u0456\u0454\u044E"
+      - language: 18
+        text: Men ko'pincha atrofimga tajovuzkorlik bilan munosabatda bo'laman
+      - language: 19
+        text: "A menudo reacciono a mi entorno con agresi\xF3n."
+      - language: 20
+        text: Frequentemente reajo ao meu ambiente com agressividade
+      - language: 21
+        text: "\u063A\u0627\u0644\u0628\u064B\u0627 \u0645\u0627 \u0623\u062A\u0641\u0627\u0639\u0644
+          \u0645\u0639 \u0628\u064A\u0626\u062A\u064A \u0628\u0627\u0644\u0639\u062F\u0648\u0627\u0646"
+      - language: 22
+        text: Saya sering bereaksi terhadap lingkungan saya dengan agresi
+      - language: 23
+        text: "\u79C1\u306F\u74B0\u5883\u306B\u5BFE\u3057\u3066\u653B\u6483\u7684\u306B\u53CD\u5FDC\u3059\u308B\u3053\u3068\u304C\u3088\u304F\u3042\u308A\u307E\u3059"
+      - language: 24
+        text: "Spesso reagisco al mio ambiente con aggressivit\xE0"
+      - language: 25
+        text: Ich reagiere oft mit Aggression auf mein Umfeld
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u0915\u094D\u0938\u0930 \u0905\u092A\u0928\u0947
+          \u0935\u093E\u0924\u093E\u0935\u0930\u0923 \u092A\u0930 \u0906\u0915\u094D\u0930\u093E\u092E\u0915\u0924\u093E
+          \u0915\u0947 \u0938\u093E\u0925 \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902"

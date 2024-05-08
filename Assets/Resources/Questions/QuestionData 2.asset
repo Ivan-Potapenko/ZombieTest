@@ -1,0 +1,417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 2
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A\u043E\u0432\u0430 \u0442\u0432\u043E\u044F
+      \u0440\u0435\u0430\u043A\u0446\u0438\u044F \u043D\u0430 \u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A\u043E\u0432\u0430 \u0442\u0432\u043E\u044F \u0440\u0435\u0430\u043A\u0446\u0438\u044F
+        \u043D\u0430 \u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C?"
+    - language: 1
+      text: What is your reaction to danger?
+    - language: 2
+      text: Tehlikeye tepkiniz nedir?
+    - language: 3
+      text: "T\u0259hl\xFCk\u0259y\u0259 reaksiyan\u0131z nec\u0259dir?"
+    - language: 4
+      text: "\u042F\u043A\u0430\u044F \u0442\u0432\u0430\u044F \u0440\u044D\u0430\u043A\u0446\u044B\u044F
+        \u043D\u0430 \u043D\u0435\u0431\u044F\u0441\u043F\u0435\u043A\u0443?"
+    - language: 5
+      text: "\u05DE\u05D4 \u05D4\u05EA\u05D2\u05D5\u05D1\u05D4 \u05E9\u05DC\u05DA
+        \u05DC\u05E1\u05DB\u05E0\u05D4?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u056B\u057D\u056B\u055E\u0576 \u0567 \u0571\u0565\u0580
+        \u0561\u0580\u0571\u0561\u0563\u0561\u0576\u0584\u0568 \u057E\u057F\u0561\u0576\u0563\u056B
+        \u0576\u056F\u0561\u057F\u0574\u0561\u0574\u0562:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0\u10D8\u10D0 \u10D7\u10E5\u10D5\u10D4\u10DC\u10D8
+        \u10E0\u10D4\u10D0\u10E5\u10EA\u10D8\u10D0 \u10E1\u10D0\u10E4\u10E0\u10D7\u10EE\u10D4\u10D6\u10D4?"
+    - language: 8
+      text: Milline on teie reaktsioon ohule?
+    - language: 9
+      text: "Quelle est votre r\xE9action face au danger ?"
+    - language: 10
+      text: "\u0421\u0456\u0437\u0434\u0456\u04A3 \u049B\u0430\u0443\u0456\u043F-\u049B\u0430\u0442\u0435\u0440\u0433\u0435
+        \u0440\u0435\u0430\u043A\u0446\u0438\u044F\u04A3\u044B\u0437 \u049B\u0430\u043D\u0434\u0430\u0439?"
+    - language: 11
+      text: "\u0421\u0438\u0437 \u043A\u043E\u0440\u043A\u0443\u043D\u0443\u0447\u043A\u0430
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u0440\u0435\u0430\u043A\u0446\u0438\u044F
+        \u043A\u044B\u043B\u0430\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kokia j\u016Bs\u0173 reakcija \u012F pavoj\u0173?"
+    - language: 13
+      text: "K\u0101da ir j\u016Bsu reakcija uz briesm\u0101m?"
+    - language: 14
+      text: "Care este reac\u021Bia ta la pericol?"
+    - language: 15
+      text: "\u0412\u043E\u043A\u0443\u043D\u0438\u0448\u0438 \u0448\u0443\u043C\u043E
+        \u0431\u0430 \u0445\u0430\u0442\u0430\u0440 \u0447\u04E3 \u0433\u0443\u043D\u0430
+        \u0430\u0441\u0442?"
+    - language: 16
+      text: "Howp meselesine n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A\u0430 \u0442\u0432\u043E\u044F \u0440\u0435\u0430\u043A\u0446\u0456\u044F
+        \u043D\u0430 \u043D\u0435\u0431\u0435\u0437\u043F\u0435\u043A\u0443?"
+    - language: 18
+      text: Xavfga munosabatingiz qanday?
+    - language: 19
+      text: "\xBFCu\xE1l es tu reacci\xF3n ante el peligro?"
+    - language: 20
+      text: "Qual \xE9 a sua rea\xE7\xE3o ao perigo?"
+    - language: 21
+      text: "\u0645\u0627 \u0647\u0648 \u0631\u062F \u0641\u0639\u0644\u0643 \u062A\u062C\u0627\u0647
+        \u0627\u0644\u062E\u0637\u0631\u061F"
+    - language: 22
+      text: Apa reaksi Anda terhadap bahaya?
+    - language: 23
+      text: "\u5371\u967A\u306B\u5BFE\u3059\u308B\u3042\u306A\u305F\u306E\u53CD\u5FDC\u306F\u4F55\u3067\u3059\u304B?"
+    - language: 24
+      text: "Qual \xE8 la tua reazione al pericolo?"
+    - language: 25
+      text: Wie reagieren Sie auf Gefahr?
+    - language: 26
+      text: "\u0916\u0924\u0930\u0947 \u092A\u0930 \u0906\u092A\u0915\u0940 \u0915\u094D\u092F\u093E
+        \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E \u0939\u0948?"
+  _answersData:
+  - _resultDataId:
+      _value: Boomer
+    _localizedText:
+      _defaultText: "\u041E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u043C\u043E\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442
+        \u043C\u0435\u043D\u044F \u0434\u0435\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C
+        \u0431\u043E\u043B\u0435\u0435 \u0430\u043A\u0442\u0438\u0432\u043D\u043E"
+      _languages:
+      - language: 0
+        text: "\u041E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u043C\u043E\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442
+          \u043C\u0435\u043D\u044F \u0434\u0435\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C
+          \u0431\u043E\u043B\u0435\u0435 \u0430\u043A\u0442\u0438\u0432\u043D\u043E"
+      - language: 1
+        text: Danger motivates me to be more active
+      - language: 2
+        text: Tehlike beni daha aktif olmaya motive ediyor
+      - language: 3
+        text: "T\u0259hl\xFCk\u0259 m\u0259ni daha aktiv olma\u011Fa s\xF6vq edir"
+      - language: 4
+        text: "\u041D\u0435\u0431\u044F\u0441\u043F\u0435\u043A\u0430 \u043C\u0430\u0442\u044B\u0432\u0443\u0435
+          \u043C\u044F\u043D\u0435 \u0434\u0437\u0435\u0439\u043D\u0456\u0447\u0430\u0446\u044C
+          \u0431\u043E\u043B\u044C\u0448 \u0430\u043A\u0442\u044B\u045E\u043D\u0430"
+      - language: 5
+        text: "\u05D4\u05E1\u05DB\u05E0\u05D4 \u05DE\u05E0\u05D9\u05E2 \u05D0\u05D5\u05EA\u05D9
+          \u05DC\u05D4\u05D9\u05D5\u05EA \u05D9\u05D5\u05EA\u05E8 \u05E4\u05E2\u05D9\u05DC"
+      - language: 6
+        text: "\u054E\u057F\u0561\u0576\u0563\u0576 \u056B\u0576\u0571 \u0564\u0580\u0564\u0578\u0582\u0574
+          \u0567 \u0561\u057E\u0565\u056C\u056B \u0561\u056F\u057F\u056B\u057E \u056C\u056B\u0576\u0565\u056C"
+      - language: 7
+        text: "\u10E1\u10D0\u10E4\u10E0\u10D7\u10EE\u10D4 \u10DB\u10D0\u10D8\u10EB\u10E3\u10DA\u10D4\u10D1\u10E1
+          \u10D5\u10D8\u10E7\u10DD \u10E3\u10E4\u10E0\u10DD \u10D0\u10E5\u10E2\u10D8\u10E3\u10E0\u10D8"
+      - language: 8
+        text: Oht motiveerib mind olema aktiivsem
+      - language: 9
+        text: "Le danger me motive \xE0 \xEAtre plus actif"
+      - language: 10
+        text: "\u049A\u0430\u0443\u0456\u043F \u043C\u0435\u043D\u0456 \u0431\u0435\u043B\u0441\u0435\u043D\u0434\u0456\u0440\u0435\u043A
+          \u0431\u043E\u043B\u0443\u0493\u0430 \u0438\u0442\u0435\u0440\u043C\u0435\u043B\u0435\u0439\u0434\u0456"
+      - language: 11
+        text: "\u041A\u043E\u0440\u043A\u0443\u043D\u0443\u0447 \u043C\u0435\u043D\u0438
+          \u0430\u043A\u0442\u0438\u0432\u0434\u04AF\u04AF \u0431\u043E\u043B\u0443\u0443\u0433\u0430
+          \u0442\u04AF\u0440\u0442\u043A\u04AF \u0431\u0435\u0440\u0435\u0442"
+      - language: 12
+        text: "Pavojus skatina mane b\u016Bti aktyvesniu"
+      - language: 13
+        text: "Briesmas motiv\u0113 mani b\u016Bt akt\u012Bv\u0101kam"
+      - language: 14
+        text: "Pericolul m\u0103 motiveaz\u0103 s\u0103 fiu mai activ"
+      - language: 15
+        text: "\u0425\u0430\u0432\u0444 \u043C\u0430\u0440\u043E \u0432\u043E\u0434\u043E\u0440
+          \u043C\u0435\u043A\u0443\u043D\u0430\u0434, \u043A\u0438 \u0444\u0430\u044A\u043E\u043B
+          \u0431\u043E\u0448\u0430\u043C"
+      - language: 16
+        text: "Howp meni has i\u015Fje\u0148 bolmaga iter\xFD\xE4r"
+      - language: 17
+        text: "\u041D\u0435\u0431\u0435\u0437\u043F\u0435\u043A\u0430 \u043C\u043E\u0442\u0438\u0432\u0443\u0454
+          \u043C\u0435\u043D\u0435 \u0434\u0456\u044F\u0442\u0438 \u0430\u043A\u0442\u0438\u0432\u043D\u0456\u0448\u0435"
+      - language: 18
+        text: Xavf meni faolroq bo'lishga undaydi
+      - language: 19
+        text: "El peligro me motiva a ser m\xE1s activo"
+      - language: 20
+        text: O perigo me motiva a ser mais ativo
+      - language: 21
+        text: "\u0627\u0644\u062E\u0637\u0631 \u064A\u062D\u0641\u0632\u0646\u064A
+          \u0639\u0644\u0649 \u0623\u0646 \u0623\u0643\u0648\u0646 \u0623\u0643\u062B\u0631
+          \u0646\u0634\u0627\u0637\u0627"
+      - language: 22
+        text: Bahaya memotivasi saya untuk lebih aktif
+      - language: 23
+        text: "\u5371\u967A\u306F\u79C1\u3092\u3082\u3063\u3068\u6D3B\u52D5\u7684\u306B\u3059\u308B\u52D5\u6A5F\u306B\u3057\u307E\u3059"
+      - language: 24
+        text: "Il pericolo mi motiva ad essere pi\xF9 attivo"
+      - language: 25
+        text: Gefahr motiviert mich, aktiver zu sein
+      - language: 26
+        text: "\u0916\u093C\u0924\u0930\u093E \u092E\u0941\u091D\u0947 \u0914\u0930
+          \u0905\u0927\u093F\u0915 \u0938\u0915\u094D\u0930\u093F\u092F \u0939\u094B\u0928\u0947
+          \u0915\u0947 \u0932\u093F\u090F \u092A\u094D\u0930\u0947\u0930\u093F\u0924
+          \u0915\u0930\u0924\u093E \u0939\u0948"
+  - _resultDataId:
+      _value: Hunter
+    _localizedText:
+      _defaultText: "\u042F \u0441\u0442\u0440\u0435\u043C\u043B\u044E\u0441\u044C
+        \u043A \u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0438 \u0438\u0449\u0443
+        \u0435\u0435"
+      _languages:
+      - language: 0
+        text: "\u042F \u0441\u0442\u0440\u0435\u043C\u043B\u044E\u0441\u044C \u043A
+          \u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0438 \u0438\u0449\u0443
+          \u0435\u0435"
+      - language: 1
+        text: I strive for danger and look for it
+      - language: 2
+        text: "Tehlike i\xE7in \xE7abal\u0131yorum ve onu ar\u0131yorum"
+      - language: 3
+        text: "M\u0259n t\u0259hl\xFCk\u0259y\u0259 can at\u0131ram v\u0259 onu axtar\u0131ram"
+      - language: 4
+        text: "\u042F \u0456\u043C\u043A\u043D\u0443\u0441\u044F \u0434\u0430 \u043D\u0435\u0431\u044F\u0441\u043F\u0435\u043A\u0456
+          \u0456 \u0448\u0443\u043A\u0430\u044E \u044F\u0435"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E9\u05D5\u05D0\u05E3 \u05DC\u05E1\u05DB\u05E0\u05D4
+          \u05D5\u05DE\u05D7\u05E4\u05E9 \u05D0\u05D5\u05EA\u05D4"
+      - language: 6
+        text: "\u0535\u057D \u0571\u0563\u057F\u0578\u0582\u0574 \u0565\u0574 \u057E\u057F\u0561\u0576\u0563\u056B
+          \u0587 \u0583\u0576\u057F\u0580\u0578\u0582\u0574 \u0565\u0574 \u0561\u0575\u0576"
+      - language: 7
+        text: "\u10E1\u10D0\u10E4\u10E0\u10D7\u10EE\u10D8\u10E1\u10D9\u10D4\u10DC
+          \u10D5\u10D8\u10E1\u10EC\u10E0\u10D0\u10E4\u10D5\u10D8 \u10D3\u10D0 \u10D5\u10D4\u10EB\u10D4\u10D1"
+      - language: 8
+        text: "P\xFC\xFCdlen ohu poole ja otsin seda"
+      - language: 9
+        text: Je m'efforce d'affronter le danger et je le cherche
+      - language: 10
+        text: "\u041C\u0435\u043D \u049B\u0430\u0443\u0456\u043F-\u049B\u0430\u0442\u0435\u0440\u0433\u0435
+          \u04B1\u043C\u0442\u044B\u043B\u0430\u043C\u044B\u043D \u0436\u04D9\u043D\u0435
+          \u043E\u043D\u044B \u0456\u0437\u0434\u0435\u0439\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u043A\u043E\u0440\u043A\u0443\u043D\u0443\u0447\u043A\u0430
+          \u0443\u043C\u0442\u0443\u043B\u0430\u043C \u0436\u0430\u043D\u0430 \u0430\u043D\u044B
+          \u0438\u0437\u0434\u0435\u0439\u043C"
+      - language: 12
+        text: "Siekiu pavojaus ir jo ie\u0161kau"
+      - language: 13
+        text: "Es tiecos p\u0113c briesm\u0101m un mekl\u0113ju t\u0101s"
+      - language: 14
+        text: "M\u0103 str\u0103duiesc pentru pericol \u0219i \xEEl caut"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u0430\u0440\u043E\u0438 \u0445\u0430\u0442\u0430\u0440
+          \u043A\u04EF\u0448\u0438\u0448 \u043C\u0435\u043A\u0443\u043D\u0430\u043C
+          \u0432\u0430 \u043E\u043D\u0440\u043E \u043C\u0435\u04B7\u04EF\u044F\u043C"
+      - language: 16
+        text: "Howp \xFC\xE7in \xE7aly\u015F\xFDaryn we g\xF6zle\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u043F\u0440\u0430\u0433\u043D\u0443 \u0434\u043E \u043D\u0435\u0431\u0435\u0437\u043F\u0435\u043A\u0438
+          \u0442\u0430 \u0448\u0443\u043A\u0430\u044E \u0457\u0457"
+      - language: 18
+        text: Men xavfga intilaman va uni qidiraman
+      - language: 19
+        text: Me esfuerzo por el peligro y lo busco.
+      - language: 20
+        text: "Eu me esfor\xE7o pelo perigo e procuro por ele"
+      - language: 21
+        text: "\u0623\u0633\u0639\u0649 \u0625\u0644\u0649 \u0627\u0644\u062E\u0637\u0631
+          \u0648\u0623\u0628\u062D\u062B \u0639\u0646\u0647"
+      - language: 22
+        text: Saya berjuang untuk bahaya dan mencarinya
+      - language: 23
+        text: "\u5371\u967A\u3092\u6C42\u3081\u3066\u63A2\u3057\u307E\u3059"
+      - language: 24
+        text: Cerco il pericolo e lo cerco
+      - language: 25
+        text: Ich strebe nach der Gefahr und suche sie
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0916\u0924\u0930\u0947 \u0915\u093E \u092A\u094D\u0930\u092F\u093E\u0938
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902 \u0914\u0930 \u0909\u0938\u0915\u0940
+          \u0924\u0932\u093E\u0936 \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Tank
+    _localizedText:
+      _defaultText: "\u041E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u0434\u043B\u044F
+        \u043C\u0435\u043D\u044F \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F,
+        \u044F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u044E
+        \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      _languages:
+      - language: 0
+        text: "\u041E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u0434\u043B\u044F
+          \u043C\u0435\u043D\u044F \u043D\u0435 \u0438\u043C\u0435\u0435\u0442 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F,
+          \u044F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u044E
+          \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      - language: 1
+        text: Danger doesn't matter to me, I just keep moving forward
+      - language: 2
+        text: "Tehlike benim i\xE7in \xF6nemli de\u011Fil, sadece ilerlemeye devam
+          ediyorum"
+      - language: 3
+        text: "T\u0259hl\xFCk\u0259nin m\u0259nim \xFC\xE7\xFCn he\xE7 bir \u0259h\u0259miyy\u0259ti
+          yoxdur, m\u0259n sad\u0259c\u0259 ir\u0259lil\u0259yir\u0259m"
+      - language: 4
+        text: "\u041D\u0435\u0431\u044F\u0441\u043F\u0435\u043A\u0430 \u0434\u043B\u044F
+          \u043C\u044F\u043D\u0435 \u043D\u0435 \u043C\u0430\u0435 \u0437\u043D\u0430\u0447\u044D\u043D\u043D\u044F,
+          \u044F \u043F\u0440\u043E\u0441\u0442\u0430 \u043F\u0440\u0430\u0446\u044F\u0433\u0432\u0430\u044E
+          \u0440\u0443\u0445\u0430\u0446\u0446\u0430 \u043D\u0430\u043F\u0435\u0440\u0430\u0434"
+      - language: 5
+        text: "\u05D4\u05E1\u05DB\u05E0\u05D4 \u05DC\u05D0 \u05DE\u05E9\u05E0\u05D4
+          \u05DC\u05D9, \u05D0\u05E0\u05D9 \u05E8\u05E7 \u05DE\u05DE\u05E9\u05D9\u05DA
+          \u05DC\u05D4\u05EA\u05E7\u05D3\u05DD"
+      - language: 6
+        text: "\u054E\u057F\u0561\u0576\u0563\u0576 \u056B\u0576\u0571 \u0570\u0561\u0574\u0561\u0580
+          \u0576\u0577\u0561\u0576\u0561\u056F\u0578\u0582\u0569\u0575\u0578\u0582\u0576
+          \u0579\u0578\u0582\u0576\u056B, \u0565\u057D \u057A\u0561\u0580\u0566\u0561\u057A\u0565\u057D
+          \u0577\u0561\u0580\u0578\u0582\u0576\u0561\u056F\u0578\u0582\u0574 \u0565\u0574
+          \u0561\u057C\u0561\u057B \u0577\u0561\u0580\u056A\u057E\u0565\u056C"
+      - language: 7
+        text: "\u10E1\u10D0\u10E8\u10D8\u10E8\u10E0\u10DD\u10D4\u10D1\u10D0\u10E1
+          \u10E9\u10D4\u10DB\u10D7\u10D5\u10D8\u10E1 \u10DB\u10DC\u10D8\u10E8\u10D5\u10DC\u10D4\u10DA\u10DD\u10D1\u10D0
+          \u10D0\u10E0 \u10D0\u10E5\u10D5\u10E1, \u10E3\u10D1\u10E0\u10D0\u10DA\u10DD\u10D3
+          \u10EC\u10D8\u10DC\u10E1\u10D5\u10DA\u10D0\u10E1 \u10D5\u10D0\u10D2\u10E0\u10EB\u10D4\u10DA\u10D4\u10D1"
+      - language: 8
+        text: Oht pole minu jaoks oluline, ma lihtsalt liigun edasi
+      - language: 9
+        text: Le danger ne m'importe pas, je continue juste d'avancer
+      - language: 10
+        text: "\u041C\u0435\u043D \u04AF\u0448\u0456\u043D \u049B\u0430\u0443\u0456\u043F
+          \u043C\u0430\u04A3\u044B\u0437\u0434\u044B \u0435\u043C\u0435\u0441, \u043C\u0435\u043D
+          \u0442\u0435\u043A \u0430\u043B\u0493\u0430 \u049B\u0430\u0440\u0430\u0439
+          \u0436\u04AF\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0430\u0433\u0430 \u043A\u043E\u0440\u043A\u0443\u043D\u0443\u0447
+          \u044D\u0447 \u043A\u0430\u043D\u0434\u0430\u0439 \u043C\u0430\u0430\u043D\u0438\u0433\u0435
+          \u044D\u044D \u044D\u043C\u0435\u0441, \u043C\u0435\u043D \u0430\u043B\u0434\u044B\u0433\u0430
+          \u0443\u043C\u0442\u0443\u043B\u0430 \u0431\u0435\u0440\u0435\u043C"
+      - language: 12
+        text: "Pavojus man nesvarbu, a\u0161 tiesiog judu \u012F priek\u012F"
+      - language: 13
+        text: "Briesmas man nav svar\u012Bgas, es tikai turpinu virz\u012Bties uz
+          priek\u0161u"
+      - language: 14
+        text: "Pericolul nu conteaz\u0103 pentru mine, doar merg \xEEnainte"
+      - language: 15
+        text: "\u0425\u0430\u0432\u0444 \u0431\u0430\u0440\u043E\u0438 \u043C\u0430\u043D
+          \u043C\u0443\u04B3\u0438\u043C \u043D\u0435\u0441\u0442, \u043C\u0430\u043D
+          \u0442\u0430\u043D\u04B3\u043E \u043F\u0435\u0448 \u043C\u0435\u0440\u0430\u0432\u0430\u043C"
+      - language: 16
+        text: "Howp meni\u0148 \xFC\xE7in m\xF6h\xFCm d\xE4l, men di\u0148e \xF6\u0148e
+          gitmegi dowam etdir\xFD\xE4rin"
+      - language: 17
+        text: "\u041D\u0435\u0431\u0435\u0437\u043F\u0435\u043A\u0430 \u0434\u043B\u044F
+          \u043C\u0435\u043D\u0435 \u043D\u0435 \u043C\u0430\u0454 \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F,
+          \u044F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u0432\u0436\u0443\u044E
+          \u0440\u0443\u0445\u0430\u0442\u0438\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      - language: 18
+        text: Men uchun xavf muhim emas, men faqat oldinga intilaman
+      - language: 19
+        text: El peligro no me importa, solo sigo adelante
+      - language: 20
+        text: "O perigo n\xE3o importa para mim, eu apenas sigo em frente"
+      - language: 21
+        text: "\u0627\u0644\u062E\u0637\u0631 \u0644\u0627 \u064A\u0647\u0645\u0646\u064A\u060C
+          \u0623\u0646\u0627 \u0641\u0642\u0637 \u0623\u0633\u062A\u0645\u0631 \u0641\u064A
+          \u0627\u0644\u0645\u0636\u064A \u0642\u062F\u0645\u064B\u0627"
+      - language: 22
+        text: Bahaya tidak menjadi masalah bagiku, aku terus bergerak maju
+      - language: 23
+        text: "\u79C1\u306B\u306F\u5371\u967A\u306A\u3093\u3066\u95A2\u4FC2\u306A\u3044\u3001\u305F\u3060\u524D\u306B\u9032\u307F\u7D9A\u3051\u308B\u3060\u3051"
+      - language: 24
+        text: Per me il pericolo non ha importanza, continuo ad andare avanti
+      - language: 25
+        text: Gefahr ist mir egal, ich gehe einfach weiter
+      - language: 26
+        text: "\u092E\u0947\u0930\u0947 \u0932\u093F\u090F \u0916\u0924\u0930\u093E
+          \u0915\u094B\u0908 \u092E\u093E\u092F\u0928\u0947 \u0928\u0939\u0940\u0902
+          \u0930\u0916\u0924\u093E, \u092E\u0948\u0902 \u092C\u0938 \u0906\u0917\u0947
+          \u092C\u0922\u093C\u0924\u093E \u0930\u0939\u0924\u093E \u0939\u0942\u0902\u0964'"
+  - _resultDataId:
+      _value: Witch
+    _localizedText:
+      _defaultText: "\u042F \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043D\u043E
+        \u043D\u0430 \u043B\u044E\u0431\u0443\u044E \u0443\u0433\u0440\u043E\u0437\u0443"
+      _languages:
+      - language: 0
+        text: "\u042F \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043D\u043E
+          \u043D\u0430 \u043B\u044E\u0431\u0443\u044E \u0443\u0433\u0440\u043E\u0437\u0443"
+      - language: 1
+        text: I react aggressively to any threat
+      - language: 2
+        text: "Herhangi bir tehdide agresif bir \u015Fekilde tepki veririm"
+      - language: 3
+        text: "\u0130st\u0259nil\u0259n t\u0259hl\xFCk\u0259y\u0259 aqressiv reaksiya
+          verir\u0259m"
+      - language: 4
+        text: "\u042F \u0440\u044D\u0430\u0433\u0443\u044E \u0430\u0433\u0440\u044D\u0441\u0456\u045E\u043D\u0430
+          \u043D\u0430 \u043B\u044E\u0431\u0443\u044E \u043F\u0430\u0433\u0440\u043E\u0437\u0443"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05D2\u05D9\u05D1 \u05D1\u05D0\u05D2\u05E8\u05E1\u05D9\u05D1\u05D9\u05D5\u05EA
+          \u05DC\u05DB\u05DC \u05D0\u05D9\u05D5\u05DD"
+      - language: 6
+        text: "\u0535\u057D \u0561\u0563\u0580\u0565\u057D\u056B\u057E \u0565\u0574
+          \u0561\u0580\u0571\u0561\u0563\u0561\u0576\u0584\u0578\u0582\u0574 \u0581\u0561\u0576\u056F\u0561\u0581\u0561\u056E
+          \u057D\u057A\u0561\u057C\u0576\u0561\u056C\u056B\u0584\u056B"
+      - language: 7
+        text: "\u10DC\u10D4\u10D1\u10D8\u10E1\u10DB\u10D8\u10D4\u10E0 \u10DB\u10E3\u10E5\u10D0\u10E0\u10D0\u10D6\u10D4
+          \u10D0\u10D2\u10E0\u10D4\u10E1\u10D8\u10E3\u10DA\u10D0\u10D3 \u10D5\u10E0\u10D4\u10D0\u10D2\u10D8\u10E0\u10D4\u10D1"
+      - language: 8
+        text: Ma reageerin igale ohule agressiivselt
+      - language: 9
+        text: "Je r\xE9agis de mani\xE8re agressive \xE0 toute menace"
+      - language: 10
+        text: "\u041C\u0435\u043D \u043A\u0435\u0437 \u043A\u0435\u043B\u0433\u0435\u043D
+          \u049B\u0430\u0443\u0456\u043F\u043A\u0435 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u0442\u0456
+          \u0442\u04AF\u0440\u0434\u0435 \u0436\u0430\u0443\u0430\u043F \u0431\u0435\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0430\u0440 \u043A\u0430\u043D\u0434\u0430\u0439
+          \u043A\u043E\u0440\u043A\u0443\u043D\u0443\u0447\u043A\u0430 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u0434\u04AF\u04AF
+          \u0436\u043E\u043E\u043F \u0431\u0435\u0440\u0435\u043C"
+      - language: 12
+        text: "Agresyviai reaguoju \u012F bet koki\u0105 gr\u0117sm\u0119"
+      - language: 13
+        text: "Es agres\u012Bvi rea\u0123\u0113ju uz jebk\u0101diem draudiem"
+      - language: 14
+        text: "Reac\u021Bionez agresiv la orice amenin\u021Bare"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u0430 \u04B3\u0430\u0440 \u0442\u0430\u04B3\u0434\u0438\u0434
+          \u0445\u0430\u0448\u043C\u0433\u0438\u043D\u043E\u043D\u0430 \u0432\u043E\u043A\u0443\u043D\u0438\u0448
+          \u043D\u0438\u0448\u043E\u043D \u043C\u0435\u0434\u0438\u04B3\u0430\u043C"
+      - language: 16
+        text: "Islendik howp \xFC\xE7in agressiw reaksi\xFDa bildir\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u0440\u0435\u0430\u0433\u0443\u044E \u0430\u0433\u0440\u0435\u0441\u0438\u0432\u043D\u043E
+          \u043D\u0430 \u0431\u0443\u0434\u044C-\u044F\u043A\u0443 \u0437\u0430\u0433\u0440\u043E\u0437\u0443"
+      - language: 18
+        text: Men har qanday tahdidga agressiv munosabatda bo'laman
+      - language: 19
+        text: Reacciono agresivamente ante cualquier amenaza.
+      - language: 20
+        text: "Eu reajo agressivamente a qualquer amea\xE7a"
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0623\u062A\u0641\u0627\u0639\u0644 \u0628\u0642\u0648\u0629
+          \u0645\u0639 \u0623\u064A \u062A\u0647\u062F\u064A\u062F"
+      - language: 22
+        text: Saya bereaksi agresif terhadap ancaman apa pun
+      - language: 23
+        text: "\u79C1\u306F\u3042\u3089\u3086\u308B\u8105\u5A01\u306B\u5BFE\u3057\u3066\u7A4D\u6975\u7684\u306B\u53CD\u5FDC\u3057\u307E\u3059"
+      - language: 24
+        text: Reagisco in modo aggressivo a qualsiasi minaccia
+      - language: 25
+        text: Ich reagiere aggressiv auf jede Bedrohung
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0915\u093F\u0938\u0940 \u092D\u0940 \u0916\u0924\u0930\u0947
+          \u092A\u0930 \u0906\u0915\u094D\u0930\u093E\u092E\u0915 \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902"

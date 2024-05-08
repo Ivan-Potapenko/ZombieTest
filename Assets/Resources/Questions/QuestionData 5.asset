@@ -1,0 +1,443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 5
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A \u0442\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0448\u044C\u0441\u044F
+      \u043A \u0433\u0440\u0443\u043F\u043F\u043E\u0432\u044B\u043C \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F\u043C?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A \u0442\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0448\u044C\u0441\u044F
+        \u043A \u0433\u0440\u0443\u043F\u043F\u043E\u0432\u044B\u043C \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F\u043C?"
+    - language: 1
+      text: How do you feel about group actions?
+    - language: 2
+      text: "Grup eylemleri hakk\u0131nda ne d\xFC\u015F\xFCn\xFCyorsunuz?"
+    - language: 3
+      text: "Qrup h\u0259r\u0259k\u0259tl\u0259rin\u0259 m\xFCnasib\u0259tiniz nec\u0259dir?"
+    - language: 4
+      text: "\u042F\u043A \u0442\u044B \u0441\u0442\u0430\u0432\u0456\u0448\u0441\u044F
+        \u0434\u0430 \u0433\u0440\u0443\u043F\u0430\u0432\u044B\u0445 \u0434\u0437\u0435\u044F\u043D\u043D\u044F\u045E?"
+    - language: 5
+      text: "\u05D0\u05D9\u05DA \u05D0\u05EA\u05D4 \u05DE\u05E8\u05D2\u05D9\u05E9
+        \u05DC\u05D2\u05D1\u05D9 \u05E4\u05E2\u05D5\u05DC\u05D5\u05EA \u05E7\u05D1\u05D5\u05E6\u05EA\u05D9\u05D5\u05EA?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u0565\u055E\u057D \u0565\u0584 \u057E\u0565\u0580\u0561\u0562\u0565\u0580\u057E\u0578\u0582\u0574
+        \u056D\u0574\u0562\u0561\u0575\u056B\u0576 \u0563\u0578\u0580\u056E\u0578\u0572\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580\u056B\u0576:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0 \u10D2\u10E0\u10EB\u10DC\u10DD\u10D1\u10D7
+        \u10D7\u10D0\u10D5\u10E1 \u10EF\u10D2\u10E3\u10E4\u10E3\u10E0 \u10E5\u10DB\u10D4\u10D3\u10D4\u10D1\u10D4\u10D1\u10D6\u10D4?"
+    - language: 8
+      text: "Kuidas suhtute r\xFChmategevusse?"
+    - language: 9
+      text: Que pensez-vous des actions de groupe ?
+    - language: 10
+      text: "\u0422\u043E\u043F\u0442\u044B\u049B \u04D9\u0440\u0435\u043A\u0435\u0442\u0442\u0435\u0440\u0433\u0435
+        \u049B\u0430\u043B\u0430\u0439 \u049B\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 11
+      text: "\u0422\u043E\u043F\u0442\u0443\u043A \u0430\u0440\u0430\u043A\u0435\u0442\u0442\u0435\u0440\u0433\u0435
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u043A\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kaip vertinate grup\u0117s veiksmus?"
+    - language: 13
+      text: "K\u0101 j\u016Bs j\u016Btaties par grupu aktivit\u0101t\u0113m?"
+    - language: 14
+      text: "Ce p\u0103rere ave\u021Bi despre ac\u021Biunile de grup?"
+    - language: 15
+      text: "\u0428\u0443\u043C\u043E \u0431\u0430 \u0430\u043C\u0430\u043B\u04B3\u043E\u0438
+        \u0433\u0443\u0440\u04EF\u04B3\u04E3 \u0447\u04E3 \u0433\u0443\u043D\u0430
+        \u043C\u0443\u043D\u043E\u0441\u0438\u0431\u0430\u0442 \u043C\u0435\u043A\u0443\u043D\u0435\u0434?"
+    - language: 16
+      text: "Toparla\xFDyn hereketlere n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A \u0442\u0438 \u0441\u0442\u0430\u0432\u0438\u0448\u0441\u044F
+        \u0434\u043E \u0433\u0440\u0443\u043F\u043E\u0432\u0438\u0445 \u0434\u0456\u0439?"
+    - language: 18
+      text: Guruh harakatlariga qanday munosabatdasiz?
+    - language: 19
+      text: "\xBFQu\xE9 opinas de las acciones grupales?"
+    - language: 20
+      text: "Como voc\xEA se sente em rela\xE7\xE3o \xE0s a\xE7\xF5es em grupo?"
+    - language: 21
+      text: "\u0645\u0627 \u0647\u0648 \u0634\u0639\u0648\u0631\u0643 \u062A\u062C\u0627\u0647
+        \u0627\u0644\u0625\u062C\u0631\u0627\u0621\u0627\u062A \u0627\u0644\u062C\u0645\u0627\u0639\u064A\u0629\u061F"
+    - language: 22
+      text: Bagaimana perasaan Anda tentang tindakan kelompok?
+    - language: 23
+      text: "\u96C6\u56E3\u884C\u52D5\u306B\u3064\u3044\u3066\u3069\u3046\u601D\u3044\u307E\u3059\u304B\uFF1F"
+    - language: 24
+      text: Cosa ne pensi delle azioni di gruppo?
+    - language: 25
+      text: Wie stehen Sie zu Gruppenaktionen?
+    - language: 26
+      text: "\u0906\u092A \u0938\u092E\u0942\u0939 \u0917\u0924\u093F\u0935\u093F\u0927\u093F\u092F\u094B\u0902
+        \u0915\u0947 \u092C\u093E\u0930\u0947 \u092E\u0947\u0902 \u0915\u0948\u0938\u093E
+        \u092E\u0939\u0938\u0942\u0938 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?"
+  _answersData:
+  - _resultDataId:
+      _value: Boomer
+    _localizedText:
+      _defaultText: "\u042F \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0438\u0442\u0430\u044E
+        \u0434\u0435\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C \u0432
+        \u043E\u0434\u0438\u043D\u043E\u0447\u043A\u0443"
+      _languages:
+      - language: 0
+        text: "\u042F \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0438\u0442\u0430\u044E
+          \u0434\u0435\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C \u0432
+          \u043E\u0434\u0438\u043D\u043E\u0447\u043A\u0443"
+      - language: 1
+        text: I prefer to go it alone
+      - language: 2
+        text: "Yaln\u0131z gitmeyi tercih ederim"
+      - language: 3
+        text: "M\u0259n t\u0259k getm\u0259y\u0259 \xFCst\xFCnl\xFCk verir\u0259m"
+      - language: 4
+        text: "\u042F \u0430\u0434\u0434\u0430\u044E \u043F\u0435\u0440\u0430\u0432\u0430\u0433\u0443
+          \u0434\u0437\u0435\u0439\u043D\u0456\u0447\u0430\u0446\u044C \u0443 \u0430\u0434\u0437\u0456\u043D\u043E\u0447\u043A\u0443"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E2\u05D3\u05D9\u05E3 \u05DC\u05DC\u05DB\u05EA
+          \u05DC\u05D1\u05D3"
+      - language: 6
+        text: "\u0535\u057D \u0576\u0561\u056D\u0568\u0576\u057F\u0580\u0578\u0582\u0574
+          \u0565\u0574 \u0574\u0565\u0576\u0561\u056F \u0563\u0576\u0561\u056C"
+      - language: 7
+        text: "\u10DB\u10D8\u10E0\u10E9\u10D4\u10D5\u10DC\u10D8\u10D0 \u10DB\u10D0\u10E0\u10E2\u10DD
+          \u10EC\u10D0\u10D5\u10D8\u10D3\u10D4"
+      - language: 8
+        text: "Eelistan \xFCksi minna"
+      - language: 9
+        text: "Je pr\xE9f\xE8re y aller seul"
+      - language: 10
+        text: "\u041C\u0435\u043D \u0436\u0430\u043B\u0493\u044B\u0437 \u0431\u0430\u0440\u0493\u0430\u043D\u0434\u044B
+          \u200B\u200B\u0436\u04E9\u043D \u043A\u04E9\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0436\u0430\u043B\u0433\u044B\u0437 \u0431\u0430\u0440\u0433\u0430\u043D\u0434\u044B
+          \u0436\u0430\u043A\u0448\u044B \u043A\u04E9\u0440\u04E9\u043C"
+      - language: 12
+        text: Man labiau patinka eiti vienas
+      - language: 13
+        text: "Man lab\u0101k pat\u012Bk iet vienatn\u0113"
+      - language: 14
+        text: "Prefer s\u0103 merg singur"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0442\u0430\u043D\u04B3\u043E \u0440\u0430\u0444\u0442\u0430\u043D\u0440\u043E
+          \u0430\u0444\u0437\u0430\u043B\u0442\u0430\u0440 \u043C\u0435\u0434\u043E\u043D\u0430\u043C"
+      - language: 16
+        text: "Men \xFDeke gitmegi makul bildim"
+      - language: 17
+        text: "\u042F \u0432\u043E\u043B\u0456\u044E \u0434\u0456\u044F\u0442\u0438
+          \u043F\u043E\u043E\u0434\u0438\u043D\u0446\u0456"
+      - language: 18
+        text: Men yolg'iz borishni afzal ko'raman
+      - language: 19
+        text: prefiero hacerlo solo
+      - language: 20
+        text: Eu prefiro ir sozinho
+      - language: 21
+        text: "\u0623\u0641\u0636\u0651\u0644 \u0623\u0646 \u0623\u0630\u0647\u0628
+          \u0648\u062D\u062F\u064A"
+      - language: 22
+        text: Saya lebih suka melakukannya sendiri
+      - language: 23
+        text: "\u79C1\u306F\u4E00\u4EBA\u3067\u884C\u304F\u307B\u3046\u304C\u597D\u304D\u3067\u3059"
+      - language: 24
+        text: Preferisco fare da solo
+      - language: 25
+        text: Ich gehe es lieber alleine an
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0907\u0938\u0947 \u0905\u0915\u0947\u0932\u0947
+          \u091C\u093E\u0928\u093E \u092A\u0938\u0902\u0926 \u0915\u0930\u0924\u093E
+          \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Hunter
+    _localizedText:
+      _defaultText: "\u042F \u0441 \u0443\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0438\u0435\u043C
+        \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u044F\u044E\u0441\u044C
+        \u043A \u0434\u0440\u0443\u0433\u0438\u043C \u0437\u043E\u043C\u0431\u0438
+        \u0434\u043B\u044F \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0439
+        \u0430\u0442\u0430\u043A\u0438"
+      _languages:
+      - language: 0
+        text: "\u042F \u0441 \u0443\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0438\u0435\u043C
+          \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u044F\u044E\u0441\u044C
+          \u043A \u0434\u0440\u0443\u0433\u0438\u043C \u0437\u043E\u043C\u0431\u0438
+          \u0434\u043B\u044F \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0439
+          \u0430\u0442\u0430\u043A\u0438"
+      - language: 1
+        text: I enjoy joining other zombies for a joint attack.
+      - language: 2
+        text: "Ortak bir sald\u0131r\u0131 i\xE7in di\u011Fer zombilere kat\u0131lmay\u0131
+          seviyorum."
+      - language: 3
+        text: "Birg\u0259 h\xFCcum \xFC\xE7\xFCn dig\u0259r zombil\u0259r\u0259 qo\u015Fulmaqdan
+          z\xF6vq al\u0131ram."
+      - language: 4
+        text: "\u042F \u0437 \u0437\u0430\u0434\u0430\u0432\u0430\u043B\u044C\u043D\u0435\u043D\u043D\u0435\u043C
+          \u0434\u0430\u043B\u0443\u0447\u0430\u044E\u0441\u044F \u0434\u0430 \u0456\u043D\u0448\u044B\u0445
+          \u0437\u043E\u043C\u0431\u0456 \u0434\u043B\u044F \u0441\u0443\u043C\u0435\u0441\u043D\u0430\u0433\u0430
+          \u043D\u0430\u043F\u0430\u0434\u0443"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E0\u05D4\u05E0\u05D4 \u05DC\u05D4\u05E6\u05D8\u05E8\u05E3
+          \u05DC\u05D6\u05D5\u05DE\u05D1\u05D9\u05DD \u05D0\u05D7\u05E8\u05D9\u05DD
+          \u05DC\u05D4\u05EA\u05E7\u05E4\u05D4 \u05DE\u05E9\u05D5\u05EA\u05E4\u05EA."
+      - language: 6
+        text: "\u0535\u057D \u0570\u0561\u0573\u0578\u0582\u0575\u0584 \u0565\u0574
+          \u057D\u057F\u0561\u0576\u0578\u0582\u0574 \u0561\u0575\u056C \u0566\u0578\u0574\u0562\u056B\u0576\u0565\u0580\u056B
+          \u0570\u0565\u057F \u0570\u0561\u0574\u0561\u057F\u0565\u0572 \u0570\u0561\u0580\u0571\u0561\u056F\u0574\u0561\u0576
+          \u0570\u0561\u0574\u0561\u0580:"
+      - language: 7
+        text: "\u10DB\u10D4 \u10DB\u10E1\u10D8\u10D0\u10DB\u10DD\u10D5\u10DC\u10D4\u10D1\u10E1
+          \u10E1\u10EE\u10D5\u10D0 \u10D6\u10DD\u10DB\u10D1\u10D4\u10D1\u10D7\u10D0\u10DC
+          \u10E8\u10D4\u10D4\u10E0\u10D7\u10D4\u10D1\u10D0 \u10D4\u10E0\u10D7\u10DD\u10D1\u10DA\u10D8\u10D5\u10D8
+          \u10D7\u10D0\u10D5\u10D3\u10D0\u10E1\u10EE\u10DB\u10D8\u10E1\u10D7\u10D5\u10D8\u10E1."
+      - language: 8
+        text: "Mulle meeldib \xFChineda teiste zombidega \xFChiseks r\xFCnnakuks."
+      - language: 9
+        text: J'aime rejoindre d'autres zombies pour une attaque commune.
+      - language: 10
+        text: "\u041C\u0435\u043D \u0431\u0456\u0440\u043B\u0435\u0441\u043A\u0435\u043D
+          \u0448\u0430\u0431\u0443\u044B\u043B \u04AF\u0448\u0456\u043D \u0431\u0430\u0441\u049B\u0430
+          \u0437\u043E\u043C\u0431\u0438\u043B\u0435\u0440\u0433\u0435 \u049B\u043E\u0441\u044B\u043B\u0443\u0434\u044B
+          \u04B1\u043D\u0430\u0442\u0430\u043C\u044B\u043D."
+      - language: 11
+        text: "\u041C\u0435\u043D \u0431\u0438\u0440\u0433\u0435\u043B\u0435\u0448\u043A\u0435\u043D
+          \u0447\u0430\u0431\u0443\u0443\u043B \u04AF\u0447\u04AF\u043D \u0431\u0430\u0448\u043A\u0430
+          \u0437\u043E\u043C\u0431\u0438\u043B\u0435\u0440\u0433\u0435 \u043A\u043E\u0448\u0443\u043B\u0433\u0430\u043D\u0434\u044B
+          \u0436\u0430\u043A\u0448\u044B \u043A\u04E9\u0440\u04E9\u043C."
+      - language: 12
+        text: "Man patinka prisijungti prie kit\u0173 zombi\u0173 bendram puolimui."
+      - language: 13
+        text: "Man pat\u012Bk pievienoties citiem zombijiem kop\u012Bgam uzbrukumam."
+      - language: 14
+        text: "\xCEmi place s\u0103 m\u0103 al\u0103tur altor zombi pentru un atac
+          comun."
+      - language: 15
+        text: "\u041C\u0430\u043D \u0430\u0437 \u04B3\u0430\u043C\u0440\u043E\u04B3
+          \u0448\u0443\u0434\u0430\u043D \u0431\u0430 \u0437\u043E\u043C\u0431\u0438\u04B3\u043E\u0438
+          \u0434\u0438\u0433\u0430\u0440 \u0431\u0430\u0440\u043E\u0438 \u04B3\u0430\u043C\u043B\u0430\u0438
+          \u043C\u0443\u0448\u0442\u0430\u0440\u0430\u043A \u043B\u0430\u0437\u0437\u0430\u0442
+          \u043C\u0435\u0431\u0430\u0440\u0430\u043C."
+      - language: 16
+        text: "Bilelikd\xE4ki h\xFCj\xFCm \xFC\xE7in be\xFDleki zombilere go\u015Fulmakdan
+          lezzet al\xFDaryn."
+      - language: 17
+        text: "\u042F \u0456\u0437 \u0437\u0430\u0434\u043E\u0432\u043E\u043B\u0435\u043D\u043D\u044F\u043C
+          \u043F\u0440\u0438\u0454\u0434\u043D\u0443\u044E\u0441\u044C \u0434\u043E
+          \u0456\u043D\u0448\u0438\u0445 \u0437\u043E\u043C\u0431\u0456 \u0434\u043B\u044F
+          \u0441\u043F\u0456\u043B\u044C\u043D\u043E\u0457 \u0430\u0442\u0430\u043A\u0438"
+      - language: 18
+        text: Men qo'shma hujum uchun boshqa zombilarga qo'shilishni yoqtiraman.
+      - language: 19
+        text: Disfruto unirme a otros zombies para un ataque conjunto.
+      - language: 20
+        text: Gosto de me juntar a outros zumbis para um ataque conjunto.
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0623\u0633\u062A\u0645\u062A\u0639 \u0628\u0627\u0644\u0627\u0646\u0636\u0645\u0627\u0645
+          \u0625\u0644\u0649 \u0627\u0644\u0632\u0648\u0645\u0628\u064A \u0627\u0644\u0622\u062E\u0631\u064A\u0646
+          \u0644\u0634\u0646 \u0647\u062C\u0648\u0645 \u0645\u0634\u062A\u0631\u0643."
+      - language: 22
+        text: Saya menikmati bergabung dengan zombie lain untuk serangan bersama.
+      - language: 23
+        text: "\u4ED6\u306E\u30BE\u30F3\u30D3\u306B\u52A0\u308F\u3063\u3066\u5171\u540C\u653B\u6483\u3059\u308B\u306E\u304C\u697D\u3057\u3044\u3067\u3059\u3002"
+      - language: 24
+        text: Mi piace unirmi ad altri zombie per un attacco congiunto.
+      - language: 25
+        text: "Ich genie\xDFe es, mit anderen Zombies gemeinsam anzugreifen."
+      - language: 26
+        text: "\u092E\u0941\u091D\u0947 \u0938\u0902\u092F\u0941\u0915\u094D\u0924
+          \u0939\u092E\u0932\u0947 \u0915\u0947 \u0932\u093F\u090F \u0905\u0928\u094D\u092F
+          \u091C\u093C\u094B\u092E\u094D\u092C\u0940 \u0915\u0947 \u0938\u093E\u0925
+          \u0936\u093E\u092E\u093F\u0932 \u0939\u094B\u0928\u0947 \u092E\u0947\u0902
+          \u0906\u0928\u0902\u0926 \u0906\u0924\u093E \u0939\u0948\u0964"
+  - _resultDataId:
+      _value: Normal
+    _localizedText:
+      _defaultText: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043B\u0435\u0434\u0443\u044E
+        \u0437\u0430 \u0442\u043E\u043B\u043F\u043E\u0439, \u043D\u0435 \u043F\u0440\u043E\u044F\u0432\u043B\u044F\u044F
+        \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u0445
+        \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
+      _languages:
+      - language: 0
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043B\u0435\u0434\u0443\u044E
+          \u0437\u0430 \u0442\u043E\u043B\u043F\u043E\u0439, \u043D\u0435 \u043F\u0440\u043E\u044F\u0432\u043B\u044F\u044F
+          \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u0445
+          \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
+      - language: 1
+        text: I just follow the crowd without any individual action
+      - language: 2
+        text: "Hi\xE7bir bireysel hareket yapmadan sadece kalabal\u0131\u011F\u0131
+          takip ediyorum"
+      - language: 3
+        text: "M\u0259n he\xE7 bir f\u0259rdi h\u0259r\u0259k\u0259t etm\u0259d\u0259n
+          k\xFCtl\u0259ni izl\u0259yir\u0259m"
+      - language: 4
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u0430 \u0456\u0434\u0443 \u0437\u0430
+          \u043D\u0430\u0442\u043E\u045E\u043F\u0430\u043C, \u043D\u0435 \u043F\u0440\u0430\u044F\u045E\u043B\u044F\u044E\u0447\u044B
+          \u0456\u043D\u0434\u044B\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u0445
+          \u0434\u0437\u0435\u044F\u043D\u043D\u044F\u045E"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E4\u05E9\u05D5\u05D8 \u05E2\u05D5\u05E7\u05D1
+          \u05D0\u05D7\u05E8\u05D9 \u05D4\u05E7\u05D4\u05DC \u05D1\u05DC\u05D9 \u05E9\u05D5\u05DD
+          \u05E4\u05E2\u05D5\u05DC\u05D4 \u05D0\u05D9\u05E0\u05D3\u05D9\u05D1\u05D9\u05D3\u05D5\u05D0\u05DC\u05D9\u05EA"
+      - language: 6
+        text: "\u0535\u057D \u0578\u0582\u0572\u0572\u0561\u056F\u056B \u0570\u0565\u057F\u0587\u0578\u0582\u0574
+          \u0565\u0574 \u0561\u0574\u0562\u0578\u056D\u056B\u0576\u055D \u0561\u057C\u0561\u0576\u0581
+          \u0578\u0580\u0587\u0567 \u0561\u0576\u0570\u0561\u057F\u0561\u056F\u0561\u0576
+          \u200B\u200B\u0563\u0578\u0580\u056E\u0578\u0572\u0578\u0582\u0569\u0575\u0561\u0576"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E3\u10D1\u10E0\u10D0\u10DA\u10DD\u10D3 \u10DB\u10D8\u10D5\u10E7\u10D5\u10D4\u10D1\u10D8
+          \u10D1\u10E0\u10D1\u10DD\u10E1 \u10E7\u10DD\u10D5\u10D4\u10DA\u10D2\u10D5\u10D0\u10E0\u10D8
+          \u10D8\u10DC\u10D3\u10D8\u10D5\u10D8\u10D3\u10E3\u10D0\u10DA\u10E3\u10E0\u10D8
+          \u10DB\u10DD\u10E5\u10DB\u10D4\u10D3\u10D4\u10D1\u10D8\u10E1 \u10D2\u10D0\u10E0\u10D4\u10E8\u10D4"
+      - language: 8
+        text: "Ma lihtsalt j\xE4lgin rahvahulka ilma \xFChegi \xFCksiku tegevuseta"
+      - language: 9
+        text: Je suis juste la foule sans aucune action individuelle
+      - language: 10
+        text: "\u0415\u0448\u049B\u0430\u043D\u0434\u0430\u0439 \u0436\u0435\u043A\u0435
+          \u04D9\u0440\u0435\u043A\u0435\u0442\u0441\u0456\u0437 \u043A\u04E9\u043F\u0448\u0456\u043B\u0456\u043A\u0442\u0456\u04A3
+          \u0441\u043E\u04A3\u044B\u043D\u0430\u043D \u0435\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u044D\u0447 \u043A\u0430\u043D\u0434\u0430\u0439
+          \u0436\u0435\u043A\u0435 \u0430\u0440\u0430\u043A\u0435\u0442\u0441\u0438\u0437
+          \u044D\u043B\u0435 \u044D\u043B\u0434\u0438\u043D \u0430\u0440\u0442\u044B\u043D\u0430\u043D
+          \u044D\u044D\u0440\u0447\u0438\u043F \u0436\u04AF\u0440\u04E9\u043C"
+      - language: 12
+        text: "Tiesiog seku mini\u0105 be joki\u0173 individuali\u0173 veiksm\u0173"
+      - language: 13
+        text: "Es vienk\u0101r\u0161i sekoju p\u016Blim bez individu\u0101las darb\u012Bbas"
+      - language: 14
+        text: "Pur \u0219i simplu urm\u0103resc mul\u021Bimea f\u0103r\u0103 nicio
+          ac\u021Biune individual\u0103"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u0435 \u044F\u0433\u043E\u043D \u0430\u043C\u0430\u043B\u0438
+          \u0438\u043D\u0444\u0438\u0440\u043E\u0434\u04E3 \u0442\u0430\u043D\u04B3\u043E
+          \u0431\u0430 \u0438\u0437\u0434\u0438\u04B3\u043E\u043C \u043F\u0430\u0439\u0440\u0430\u0432\u04E3
+          \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Di\u0148e \u015Fahsy hereket etmezden m\xE4rek\xE4ni yzarla\xFDaryn"
+      - language: 17
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043B\u0456\u0434\u0443\u044E
+          \u0437\u0430 \u043D\u0430\u0442\u043E\u0432\u043F\u043E\u043C, \u043D\u0435
+          \u0432\u0438\u044F\u0432\u043B\u044F\u044E\u0447\u0438 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0438\u0445
+          \u0434\u0456\u0439"
+      - language: 18
+        text: Men hech qanday individual harakatsiz olomonni kuzatib boraman
+      - language: 19
+        text: "Simplemente sigo a la multitud sin ninguna acci\xF3n individual."
+      - language: 20
+        text: "Eu apenas sigo a multid\xE3o sem nenhuma a\xE7\xE3o individual"
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0641\u0642\u0637 \u0623\u062A\u0627\u0628\u0639
+          \u0627\u0644\u062C\u0645\u0647\u0648\u0631 \u062F\u0648\u0646 \u0623\u064A
+          \u0625\u062C\u0631\u0627\u0621 \u0641\u0631\u062F\u064A"
+      - language: 22
+        text: Saya hanya mengikuti orang banyak tanpa ada tindakan individu
+      - language: 23
+        text: "\u79C1\u306F\u500B\u4EBA\u7684\u306A\u884C\u52D5\u3092\u3068\u3089\u305A\u306B\u305F\u3060\u7FA4\u8846\u306B\u5F93\u3063\u3066\u3044\u308B\u3060\u3051\u3067\u3059"
+      - language: 24
+        text: Seguo semplicemente la folla senza alcuna azione individuale
+      - language: 25
+        text: Ich folge einfach der Menge, ohne dass es zu einer Einzelaktion kommt
+      - language: 26
+        text: "\u092E\u0948\u0902 \u092C\u093F\u0928\u093E \u0915\u093F\u0938\u0940
+          \u0935\u094D\u092F\u0915\u094D\u0924\u093F\u0917\u0924 \u0915\u093E\u0930\u094D\u0930\u0935\u093E\u0908
+          \u0915\u0947 \u092C\u0938 \u092D\u0940\u0921\u093C \u0915\u093E \u0905\u0928\u0941\u0938\u0930\u0923
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Smoker
+    _localizedText:
+      _defaultText: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+        \u0434\u0440\u0443\u0433\u0438\u0445 \u0437\u043E\u043C\u0431\u0438 \u0432
+        \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      _languages:
+      - language: 0
+        text: "\u042F \u043C\u043E\u0433\u0443 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+          \u0434\u0440\u0443\u0433\u0438\u0445 \u0437\u043E\u043C\u0431\u0438 \u0432
+          \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      - language: 1
+        text: I can use other zombies for my own purposes
+      - language: 2
+        text: "Di\u011Fer zombileri kendi ama\xE7lar\u0131m i\xE7in kullanabilirim"
+      - language: 3
+        text: "Ba\u015Fqa zombil\u0259rd\u0259n \xF6z m\u0259qs\u0259dl\u0259rim
+          \xFC\xE7\xFCn istifad\u0259 ed\u0259 bil\u0259r\u0259m"
+      - language: 4
+        text: "\u042F \u043C\u0430\u0433\u0443 \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u0446\u044C
+          \u0456\u043D\u0448\u044B\u0445 \u0437\u043E\u043C\u0431\u0456 \u045E \u0441\u0432\u0430\u0456\u0445
+          \u043C\u044D\u0442\u0430\u0445"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05D9\u05DB\u05D5\u05DC \u05DC\u05D4\u05E9\u05EA\u05DE\u05E9
+          \u05D1\u05D6\u05D5\u05DE\u05D1\u05D9\u05DD \u05D0\u05D7\u05E8\u05D9\u05DD
+          \u05DC\u05DE\u05D8\u05E8\u05D5\u05EA \u05E9\u05DC\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u056F\u0561\u0580\u0578\u0572 \u0565\u0574 \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0565\u056C
+          \u0561\u0575\u056C \u0566\u0578\u0574\u0562\u056B\u0576\u0565\u0580 \u056B\u0574
+          \u0576\u057A\u0561\u057F\u0561\u056F\u0576\u0565\u0580\u056B \u0570\u0561\u0574\u0561\u0580"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E8\u10D4\u10DB\u10D8\u10EB\u10DA\u10D8\u10D0 \u10E1\u10EE\u10D5\u10D0
+          \u10D6\u10DD\u10DB\u10D1\u10D4\u10D1\u10D8\u10E1 \u10D2\u10D0\u10DB\u10DD\u10E7\u10D4\u10DC\u10D4\u10D1\u10D0
+          \u10E1\u10D0\u10D9\u10E3\u10D7\u10D0\u10E0\u10D8 \u10DB\u10D8\u10D6\u10DC\u10D4\u10D1\u10D8\u10E1\u10D7\u10D5\u10D8\u10E1"
+      - language: 8
+        text: "Ma saan kasutada teisi zombisid oma eesm\xE4rkidel"
+      - language: 9
+        text: "Je peux utiliser d'autres zombies \xE0 mes propres fins"
+      - language: 10
+        text: "\u041C\u0435\u043D \u0431\u0430\u0441\u049B\u0430 \u0437\u043E\u043C\u0431\u0438\u043B\u0435\u0440\u0434\u0456
+          \u04E9\u0437 \u043C\u0430\u049B\u0441\u0430\u0442\u0442\u0430\u0440\u044B\u043C
+          \u04AF\u0448\u0456\u043D \u043F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0430
+          \u0430\u043B\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u0431\u0430\u0448\u043A\u0430 \u0437\u043E\u043C\u0431\u0438\u043B\u0435\u0440\u0434\u0438
+          \u04E9\u0437 \u043C\u0430\u043A\u0441\u0430\u0442\u0442\u0430\u0440\u044B\u043C
+          \u04AF\u0447\u04AF\u043D \u043A\u043E\u043B\u0434\u043E\u043D\u043E \u0430\u043B\u0430\u043C"
+      - language: 12
+        text: Galiu naudoti kitus zombius savo tikslams
+      - language: 13
+        text: "Es varu izmantot citus zombijus saviem m\u0113r\u0137iem"
+      - language: 14
+        text: "Pot folosi al\u021Bi zombi \xEEn propriile mele scopuri"
+      - language: 15
+        text: "\u041C\u0430\u043D \u043C\u0435\u0442\u0430\u0432\u043E\u043D\u0430\u043C
+          \u0437\u043E\u043C\u0431\u0438\u04B3\u043E\u0438 \u0434\u0438\u0433\u0430\u0440\u0440\u043E
+          \u0431\u0430\u0440\u043E\u0438 \u043C\u0430\u049B\u0441\u0430\u0434\u04B3\u043E\u0438
+          \u0445\u0443\u0434 \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430 \u0431\u0430\u0440\u0430\u043C"
+      - language: 16
+        text: "Be\xFDleki zombileri \xF6z maksatlarym \xFC\xE7in ulanyp bilerin"
+      - language: 17
+        text: "\u042F \u043C\u043E\u0436\u0443 \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u0432\u0430\u0442\u0438
+          \u0456\u043D\u0448\u0438\u0445 \u0437\u043E\u043C\u0431\u0456 \u0443 \u0441\u0432\u043E\u0457\u0445
+          \u0446\u0456\u043B\u044F\u0445"
+      - language: 18
+        text: Men o'z maqsadlarim uchun boshqa zombilardan foydalanishim mumkin
+      - language: 19
+        text: Puedo utilizar otros zombies para mis propios fines.
+      - language: 20
+        text: "Posso usar outros zumbis para meus pr\xF3prios prop\xF3sitos"
+      - language: 21
+        text: "\u064A\u0645\u0643\u0646\u0646\u064A \u0627\u0633\u062A\u062E\u062F\u0627\u0645
+          \u0627\u0644\u0632\u0648\u0645\u0628\u064A \u0627\u0644\u0622\u062E\u0631\u064A\u0646
+          \u0644\u0623\u063A\u0631\u0627\u0636\u064A \u0627\u0644\u062E\u0627\u0635\u0629"
+      - language: 22
+        text: Saya dapat menggunakan zombie lain untuk tujuan saya sendiri
+      - language: 23
+        text: "\u4ED6\u306E\u30BE\u30F3\u30D3\u3092\u81EA\u5206\u306E\u76EE\u7684\u306B\u4F7F\u7528\u3067\u304D\u308B"
+      - language: 24
+        text: Posso usare altri zombi per i miei scopi
+      - language: 25
+        text: "Ich kann andere Zombies f\xFCr meine eigenen Zwecke nutzen"
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u092A\u0928\u0947 \u0909\u0926\u094D\u0926\u0947\u0936\u094D\u092F\u094B\u0902
+          \u0915\u0947 \u0932\u093F\u090F \u0905\u0928\u094D\u092F \u091C\u0949\u092E\u094D\u092C\u0940\u091C\u093C
+          \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930 \u0938\u0915\u0924\u093E
+          \u0939\u0942\u0901"

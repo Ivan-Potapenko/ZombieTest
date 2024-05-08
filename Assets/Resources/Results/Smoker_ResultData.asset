@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b6cdadd3e32004b8ebadbc0deb1979, type: 3}
+  m_Name: Smoker_ResultData
+  m_EditorClassIdentifier: 
+  _id: Smoker
+  _background: {fileID: 21300000, guid: 8a91e4cc1c22bed44ad839203a80e518, type: 3}
+  _title:
+    _defaultText: "\u0412\u044B \u043A\u0443\u0440\u0438\u043B\u044C\u0449\u0438\u043A"
+    _languages:
+    - language: 0
+      text: "\u0412\u044B \u043A\u0443\u0440\u0438\u043B\u044C\u0449\u0438\u043A"
+    - language: 1
+      text: Are you a smoker?
+    - language: 2
+      text: "sigara kullan\u0131yormusun?"
+    - language: 3
+      text: "Siqaret \xE7\u0259k\u0259ns\u0259n?"
+    - language: 4
+      text: "\u0412\u044B \u043A\u0443\u0440\u044D\u0446"
+    - language: 5
+      text: "\u05D4\u05D0\u05DD \u05D0\u05EA\u05D4 \u05DE\u05E2\u05E9\u05DF?"
+    - language: 6
+      text: "\u0534\u0578\u0582\u0584 \u056E\u056D\u0578\u055E\u0582\u0574 \u0565\u0584:"
+    - language: 7
+      text: "\u10DB\u10EC\u10D4\u10D5\u10D4\u10DA\u10D8 \u10EE\u10D0\u10E0?"
+    - language: 8
+      text: Kas sa oled suitsetaja?
+    - language: 9
+      text: "\xCAtes-vous fumeur?"
+    - language: 10
+      text: "\u0421\u0456\u0437 \u0442\u0435\u043C\u0435\u043A\u0456 \u0448\u0435\u0433\u0435\u0442\u0456\u043D\u0441\u0456\u0437
+        \u0431\u0435?"
+    - language: 11
+      text: "\u0421\u0438\u0437 \u0442\u0430\u043C\u0435\u043A\u0438 \u0442\u0430\u0440\u0442\u0430\u0441\u044B\u0437\u0431\u044B?"
+    - language: 12
+      text: "Ar j\u016Bs r\u016Bkote?"
+    - language: 13
+      text: "Vai j\u016Bs esat sm\u0113\u0137\u0113t\u0101js?"
+    - language: 14
+      text: "E\u0219ti fum\u0103tor?"
+    - language: 15
+      text: "\u041E\u0451 \u0448\u0443\u043C\u043E \u0442\u0430\u043C\u043E\u043A\u0443\u043A\u0430\u0448\u0435\u0434?"
+    - language: 16
+      text: "\xC7ilim \xE7ek\xFD\xE4rsi\u0148izmi?"
+    - language: 17
+      text: "\u0412\u0438 \u043A\u0443\u0440\u0435\u0446\u044C"
+    - language: 18
+      text: Siz chekuvchimisiz?
+    - language: 19
+      text: "\xBFEres fumador?"
+    - language: 20
+      text: "Voc\xEA \xE9 um fumante?"
+    - language: 21
+      text: "\u0647\u0644 \u0623\u0646\u062A \u0645\u062F\u062E\u0646\u061F"
+    - language: 22
+      text: Apakah Anda seorang perokok?
+    - language: 23
+      text: "\u3042\u306A\u305F\u306F\u55AB\u7159\u8005\u3067\u3059\u304B\uFF1F"
+    - language: 24
+      text: Sei un fumatore?
+    - language: 25
+      text: Bist du Raucher?
+    - language: 26
+      text: "\u0915\u094D\u092F\u093E \u0906\u092A \u0927\u0942\u092E\u094D\u0930\u092A\u093E\u0928
+        \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?"
+  _description:
+    _defaultText: "\u041A\u0443\u0440\u0438\u043B\u044C\u0449\u0438\u043A  \u2014
+      \u043E\u0441\u043E\u0431\u044B\u0439 \u0437\u0430\u0440\u0430\u0436\u0451\u043D\u043D\u044B\u0439
+      \u0441 30\u201440-\u043C\u0435\u0442\u0440\u043E\u0432\u044B\u043C \u044F\u0437\u044B\u043A\u043E\u043C,
+      \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u043E\u043D \u043C\u043E\u0436\u0435\u0442
+      \u043F\u0440\u0438\u0442\u044F\u0433\u0438\u0432\u0430\u0442\u044C \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445,
+      \u0441\u0431\u0438\u0432\u0430\u044F \u0438\u0445 \u0441 \u043D\u043E\u0433,
+      \u0438 \u0434\u0443\u0448\u0438\u0442\u044C \u0438\u0445."
+    _languages:
+    - language: 0
+      text: "\u041A\u0443\u0440\u0438\u043B\u044C\u0449\u0438\u043A  \u2014 \u043E\u0441\u043E\u0431\u044B\u0439
+        \u0437\u0430\u0440\u0430\u0436\u0451\u043D\u043D\u044B\u0439 \u0441 30\u201440-\u043C\u0435\u0442\u0440\u043E\u0432\u044B\u043C
+        \u044F\u0437\u044B\u043A\u043E\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u043C
+        \u043E\u043D \u043C\u043E\u0436\u0435\u0442 \u043F\u0440\u0438\u0442\u044F\u0433\u0438\u0432\u0430\u0442\u044C
+        \u0432\u044B\u0436\u0438\u0432\u0448\u0438\u0445, \u0441\u0431\u0438\u0432\u0430\u044F
+        \u0438\u0445 \u0441 \u043D\u043E\u0433, \u0438 \u0434\u0443\u0448\u0438\u0442\u044C
+        \u0438\u0445."
+    - language: 1
+      text: The Smoker is a special infected with a 30-40 meter long tongue, which
+        he can use to attract survivors, knocking them down, and suffocate them.
+    - language: 2
+      text: "Sigara \u0130\xE7en, hayatta kalanlar\u0131 kendine \xE7ekmek, yere
+        sermek ve bo\u011Fmak i\xE7in kullanabilece\u011Fi 30-40 metre uzunlu\u011Funda
+        bir dile sahip \xF6zel bir enfeksiyondur."
+    - language: 3
+      text: "Siqaret \xE7\u0259k\u0259n, 30-40 metr uzunlu\u011Funda dili il\u0259
+        yoluxmu\u015F x\xFCsusi bir dildir, sa\u011F qalanlar\u0131 c\u0259lb etm\u0259k,
+        onlar\u0131 y\u0131xmaq v\u0259 bo\u011Fmaq \xFC\xE7\xFCn istifad\u0259 ed\u0259
+        bil\u0259r."
+    - language: 4
+      text: "\u041A\u0443\u0440\u044D\u0446 - \u0430\u0434\u043C\u044B\u0441\u043B\u043E\u0432\u044B
+        \u0437\u0430\u0440\u0430\u0436\u0430\u043D\u044B \u0437 30-40-\u043C\u0435\u0442\u0440\u043E\u0432\u0430\u0439
+        \u043C\u043E\u0432\u0430\u0439, \u044F\u043A\u0456\u043C \u0451\u043D \u043C\u043E\u0436\u0430
+        \u043F\u0440\u044B\u0446\u044F\u0433\u0432\u0430\u0446\u044C \u0442\u044B\u0445,
+        \u0445\u0442\u043E \u0432\u044B\u0436\u044B\u045E, \u0437\u0431\u0456\u0432\u0430\u044E\u0447\u044B
+        \u0456\u0445 \u0437 \u043D\u043E\u0433, \u0456 \u0434\u0443\u0448\u044B\u0446\u044C
+        \u0456\u0445."
+    - language: 5
+      text: "\u05D4\u05DE\u05E2\u05E9\u05DF \u05D4\u05D5\u05D0 \u05DE\u05D9\u05D5\u05D7\u05D3
+        \u05E0\u05D2\u05D5\u05E2 \u05D1\u05DC\u05E9\u05D5\u05DF \u05D1\u05D0\u05D5\u05E8\u05DA
+        30-40 \u05DE\u05D8\u05E8, \u05E9\u05D1\u05D4 \u05D4\u05D5\u05D0 \u05D9\u05DB\u05D5\u05DC
+        \u05DC\u05D4\u05E9\u05EA\u05DE\u05E9 \u05DB\u05D3\u05D9 \u05DC\u05DE\u05E9\u05D5\u05DA
+        \u05E0\u05D9\u05E6\u05D5\u05DC\u05D9\u05DD, \u05DC\u05D4\u05E4\u05D9\u05DC
+        \u05D0\u05D5\u05EA\u05DD \u05D5\u05DC\u05D7\u05E0\u05E7 \u05D0\u05D5\u05EA\u05DD."
+    - language: 6
+      text: "\u053E\u056D\u0578\u0572\u0568 \u0570\u0561\u057F\u0578\u0582\u056F
+        \u057E\u0561\u0580\u0561\u056F\u057E\u0561\u056E \u0567 30-40 \u0574\u0565\u057F\u0580
+        \u0565\u0580\u056F\u0561\u0580\u0578\u0582\u0569\u0575\u0561\u0574\u0562
+        \u056C\u0565\u0566\u057E\u0578\u057E, \u0578\u0580\u0578\u057E \u0576\u0561
+        \u056F\u0561\u0580\u0578\u0572 \u0567 \u0563\u0580\u0561\u057E\u0565\u056C
+        \u0578\u0572\u057B \u0574\u0576\u0561\u0581\u0561\u056E\u0576\u0565\u0580\u056B\u0576,
+        \u057F\u0561\u057A\u0561\u056C\u0565\u056C \u0587 \u056D\u0565\u0572\u0564\u0565\u056C
+        \u0576\u0580\u0561\u0576\u0581\u0589"
+    - language: 7
+      text: "\u10DB\u10EC\u10D4\u10D5\u10D4\u10DA\u10D8 \u10D0\u10E0\u10D8\u10E1
+        \u10E1\u10DE\u10D4\u10EA\u10D8\u10D0\u10DA\u10E3\u10E0\u10D8 \u10D8\u10DC\u10E4\u10D8\u10EA\u10D8\u10E0\u10D4\u10D1\u10E3\u10DA\u10D8
+        30-40 \u10DB\u10D4\u10E2\u10E0\u10D8 \u10E1\u10D8\u10D2\u10E0\u10EB\u10D8\u10E1
+        \u10D4\u10DC\u10D8\u10D7, \u10E0\u10DD\u10DB\u10DA\u10D8\u10D7\u10D0\u10EA
+        \u10DB\u10D0\u10E1 \u10E8\u10D4\u10E3\u10EB\u10DA\u10D8\u10D0 \u10D2\u10D0\u10D3\u10D0\u10E0\u10E9\u10D4\u10DC\u10D8\u10DA\u10D4\u10D1\u10D8\u10E1
+        \u10DB\u10DD\u10E1\u10D0\u10D6\u10D8\u10D3\u10D0\u10D3, \u10E9\u10D0\u10DB\u10DD\u10D2\u10D3\u10D4\u10D1\u10D0
+        \u10D3\u10D0 \u10D3\u10D0\u10EE\u10E0\u10E9\u10DD\u10D1\u10D0."
+    - language: 8
+      text: "Suitsetaja on spetsiaalne nakatunud 30-40 meetri pikkuse keelega, millega
+        ta saab elluj\xE4\xE4nuid ligi meelitada, neid pikali l\xFCkata ja l\xE4mmatada."
+    - language: 9
+      text: "Le Fumeur est un infect\xE9 sp\xE9cial dot\xE9 d'une langue de 30 \xE0
+        40 m\xE8tres de long, qu'il peut utiliser pour attirer les survivants, les
+        renverser et les \xE9touffer."
+    - language: 10
+      text: "\u0422\u0435\u043C\u0435\u043A\u0456 \u0448\u0435\u0433\u0443\u0448\u0456
+        \u2013 30-40 \u043C\u0435\u0442\u0440 \u04B1\u0437\u044B\u043D\u0434\u044B\u049B\u0442\u0430\u0493\u044B
+        \u0442\u0456\u043B\u043C\u0435\u043D \u0430\u0443\u044B\u0440\u0430\u0442\u044B\u043D
+        \u0435\u0440\u0435\u043A\u0448\u0435, \u043E\u043B \u0442\u0456\u0440\u0456
+        \u049B\u0430\u043B\u0493\u0430\u043D\u0434\u0430\u0440\u0434\u044B \u04E9\u0437\u0456\u043D\u0435
+        \u0442\u0430\u0440\u0442\u044B\u043F, \u049B\u04B1\u043B\u0430\u0442\u044B\u043F,
+        \u0442\u04B1\u043D\u0448\u044B\u049B\u0442\u044B\u0440\u0430\u0442\u044B\u043D
+        \u0431\u043E\u043B\u0430\u0434\u044B."
+    - language: 11
+      text: "\u0422\u0430\u043C\u0435\u043A\u0438\u0447\u0438 \u2014 30-40 \u043C\u0435\u0442\u0440
+        \u0443\u0437\u0443\u043D\u0434\u0443\u043A\u0442\u0430\u0433\u044B \u0442\u0438\u043B
+        \u043C\u0435\u043D\u0435\u043D \u043E\u043E\u0440\u0443\u0433\u0430\u043D
+        \u04E9\u0437\u0433\u04E9\u0447\u04E9, \u0430\u043B \u0442\u0438\u0440\u04AF\u04AF
+        \u043A\u0430\u043B\u0433\u0430\u043D\u0434\u0430\u0440\u0434\u044B \u04E9\u0437\u04AF\u043D\u04E9
+        \u0442\u0430\u0440\u0442\u044B\u043F, \u0430\u043B\u0430\u0440\u0434\u044B
+        \u043A\u0443\u043B\u0430\u0442\u044B\u043F, \u043C\u0443\u0443\u043D\u0442\u0443\u043F
+        \u0430\u043B\u0430\u0442."
+    - language: 12
+      text: "R\u016Bkalius yra specialus u\u017Ekr\u0117stas 30-40 metr\u0173 ilgio
+        lie\u017Euviu, kuriuo jis gali privilioti i\u0161gyvenusius, numu\u0161ti
+        juos ir u\u017Edusinti."
+    - language: 13
+      text: "Sm\u0113\u0137\u0113t\u0101js ir \u012Bpa\u0161i infic\u0113ts ar 30-40
+        metrus garu m\u0113li, ar kuru vi\u0146\u0161 var piesaist\u012Bt izdz\u012Bvoju\u0161os,
+        notriekt tos un nosmac\u0113t."
+    - language: 14
+      text: "Fum\u0103torul este un special infectat cu o limb\u0103 lung\u0103 de
+        30-40 de metri, pe care o poate folosi pentru a atrage supravie\u021Buitori,
+        dobor\xE2ndu-i \u0219i sufoc\xE2ndu-i."
+    - language: 15
+      text: "\u0422\u0430\u043C\u043E\u043A\u0443\u043A\u0430\u0448 \u044F\u043A
+        \u0437\u0430\u0431\u043E\u043D\u0438 \u043C\u0430\u0445\u0441\u0443\u0441\u0435\u0441\u0442,
+        \u043A\u0438 30-40 \u043C\u0435\u0442\u0440 \u0434\u0430\u0440\u043E\u0437\u04E3
+        \u0434\u043E\u0440\u0430\u0434, \u043A\u0438 \u0431\u043E \u043E\u043D \u043C\u0435\u0442\u0430\u0432\u043E\u043D\u0430\u0434
+        \u043D\u0430\u04B7\u043E\u0442\u0451\u0444\u0442\u0430\u0433\u043E\u043D\u0440\u043E
+        \u04B7\u0430\u043B\u0431 \u043A\u0443\u043D\u0430\u0434, \u043E\u043D\u04B3\u043E\u0440\u043E
+        \u0430\u0444\u0442\u043E\u043D\u0430\u0434 \u0432\u0430 \u043F\u0430\u0445\u0448
+        \u043A\u0443\u043D\u0430\u0434."
+    - language: 16
+      text: "\xC7ilimke\u015F, diri galanlary \xF6z\xFCne \xE7ekmek, \xFDykmak we
+        bogmak \xFC\xE7in ulanyp boljak 30-40 metr uzynlykdaky dil bilen \xFDoka\u015Fan
+        adamdyr."
+    - language: 17
+      text: "\u041A\u0443\u0440\u0435\u0446\u044C \u2014 \u043E\u0441\u043E\u0431\u043B\u0438\u0432\u0438\u0439
+        \u0437\u0430\u0440\u0430\u0436\u0435\u043D\u0438\u0439 \u0456\u0437 30\u201440-\u043C\u0435\u0442\u0440\u043E\u0432\u043E\u044E
+        \u043C\u043E\u0432\u043E\u044E, \u044F\u043A\u043E\u044E \u0432\u0456\u043D
+        \u043C\u043E\u0436\u0435 \u043F\u0440\u0438\u0442\u044F\u0433\u0443\u0432\u0430\u0442\u0438
+        \u0442\u0438\u0445, \u0445\u0442\u043E \u0432\u0438\u0436\u0438\u0432, \u0437\u0431\u0438\u0432\u0430\u044E\u0447\u0438
+        \u0457\u0445 \u0437 \u043D\u0456\u0433, \u0456 \u0434\u0443\u0448\u0438\u0442\u0438
+        \u0457\u0445."
+    - language: 18
+      text: Chekuvchi 30-40 metr uzunlikdagi til bilan kasallangan maxsus odam bo'lib,
+        u tirik qolganlarni jalb qilish, ularni yiqitish va bo'g'ish uchun foydalanishi
+        mumkin.
+    - language: 19
+      text: El Fumador es un infectado especial con una lengua de 30 a 40 metros
+        de largo, que puede utilizar para atraer a los supervivientes, derribarlos
+        y asfixiarlos.
+    - language: 20
+      text: "O Smoker \xE9 um infectado especial com uma l\xEDngua de 30 a 40 metros
+        de comprimento, que pode usar para atrair sobreviventes, derrubando-os e
+        sufocando-os."
+    - language: 21
+      text: "\u0627\u0644\u0645\u062F\u062E\u0646 \u0647\u0648 \u0645\u0635\u0627\u0628
+        \u062E\u0627\u0635 \u0648\u0644\u0647 \u0644\u0633\u0627\u0646 \u064A\u0628\u0644\u063A
+        \u0637\u0648\u0644\u0647 30-40 \u0645\u062A\u0631\u064B\u0627\u060C \u064A\u0645\u0643\u0646\u0647
+        \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647 \u0644\u062C\u0630\u0628
+        \u0627\u0644\u0646\u0627\u062C\u064A\u0646 \u0648\u0637\u0631\u062D\u0647\u0645
+        \u0623\u0631\u0636\u064B\u0627 \u0648\u062E\u0646\u0642\u0647\u0645."
+    - language: 22
+      text: Perokok adalah orang yang terinfeksi khusus dengan lidah sepanjang 30-40
+        meter, yang dapat ia gunakan untuk menarik orang yang selamat, menjatuhkan
+        mereka, dan mencekik mereka.
+    - language: 23
+      text: "\u30B9\u30E2\u30FC\u30AB\u30FC\u306F30\uFF5E40\u30E1\u30FC\u30C8\u30EB\u306E\u9577\u3055\u306E\u820C\u3092\u6301\u3064\u7279\u6B8A\u306A\u611F\u67D3\u8005\u3067\u3001\u305D\u306E\u820C\u3092\u4F7F\u3063\u3066\u751F\u5B58\u8005\u3092\u5F15\u304D\u5BC4\u305B\u3001\u5012\u3057\u3001\u7A92\u606F\u3055\u305B\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u3002"
+    - language: 24
+      text: "Lo Smoker \xE8 un infetto speciale dotato di una lingua lunga 30-40
+        metri, che pu\xF2 utilizzare per attirare i sopravvissuti, abbattendoli,
+        e soffocarli."
+    - language: 25
+      text: "Der Raucher ist ein spezieller Infizierter mit einer 30\u201340 Meter
+        langen Zunge, mit der er \xDCberlebende anlocken, sie niederschlagen und
+        ersticken kann."
+    - language: 26
+      text: "\u0927\u0942\u092E\u094D\u0930\u092A\u093E\u0928 \u0915\u0930\u0928\u0947
+        \u0935\u093E\u0932\u093E \u090F\u0915 \u0935\u093F\u0936\u0947\u0937 \u0938\u0902\u0915\u094D\u0930\u092E\u093F\u0924
+        \u0935\u094D\u092F\u0915\u094D\u0924\u093F \u0939\u0948 \u091C\u093F\u0938\u0915\u0947
+        \u092A\u093E\u0938 30-40 \u092E\u0940\u091F\u0930 \u0932\u0902\u092C\u0940
+        \u091C\u0940\u092D \u0939\u094B\u0924\u0940 \u0939\u0948, \u091C\u093F\u0938\u0915\u093E
+        \u0909\u092A\u092F\u094B\u0917 \u0935\u0939 \u091C\u0940\u0935\u093F\u0924
+        \u092C\u091A\u0947 \u0932\u094B\u0917\u094B\u0902 \u0915\u094B \u0906\u0915\u0930\u094D\u0937\u093F\u0924
+        \u0915\u0930\u0928\u0947, \u0909\u0928\u094D\u0939\u0947\u0902 \u0928\u0940\u091A\u0947
+        \u0917\u093F\u0930\u093E\u0928\u0947 \u0914\u0930 \u0909\u0928\u0915\u093E
+        \u0926\u092E \u0918\u094B\u0902\u091F\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F
+        \u0915\u0930 \u0938\u0915\u0924\u093E \u0939\u0948\u0964"

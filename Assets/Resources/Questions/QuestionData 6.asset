@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 6
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A \u0432\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u0441\u044C
+      \u043A \u0441\u0438\u043B\u043E\u0432\u044B\u043C \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430\u043C?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A \u0432\u044B \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u0441\u044C
+        \u043A \u0441\u0438\u043B\u043E\u0432\u044B\u043C \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430\u043C?"
+    - language: 1
+      text: How do you feel about law enforcement agencies?
+    - language: 2
+      text: "Emniyet te\u015Fkilatlar\u0131 hakk\u0131nda ne d\xFC\u015F\xFCn\xFCyorsunuz?"
+    - language: 3
+      text: "H\xFCquq-m\xFChafiz\u0259 orqanlar\u0131na m\xFCnasib\u0259tiniz nec\u0259dir?"
+    - language: 4
+      text: "\u042F\u043A \u0432\u044B \u0441\u0442\u0430\u0432\u0456\u0446\u0435\u0441\u044F
+        \u0434\u0430 \u0441\u0456\u043B\u0430\u0432\u044B\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440?"
+    - language: 5
+      text: "\u05D0\u05D9\u05DA \u05D0\u05EA\u05D4 \u05DE\u05E8\u05D2\u05D9\u05E9
+        \u05DC\u05D2\u05D1\u05D9 \u05E8\u05E9\u05D5\u05D9\u05D5\u05EA \u05D0\u05DB\u05D9\u05E4\u05EA
+        \u05D4\u05D7\u05D5\u05E7?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u0565\u055E\u057D \u0565\u0584 \u057E\u0565\u0580\u0561\u0562\u0565\u0580\u057E\u0578\u0582\u0574
+        \u056B\u0580\u0561\u057E\u0561\u057A\u0561\u0570 \u0574\u0561\u0580\u0574\u056B\u0576\u0576\u0565\u0580\u056B\u0576:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0 \u10E4\u10D8\u10E5\u10E0\u10DD\u10D1\u10D7
+        \u10E1\u10D0\u10DB\u10D0\u10E0\u10D7\u10D0\u10DA\u10D3\u10D0\u10DB\u10EA\u10D0\u10D5\u10D8
+        \u10DD\u10E0\u10D2\u10D0\u10DC\u10DD\u10D4\u10D1\u10D8\u10E1 \u10DB\u10D8\u10DB\u10D0\u10E0\u10D7?"
+    - language: 8
+      text: "Kuidas suhtute \xF5iguskaitseorganitesse?"
+    - language: 9
+      text: "Que pensez-vous des forces de l\u2019ordre ?"
+    - language: 10
+      text: "\u049A\u04B1\u049B\u044B\u049B \u049B\u043E\u0440\u0493\u0430\u0443
+        \u043E\u0440\u0433\u0430\u043D\u0434\u0430\u0440\u044B\u043D\u0430 \u049B\u0430\u043B\u0430\u0439
+        \u049B\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 11
+      text: "\u0423\u043A\u0443\u043A \u043A\u043E\u0440\u0433\u043E\u043E \u043E\u0440\u0433\u0430\u043D\u0434\u0430\u0440\u044B\u043D\u0430
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u043A\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kaip vertinate teis\u0117saugos institucijas?"
+    - language: 13
+      text: "K\u0101 j\u016Bs j\u016Btaties pret ties\u012Bbsarg\u0101jo\u0161aj\u0101m
+        iest\u0101d\u0113m?"
+    - language: 14
+      text: "Ce p\u0103rere ave\u021Bi despre agen\u021Biile de aplicare a legii?"
+    - language: 15
+      text: "\u0428\u0443\u043C\u043E \u043D\u0438\u0441\u0431\u0430\u0442\u0438
+        \u043C\u0430\u049B\u043E\u043C\u043E\u0442\u0438 \u04B3\u0438\u0444\u0437\u0438
+        \u04B3\u0443\u049B\u0443\u049B \u0447\u04E3 \u043D\u0430\u0437\u0430\u0440
+        \u0434\u043E\u0440\u0435\u0434?"
+    - language: 16
+      text: "Hukuk gora\xFDjy edaralara n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A \u0432\u0438 \u0441\u0442\u0430\u0432\u0438\u0442\u0435\u0441\u044F
+        \u0434\u043E \u0441\u0438\u043B\u043E\u0432\u0438\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440?"
+    - language: 18
+      text: Huquqni muhofaza qilish organlariga qanday qaraysiz?
+    - language: 19
+      text: "\xBFQu\xE9 opinas de las fuerzas del orden?"
+    - language: 20
+      text: "Como voc\xEA se sente em rela\xE7\xE3o \xE0s ag\xEAncias de aplica\xE7\xE3o
+        da lei?"
+    - language: 21
+      text: "\u0645\u0627 \u0647\u0648 \u0634\u0639\u0648\u0631\u0643 \u062A\u062C\u0627\u0647
+        \u0648\u0643\u0627\u0644\u0627\u062A \u0625\u0646\u0641\u0627\u0630 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u061F"
+    - language: 22
+      text: Bagaimana perasaan Anda terhadap lembaga penegak hukum?
+    - language: 23
+      text: "\u6CD5\u57F7\u884C\u6A5F\u95A2\u306B\u3064\u3044\u3066\u3069\u3046\u601D\u3044\u307E\u3059\u304B?"
+    - language: 24
+      text: Cosa ne pensi delle forze dell'ordine?
+    - language: 25
+      text: "Wie stehen Sie zu den Strafverfolgungsbeh\xF6rden?"
+    - language: 26
+      text: "\u0906\u092A \u0915\u093E\u0928\u0942\u0928 \u092A\u094D\u0930\u0935\u0930\u094D\u0924\u0928
+        \u090F\u091C\u0947\u0902\u0938\u093F\u092F\u094B\u0902 \u0915\u0947 \u092C\u093E\u0930\u0947
+        \u092E\u0947\u0902 \u0915\u0948\u0938\u093E \u092E\u0939\u0938\u0942\u0938
+        \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?"
+  _answersData:
+  - _resultDataId:
+      _value: Witch
+    _localizedText:
+      _defaultText: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0438\u0433\u043D\u043E\u0440\u0438\u0440\u0443\u044E
+        \u0441\u0438\u043B\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B
+        \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E \u043F\u043E \u0441\u0432\u043E\u0435\u043C\u0443
+        \u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u044E"
+      _languages:
+      - language: 0
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0438\u0433\u043D\u043E\u0440\u0438\u0440\u0443\u044E
+          \u0441\u0438\u043B\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B
+          \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E \u043F\u043E \u0441\u0432\u043E\u0435\u043C\u0443
+          \u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u044E"
+      - language: 1
+        text: I just ignore the power structures and act on my own
+      - language: 2
+        text: "G\xFC\xE7 yap\u0131lar\u0131n\u0131 g\xF6rmezden geliyorum ve kendi
+          ba\u015F\u0131ma hareket ediyorum"
+      - language: 3
+        text: "M\u0259n sad\u0259c\u0259 g\xFCc strukturlar\u0131na m\u0259h\u0259l
+          qoymuram v\u0259 \xF6zba\u015F\u0131na h\u0259r\u0259k\u0259t edir\u0259m"
+      - language: 4
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u0430 \u0456\u0433\u043D\u0430\u0440\u0443\u044E
+          \u0441\u0456\u043B\u0430\u0432\u044B\u044F \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B
+          \u0456 \u0434\u0437\u0435\u0439\u043D\u0456\u0447\u0430\u044E \u043F\u0430
+          \u0441\u0432\u0430\u0456\u043C \u043C\u0435\u0440\u043A\u0430\u0432\u0430\u043D\u043D\u0456"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E4\u05E9\u05D5\u05D8 \u05DE\u05EA\u05E2\u05DC\u05DD
+          \u05DE\u05DE\u05D1\u05E0\u05D9 \u05D4\u05DB\u05D5\u05D7 \u05D5\u05E4\u05D5\u05E2\u05DC
+          \u05D1\u05E2\u05E6\u05DE\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u0578\u0582\u0572\u0572\u0561\u056F\u056B \u0561\u0576\u057F\u0565\u057D\u0578\u0582\u0574
+          \u0565\u0574 \u0578\u0582\u056A\u0561\u0575\u056B\u0576 \u056F\u0561\u057C\u0578\u0582\u0575\u0581\u0576\u0565\u0580\u0568
+          \u0587 \u0563\u0578\u0580\u056E\u0578\u0582\u0574 \u0565\u0574 \u056B\u0576\u0584\u0576\u0578\u0582\u0580\u0578\u0582\u0575\u0576"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E3\u10D1\u10E0\u10D0\u10DA\u10DD\u10D3 \u10E3\u10D2\u10E3\u10DA\u10D4\u10D1\u10D4\u10DA\u10E7\u10DD\u10E4
+          \u10EB\u10D0\u10DA\u10D0\u10E3\u10E4\u10DA\u10D4\u10D1\u10D8\u10E1 \u10E1\u10E2\u10E0\u10E3\u10E5\u10E2\u10E3\u10E0\u10D4\u10D1\u10E1
+          \u10D3\u10D0 \u10D5\u10DB\u10DD\u10E5\u10DB\u10D4\u10D3\u10D4\u10D1 \u10E1\u10D0\u10D9\u10E3\u10D7\u10D0\u10E0
+          \u10D7\u10D0\u10D5\u10D6\u10D4"
+      - language: 8
+        text: "Ma lihtsalt ignoreerin j\xF5ustruktuure ja tegutsen ise"
+      - language: 9
+        text: "J'ignore simplement les structures de pouvoir et j'agis par moi-m\xEAme"
+      - language: 10
+        text: "\u041A\u04AF\u0448 \u049B\u04B1\u0440\u044B\u043B\u044B\u043C\u0434\u0430\u0440\u044B\u043D
+          \u0435\u043B\u0435\u043C\u0435\u0439, \u04E9\u0437 \u0431\u0435\u0442\u0456\u043C\u0448\u0435
+          \u04D9\u0440\u0435\u043A\u0435\u0442 \u0435\u0442\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u0411\u043E\u043B\u0433\u043E\u043D\u0443 \u043A\u04AF\u0447 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430\u043B\u0430\u0440\u044B\u043D
+          \u0442\u043E\u0433\u043E\u0442\u043F\u043E\u0439, \u04E9\u0437 \u0430\u043B\u0434\u044B\u043C\u0447\u0430
+          \u0438\u0448 \u0430\u043B\u044B\u043F \u0431\u0430\u0440\u0430\u043C"
+      - language: 12
+        text: "Tiesiog ignoruoju j\u0117gos strukt\u016Bras ir veikiu pati"
+      - language: 13
+        text: "Es vienk\u0101r\u0161i ignor\u0113ju varas strukt\u016Bras un r\u012Bkojos
+          pats"
+      - language: 14
+        text: "Pur \u0219i simplu ignor structurile de putere \u0219i ac\u021Bionez
+          pe cont propriu"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0442\u0430\u043D\u04B3\u043E \u0441\u043E\u0445\u0442\u043E\u0440\u04B3\u043E\u0438
+          \u049B\u0443\u0434\u0440\u0430\u0442\u0438\u0440\u043E \u043D\u043E\u0434\u0438\u0434\u0430
+          \u0433\u0438\u0440\u0438\u0444\u0442\u0430, \u0445\u0443\u0434\u0430\u043C
+          \u0430\u043C\u0430\u043B \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Di\u0148e g\xFC\xFD\xE7 gurlu\u015Flaryna \xFCns berme\xFD\xE4rin
+          we \xF6zba\u015Fdak hereket ed\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u0456\u0433\u043D\u043E\u0440\u0443\u044E
+          \u0441\u0438\u043B\u043E\u0432\u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438
+          \u0456 \u0434\u0456\u044E \u043D\u0430 \u0432\u043B\u0430\u0441\u043D\u0438\u0439
+          \u0440\u043E\u0437\u0441\u0443\u0434"
+      - language: 18
+        text: Men faqat kuch tuzilmalariga e'tibor bermayman va o'zim harakat qilaman
+      - language: 19
+        text: "Simplemente ignoro las estructuras de poder y act\xFAo por mi cuenta."
+      - language: 20
+        text: "Eu simplesmente ignoro as estruturas de poder e ajo por conta pr\xF3pria"
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0641\u0642\u0637 \u0623\u062A\u062C\u0627\u0647\u0644
+          \u0647\u064A\u0627\u0643\u0644 \u0627\u0644\u0633\u0644\u0637\u0629 \u0648\u0623\u062A\u0635\u0631\u0641
+          \u0628\u0645\u0641\u0631\u062F\u064A"
+      - language: 22
+        text: Saya hanya mengabaikan struktur kekuasaan dan bertindak sendiri
+      - language: 23
+        text: "\u6A29\u529B\u69CB\u9020\u3092\u7121\u8996\u3057\u3066\u72EC\u65AD\u3067\u884C\u52D5\u3059\u308B\u3060\u3051"
+      - language: 24
+        text: Ignoro semplicemente le strutture di potere e agisco per conto mio
+      - language: 25
+        text: Ich ignoriere einfach die Machtstrukturen und handle auf eigene Faust
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0938\u093F\u0930\u094D\u092B \u0938\u0924\u094D\u0924\u093E
+          \u0938\u0902\u0930\u091A\u0928\u093E\u0913\u0902 \u0915\u0940 \u0905\u0928\u0926\u0947\u0916\u0940
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902 \u0914\u0930 \u0905\u092A\u0928\u0947
+          \u0926\u092E \u092A\u0930 \u0915\u093E\u0930\u094D\u092F \u0915\u0930\u0924\u093E
+          \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Normal
+    _localizedText:
+      _defaultText: "\u042F \u043D\u0435 \u043E\u0431\u0440\u0430\u0449\u0430\u044E
+        \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F \u043D\u0430 \u0441\u0438\u043B\u043E\u0432\u044B\u0435
+        \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B"
+      _languages:
+      - language: 0
+        text: "\u042F \u043D\u0435 \u043E\u0431\u0440\u0430\u0449\u0430\u044E \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F
+          \u043D\u0430 \u0441\u0438\u043B\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B"
+      - language: 1
+        text: I don't pay attention to the power structures
+      - language: 2
+        text: "G\xFC\xE7 yap\u0131lar\u0131na dikkat etmiyorum"
+      - language: 3
+        text: "M\u0259n g\xFCc strukturlar\u0131na fikir vermir\u0259m"
+      - language: 4
+        text: "\u042F \u043D\u0435 \u0437\u0432\u0430\u0436\u0430\u044E \u043D\u0430
+          \u0441\u0456\u043B\u0430\u0432\u044B\u044F \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DC\u05D0 \u05E9\u05DD \u05DC\u05D1 \u05DC\u05DE\u05D1\u05E0\u05D9
+          \u05D4\u05DB\u05D5\u05D7"
+      - language: 6
+        text: "\u0548\u0582\u0577\u0561\u0564\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576
+          \u0579\u0565\u0574 \u0564\u0561\u0580\u0571\u0576\u0578\u0582\u0574 \u0578\u0582\u056A\u0561\u0575\u056B\u0576
+          \u056F\u0561\u057C\u0578\u0582\u0575\u0581\u0576\u0565\u0580\u056B\u0576"
+      - language: 7
+        text: "\u10EB\u10D0\u10DA\u10D0\u10E3\u10E4\u10DA\u10D4\u10D1\u10D8\u10E1
+          \u10E1\u10E2\u10E0\u10E3\u10E5\u10E2\u10E3\u10E0\u10D4\u10D1\u10E1 \u10E7\u10E3\u10E0\u10D0\u10D3\u10E6\u10D4\u10D1\u10D0\u10E1
+          \u10D0\u10E0 \u10D5\u10D0\u10E5\u10EA\u10D4\u10D5"
+      - language: 8
+        text: "Ma ei p\xF6\xF6ra t\xE4helepanu j\xF5ustruktuuridele"
+      - language: 9
+        text: Je ne fais pas attention aux structures de pouvoir
+      - language: 10
+        text: "\u041A\u04AF\u0448 \u049B\u04B1\u0440\u044B\u043B\u044B\u043C\u0434\u0430\u0440\u044B\u043D\u0430
+          \u043C\u04D9\u043D \u0431\u0435\u0440\u043C\u0435\u0439\u043C\u0456\u043D"
+      - language: 11
+        text: "\u041C\u0435\u043D \u043A\u04AF\u0447 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430\u043B\u0430\u0440\u044B\u043D\u0430
+          \u043A\u04E9\u04A3\u04AF\u043B \u0431\u0443\u0440\u0431\u0430\u0439\u043C"
+      - language: 12
+        text: "A\u0161 nekreipiu d\u0117mesio \u012F j\u0117gos strukt\u016Bras"
+      - language: 13
+        text: "Es nepiev\u0113r\u0161u uzman\u012Bbu sp\u0113ka strukt\u016Br\u0101m"
+      - language: 14
+        text: Nu sunt atent la structurile de putere
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u0430 \u0441\u043E\u0445\u0442\u043E\u0440\u04B3\u043E\u0438
+          \u049B\u0443\u0434\u0440\u0430\u0442\u04E3 \u0430\u04B3\u0430\u043C\u0438\u044F\u0442
+          \u043D\u0430\u043C\u0435\u0434\u0438\u04B3\u0430\u043C"
+      - language: 16
+        text: "Elektrik gurlu\u015Flaryna \xFCns beremok"
+      - language: 17
+        text: "\u042F \u043D\u0435 \u0437\u0432\u0435\u0440\u0442\u0430\u044E \u0443\u0432\u0430\u0433\u0438
+          \u043D\u0430 \u0441\u0438\u043B\u043E\u0432\u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438"
+      - language: 18
+        text: Men kuch tuzilmalariga e'tibor bermayman
+      - language: 19
+        text: "No presto atenci\xF3n a las estructuras de poder."
+      - language: 20
+        text: "Eu n\xE3o presto aten\xE7\xE3o \xE0s estruturas de poder"
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0644\u0627 \u0623\u0647\u062A\u0645 \u0628\u0647\u064A\u0627\u0643\u0644
+          \u0627\u0644\u0633\u0644\u0637\u0629"
+      - language: 22
+        text: Saya tidak memperhatikan struktur kekuasaan
+      - language: 23
+        text: "\u6A29\u529B\u69CB\u9020\u306B\u306F\u6CE8\u76EE\u3057\u3066\u3044\u306A\u3044"
+      - language: 24
+        text: Non presto attenzione alle strutture di potere
+      - language: 25
+        text: Ich achte nicht auf die Machtstrukturen
+      - language: 26
+        text: "\u092E\u0948\u0902 \u092C\u093F\u091C\u0932\u0940 \u0938\u0902\u0930\u091A\u0928\u093E\u0913\u0902
+          \u092A\u0930 \u0927\u094D\u092F\u093E\u0928 \u0928\u0939\u0940\u0902 \u0926\u0947\u0924\u093E"
+  - _resultDataId:
+      _value: Boomer
+    _localizedText:
+      _defaultText: "\u042F \u0441\u0442\u0430\u0440\u0430\u044E\u0441\u044C \u0438\u0437\u0431\u0435\u0433\u0430\u0442\u044C
+        \u0441\u0438\u043B\u044C\u043D\u044B\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440
+        \u0438 \u043F\u0440\u0435\u043F\u044F\u0442\u0441\u0442\u0432\u0438\u0439"
+      _languages:
+      - language: 0
+        text: "\u042F \u0441\u0442\u0430\u0440\u0430\u044E\u0441\u044C \u0438\u0437\u0431\u0435\u0433\u0430\u0442\u044C
+          \u0441\u0438\u043B\u044C\u043D\u044B\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440
+          \u0438 \u043F\u0440\u0435\u043F\u044F\u0442\u0441\u0442\u0432\u0438\u0439"
+      - language: 1
+        text: I try to avoid strong structures and obstacles
+      - language: 2
+        text: "G\xFC\xE7l\xFC yap\u0131lardan ve engellerden ka\xE7\u0131nmaya \xE7al\u0131\u015F\u0131yorum"
+      - language: 3
+        text: "G\xFCcl\xFC strukturlardan v\u0259 mane\u0259l\u0259rd\u0259n qa\xE7ma\u011Fa
+          \xE7al\u0131\u015F\u0131ram"
+      - language: 4
+        text: "\u042F \u0441\u0442\u0430\u0440\u0430\u044E\u0441\u044F \u043F\u0430\u0437\u0431\u044F\u0433\u0430\u0446\u044C
+          \u043C\u043E\u0446\u043D\u044B\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440
+          \u0456 \u043F\u0435\u0440\u0430\u0448\u043A\u043E\u0434"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E0\u05E1\u05D4 \u05DC\u05D4\u05D9\u05DE\u05E0\u05E2
+          \u05DE\u05DE\u05D1\u05E0\u05D9\u05DD \u05D5\u05DE\u05DB\u05E9\u05D5\u05DC\u05D9\u05DD
+          \u05D7\u05D6\u05E7\u05D9\u05DD"
+      - language: 6
+        text: "\u0553\u0578\u0580\u0571\u0578\u0582\u0574 \u0565\u0574 \u056D\u0578\u0582\u057D\u0561\u0583\u0565\u056C
+          \u0561\u0574\u0578\u0582\u0580 \u056F\u0561\u057C\u0578\u0582\u0575\u0581\u0576\u0565\u0580\u056B\u0581
+          \u0578\u0582 \u056D\u0578\u0579\u0568\u0576\u0564\u0578\u057F\u0576\u0565\u0580\u056B\u0581"
+      - language: 7
+        text: "\u10D5\u10EA\u10D3\u10D8\u10DA\u10DD\u10D1 \u10D7\u10D0\u10D5\u10D8\u10D3\u10D0\u10DC
+          \u10D0\u10D5\u10D8\u10EA\u10D8\u10DA\u10DD \u10EB\u10DA\u10D8\u10D4\u10E0\u10D8
+          \u10E1\u10E2\u10E0\u10E3\u10E5\u10E2\u10E3\u10E0\u10D4\u10D1\u10D8 \u10D3\u10D0
+          \u10D3\u10D0\u10D1\u10E0\u10D9\u10DD\u10DA\u10D4\u10D1\u10D4\u10D1\u10D8"
+      - language: 8
+        text: "P\xFC\xFCan v\xE4ltida tugevaid struktuure ja takistusi"
+      - language: 9
+        text: "J'essaie d'\xE9viter les structures solides et les obstacles"
+      - language: 10
+        text: "\u041C\u0435\u043D \u043A\u04AF\u0448\u0442\u0456 \u049B\u04B1\u0440\u044B\u043B\u044B\u043C\u0434\u0430\u0440
+          \u043C\u0435\u043D \u043A\u0435\u0434\u0435\u0440\u0433\u0456\u043B\u0435\u0440\u0434\u0435\u043D
+          \u0430\u0443\u043B\u0430\u049B \u0431\u043E\u043B\u0443\u0493\u0430 \u0442\u044B\u0440\u044B\u0441\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041A\u04AF\u0447\u0442\u04AF\u04AF \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430\u043B\u0430\u0440\u0434\u0430\u043D
+          \u0436\u0430\u043D\u0430 \u0442\u043E\u0441\u043A\u043E\u043E\u043B\u0434\u0443\u043A\u0442\u0430\u0440\u0434\u0430\u043D
+          \u043A\u0430\u0447\u0443\u0443\u0433\u0430 \u0430\u0440\u0430\u043A\u0435\u0442
+          \u043A\u044B\u043B\u0430\u043C"
+      - language: 12
+        text: "Stengiuosi vengti stipri\u0173 konstrukcij\u0173 ir kli\u016B\u010Di\u0173"
+      - language: 13
+        text: "Es cen\u0161os izvair\u012Bties no sp\u0113c\u012Bg\u0101m konstrukcij\u0101m
+          un \u0161\u0137\u0113r\u0161\u013Ciem"
+      - language: 14
+        text: "\xCEncerc s\u0103 evit structurile puternice \u0219i obstacolele"
+      - language: 15
+        text: "\u041C\u0430\u043D \u043A\u04EF\u0448\u0438\u0448 \u043C\u0435\u043A\u0443\u043D\u0430\u043C,
+          \u043A\u0438 \u0430\u0437 \u0441\u043E\u0445\u0442\u043E\u0440\u04B3\u043E\u0438
+          \u049B\u0430\u0432\u04E3 \u0432\u0430 \u043C\u043E\u043D\u0435\u0430\u04B3\u043E
+          \u043A\u0430\u043D\u043E\u0440\u0430\u0433\u0438\u0440\u04E3 \u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "G\xFC\xFD\xE7li gurlu\u015Flardan we p\xE4sgel\xE7iliklerden ga\xE7a
+          durmaga \xE7aly\u015F\xFDaryn"
+      - language: 17
+        text: "\u042F \u043D\u0430\u043C\u0430\u0433\u0430\u044E\u0441\u044F \u0443\u043D\u0438\u043A\u0430\u0442\u0438
+          \u0441\u0438\u043B\u044C\u043D\u0438\u0445 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440
+          \u0442\u0430 \u043F\u0435\u0440\u0435\u0448\u043A\u043E\u0434"
+      - language: 18
+        text: Men kuchli tuzilmalar va to'siqlardan qochishga harakat qilaman
+      - language: 19
+        text: "Intento evitar estructuras y obst\xE1culos fuertes."
+      - language: 20
+        text: "Tento evitar estruturas e obst\xE1culos fortes"
+      - language: 21
+        text: "\u0623\u062D\u0627\u0648\u0644 \u062A\u062C\u0646\u0628 \u0627\u0644\u0647\u064A\u0627\u0643\u0644
+          \u0648\u0627\u0644\u0639\u0642\u0628\u0627\u062A \u0627\u0644\u0642\u0648\u064A\u0629"
+      - language: 22
+        text: Saya mencoba menghindari struktur dan rintangan yang kuat
+      - language: 23
+        text: "\u5F37\u3044\u69CB\u9020\u7269\u3084\u969C\u5BB3\u7269\u3092\u907F\u3051\u3088\u3046\u3068\u3057\u307E\u3059"
+      - language: 24
+        text: Cerco di evitare strutture e ostacoli forti
+      - language: 25
+        text: Ich versuche starke Strukturen und Hindernisse zu meiden
+      - language: 26
+        text: "\u092E\u0948\u0902 \u092E\u091C\u092C\u0942\u0924 \u0938\u0902\u0930\u091A\u0928\u093E\u0913\u0902
+          \u0914\u0930 \u092C\u093E\u0927\u093E\u0913\u0902 \u0938\u0947 \u092C\u091A\u0928\u0947
+          \u0915\u0940 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Hunter
+    _localizedText:
+      _defaultText: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E
+        \u0441\u0438\u043B\u043E\u0432\u044B\u0435 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B
+        \u0432 \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      _languages:
+      - language: 0
+        text: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E \u0441\u0438\u043B\u043E\u0432\u044B\u0435
+          \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0432 \u0441\u0432\u043E\u0438\u0445
+          \u0446\u0435\u043B\u044F\u0445"
+      - language: 1
+        text: I use the power structures for my own purposes
+      - language: 2
+        text: "G\xFC\xE7 yap\u0131lar\u0131n\u0131 kendi ama\xE7lar\u0131m i\xE7in
+          kullan\u0131yorum"
+      - language: 3
+        text: "M\u0259n g\xFCc strukturlar\u0131ndan \xF6z m\u0259qs\u0259dl\u0259rim
+          \xFC\xE7\xFCn istifad\u0259 edir\u0259m"
+      - language: 4
+        text: "\u042F \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u044E
+          \u0441\u0456\u043B\u0430\u0432\u044B\u044F \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B
+          \u045E \u0441\u0432\u0430\u0456\u0445 \u043C\u044D\u0442\u0430\u0445"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E9\u05EA\u05DE\u05E9 \u05D1\u05DE\u05D1\u05E0\u05D9
+          \u05D4\u05DB\u05D5\u05D7 \u05DC\u05DE\u05D8\u05E8\u05D5\u05EA \u05E9\u05DC\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u0578\u0582\u056A\u0561\u0575\u056B\u0576 \u056F\u0561\u057C\u0578\u0582\u0575\u0581\u0576\u0565\u0580\u0576
+          \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0578\u0582\u0574 \u0565\u0574
+          \u056B\u0574 \u0576\u057A\u0561\u057F\u0561\u056F\u0576\u0565\u0580\u056B
+          \u0570\u0561\u0574\u0561\u0580"
+      - language: 7
+        text: "\u10EB\u10D0\u10DA\u10D0\u10E3\u10E4\u10DA\u10D4\u10D1\u10D8\u10E1
+          \u10E1\u10E2\u10E0\u10E3\u10E5\u10E2\u10E3\u10E0\u10D4\u10D1\u10E1 \u10E1\u10D0\u10D9\u10E3\u10D7\u10D0\u10E0\u10D8
+          \u10DB\u10D8\u10D6\u10DC\u10D4\u10D1\u10D8\u10E1\u10D7\u10D5\u10D8\u10E1
+          \u10D5\u10D8\u10E7\u10D4\u10DC\u10D4\u10D1"
+      - language: 8
+        text: "Ma kasutan j\xF5ustruktuure oma eesm\xE4rkidel"
+      - language: 9
+        text: "J'utilise les structures de pouvoir \xE0 mes propres fins"
+      - language: 10
+        text: "\u041C\u0435\u043D \u043A\u04AF\u0448 \u049B\u04B1\u0440\u044B\u043B\u044B\u043C\u0434\u0430\u0440\u044B\u043D
+          \u04E9\u0437 \u043C\u0430\u049B\u0441\u0430\u0442\u0442\u0430\u0440\u044B\u043C\u0430
+          \u043F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u041A\u04AF\u0447 \u0442\u04AF\u0437\u04AF\u043C\u0434\u04E9\u0440\u04AF\u043D
+          \u04E9\u0437\u04AF\u043C\u0434\u04AF\u043D \u043C\u0430\u043A\u0441\u0430\u0442\u0442\u0430\u0440\u044B\u043C
+          \u04AF\u0447\u04AF\u043D \u043A\u043E\u043B\u0434\u043E\u043D\u043E\u043C"
+      - language: 12
+        text: "J\u0117gos strukt\u016Bras naudoju savo tikslams"
+      - language: 13
+        text: "Es izmantoju varas strukt\u016Bras saviem m\u0113r\u0137iem"
+      - language: 14
+        text: "Folosesc structurile de putere \xEEn propriile mele scopuri"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0441\u043E\u0445\u0442\u043E\u0440\u04B3\u043E\u0438
+          \u049B\u0443\u0434\u0440\u0430\u0442\u0438\u0440\u043E \u0431\u0430\u0440\u043E\u0438
+          \u043C\u0430\u049B\u0441\u0430\u0434\u04B3\u043E\u0438 \u0445\u0443\u0434
+          \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430 \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Kuwwat gurlu\u015Flaryny \xF6z maksatlarym \xFC\xE7in ulan\xFDaryn"
+      - language: 17
+        text: "\u042F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u044E
+          \u0441\u0438\u043B\u043E\u0432\u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438
+          \u0443 \u0441\u0432\u043E\u0457\u0445 \u0446\u0456\u043B\u044F\u0445"
+      - language: 18
+        text: Men kuch tuzilmalaridan o'z maqsadlarim uchun foydalanaman
+      - language: 19
+        text: Utilizo las estructuras de poder para mis propios fines.
+      - language: 20
+        text: "Eu uso as estruturas de poder para meus pr\xF3prios prop\xF3sitos"
+      - language: 21
+        text: "\u0623\u0633\u062A\u062E\u062F\u0645 \u0647\u064A\u0627\u0643\u0644
+          \u0627\u0644\u0637\u0627\u0642\u0629 \u0644\u0623\u063A\u0631\u0627\u0636\u064A
+          \u0627\u0644\u062E\u0627\u0635\u0629"
+      - language: 22
+        text: Saya menggunakan struktur kekuasaan untuk tujuan saya sendiri
+      - language: 23
+        text: "\u79C1\u306F\u81EA\u5206\u81EA\u8EAB\u306E\u76EE\u7684\u306E\u305F\u3081\u306B\u6A29\u529B\u69CB\u9020\u3092\u4F7F\u7528\u3057\u307E\u3059"
+      - language: 24
+        text: Utilizzo le strutture di potere per i miei scopi
+      - language: 25
+        text: "Ich nutze die Machtstrukturen f\xFCr meine eigenen Zwecke"
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u092A\u0928\u0947 \u0938\u094D\u0935\u092F\u0902
+          \u0915\u0947 \u0909\u0926\u094D\u0926\u0947\u0936\u094D\u092F\u094B\u0902
+          \u0915\u0947 \u0932\u093F\u090F \u092C\u093F\u091C\u0932\u0940 \u0938\u0902\u0930\u091A\u0928\u093E\u0913\u0902
+          \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930\u0924\u093E \u0939\u0942\u0902"

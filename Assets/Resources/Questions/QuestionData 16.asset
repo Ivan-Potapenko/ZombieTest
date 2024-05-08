@@ -1,0 +1,468 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69037459d7f110c4eba82bbce76e4f9a, type: 3}
+  m_Name: QuestionData 16
+  m_EditorClassIdentifier: 
+  _questionText:
+    _defaultText: "\u041A\u0430\u043A \u0442\u044B \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0448\u044C
+      \u043D\u0430 \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+      \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F?"
+    _languages:
+    - language: 0
+      text: "\u041A\u0430\u043A \u0442\u044B \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0448\u044C
+        \u043D\u0430 \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+        \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F?"
+    - language: 1
+      text: How do you react to adverse weather conditions?
+    - language: 2
+      text: "Olumsuz hava ko\u015Fullar\u0131na nas\u0131l tepki verirsiniz?"
+    - language: 3
+      text: "\u018Flveri\u015Fsiz hava \u015F\u0259raitin\u0259 nec\u0259 reaksiya
+        verirsiniz?"
+    - language: 4
+      text: "\u042F\u043A \u0442\u044B \u0440\u044D\u0430\u0433\u0443\u0435\u0448
+        \u043D\u0430 \u043D\u0435\u0441\u043F\u0440\u044B\u044F\u043B\u044C\u043D\u044B\u044F
+        \u045E\u043C\u043E\u0432\u044B \u043D\u0430\u0434\u0432\u043E\u0440'\u044F?"
+    - language: 5
+      text: "\u05D0\u05D9\u05DA \u05D0\u05EA\u05D4 \u05DE\u05D2\u05D9\u05D1 \u05DC\u05EA\u05E0\u05D0\u05D9
+        \u05DE\u05D6\u05D2 \u05D0\u05D5\u05D5\u05D9\u05E8 \u05E7\u05E9\u05D9\u05DD?"
+    - language: 6
+      text: "\u053B\u0576\u0579\u057A\u0565\u055E\u057D \u0565\u0584 \u057E\u0565\u0580\u0561\u0562\u0565\u0580\u057E\u0578\u0582\u0574
+        \u0565\u0572\u0561\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u0561\u0576\u0562\u0561\u0580\u0565\u0576\u057A\u0561\u057D\u057F
+        \u057A\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580\u056B\u0576:"
+    - language: 7
+      text: "\u10E0\u10DD\u10D2\u10DD\u10E0 \u10E0\u10D4\u10D0\u10D2\u10D8\u10E0\u10D4\u10D1\u10D7
+        \u10D0\u10E0\u10D0\u10E1\u10D0\u10E1\u10E3\u10E0\u10D5\u10D4\u10DA\u10D8
+        \u10D0\u10DB\u10D8\u10DC\u10D3\u10D8\u10E1 \u10DE\u10D8\u10E0\u10DD\u10D1\u10D4\u10D1\u10E8\u10D8?"
+    - language: 8
+      text: Kuidas reageerite ebasoodsatele ilmastikutingimustele?
+    - language: 9
+      text: "Comment r\xE9agissez-vous aux conditions m\xE9t\xE9orologiques d\xE9favorables
+        ?"
+    - language: 10
+      text: "\u049A\u043E\u043B\u0430\u0439\u0441\u044B\u0437 \u0430\u0443\u0430
+        \u0440\u0430\u0439\u044B \u0436\u0430\u0493\u0434\u0430\u0439\u044B\u043D\u0430
+        \u049B\u0430\u043B\u0430\u0439 \u04D9\u0440\u0435\u043A\u0435\u0442 \u0435\u0442\u0435\u0441\u0456\u0437?"
+    - language: 11
+      text: "\u0410\u0431\u0430 \u044B\u0440\u0430\u0439\u044B\u043D\u044B\u043D
+        \u0436\u0430\u0433\u044B\u043C\u0441\u044B\u0437 \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044B\u043D\u0430
+        \u043A\u0430\u043D\u0434\u0430\u0439 \u043A\u0430\u0440\u0430\u0439\u0441\u044B\u0437?"
+    - language: 12
+      text: "Kaip reaguojate \u012F nepalankias oro s\u0105lygas?"
+    - language: 13
+      text: "K\u0101 j\u016Bs rea\u0123\u0113jat uz nelabv\u0113l\u012Bgiem laikapst\u0101k\u013Ciem?"
+    - language: 14
+      text: "Cum reac\u021Biona\u021Bi la condi\u021Biile meteorologice nefavorabile?"
+    - language: 15
+      text: "\u0428\u0443\u043C\u043E \u0431\u0430 \u0448\u0430\u0440\u043E\u0438\u0442\u0438
+        \u043D\u043E\u043C\u0443\u0441\u043E\u0438\u0434\u0438 \u043E\u0431\u0443
+        \u04B3\u0430\u0432\u043E \u0447\u04E3 \u0433\u0443\u043D\u0430 \u043C\u0443\u043D\u043E\u0441\u0438\u0431\u0430\u0442
+        \u043C\u0435\u043A\u0443\u043D\u0435\u0434?"
+    - language: 16
+      text: "Versearamaz howa \u015Fertlerine n\xE4hili gara\xFDarsy\u0148yz?"
+    - language: 17
+      text: "\u042F\u043A \u0442\u0438 \u0440\u0435\u0430\u0433\u0443\u0454\u0448
+        \u043D\u0430 \u043D\u0435\u0441\u043F\u0440\u0438\u044F\u0442\u043B\u0438\u0432\u0456
+        \u043F\u043E\u0433\u043E\u0434\u043D\u0456 \u0443\u043C\u043E\u0432\u0438?"
+    - language: 18
+      text: Noqulay ob-havo sharoitlariga qanday munosabatda bo'lasiz?
+    - language: 19
+      text: "\xBFC\xF3mo reaccionas ante las condiciones clim\xE1ticas adversas?"
+    - language: 20
+      text: "Como voc\xEA reage \xE0s condi\xE7\xF5es clim\xE1ticas adversas?"
+    - language: 21
+      text: "\u0643\u064A\u0641 \u062A\u062A\u0641\u0627\u0639\u0644 \u0645\u0639
+        \u0627\u0644\u0638\u0631\u0648\u0641 \u0627\u0644\u062C\u0648\u064A\u0629
+        \u0627\u0644\u0633\u064A\u0626\u0629\u061F"
+    - language: 22
+      text: Bagaimana reaksi Anda terhadap kondisi cuaca buruk?
+    - language: 23
+      text: "\u60AA\u5929\u5019\u306B\u3069\u3046\u5BFE\u51E6\u3057\u307E\u3059\u304B?"
+    - language: 24
+      text: Come reagisci alle condizioni meteorologiche avverse?
+    - language: 25
+      text: Wie reagieren Sie auf widrige Wetterbedingungen?
+    - language: 26
+      text: "\u0906\u092A \u092A\u094D\u0930\u0924\u093F\u0915\u0942\u0932 \u092E\u094C\u0938\u092E
+        \u0938\u094D\u0925\u093F\u0924\u093F\u092F\u094B\u0902 \u092A\u0930 \u0915\u0948\u0938\u0947
+        \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E \u0915\u0930\u0924\u0947
+        \u0939\u0948\u0902?"
+  _answersData:
+  - _resultDataId:
+      _value: Normal
+    _localizedText:
+      _defaultText: "\u041F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+        \u043D\u0435 \u0438\u043C\u0435\u044E\u0442 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F
+        \u0434\u043B\u044F \u043C\u0435\u043D\u044F"
+      _languages:
+      - language: 0
+        text: "\u041F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+          \u043D\u0435 \u0438\u043C\u0435\u044E\u0442 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F
+          \u0434\u043B\u044F \u043C\u0435\u043D\u044F"
+      - language: 1
+        text: Weather conditions don't matter to me
+      - language: 2
+        text: "Hava ko\u015Fullar\u0131 benim i\xE7in \xF6nemli de\u011Fil"
+      - language: 3
+        text: "Hava \u015F\u0259raitinin m\u0259nim \xFC\xE7\xFCn he\xE7 bir \u0259h\u0259miyy\u0259ti
+          yoxdur"
+      - language: 4
+        text: "\u040E\u043C\u043E\u0432\u044B \u043D\u0430\u0434\u0432\u043E\u0440'\u044F
+          \u043D\u0435 \u043C\u0430\u044E\u0446\u044C \u0437\u043D\u0430\u0447\u044D\u043D\u043D\u044F
+          \u0434\u043B\u044F \u043C\u044F\u043D\u0435"
+      - language: 5
+        text: "\u05EA\u05E0\u05D0\u05D9 \u05DE\u05D6\u05D2 \u05D4\u05D0\u05D5\u05D5\u05D9\u05E8
+          \u05DC\u05D0 \u05D7\u05E9\u05D5\u05D1\u05D9\u05DD \u05DC\u05D9"
+      - language: 6
+        text: "\u0535\u0572\u0561\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u057A\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580\u0576
+          \u056B\u0576\u0571 \u0570\u0561\u0574\u0561\u0580 \u0576\u0577\u0561\u0576\u0561\u056F\u0578\u0582\u0569\u0575\u0578\u0582\u0576
+          \u0579\u0578\u0582\u0576\u0565\u0576"
+      - language: 7
+        text: "\u10D0\u10DB\u10D8\u10DC\u10D3\u10D8\u10E1 \u10DE\u10D8\u10E0\u10DD\u10D1\u10D4\u10D1\u10E1
+          \u10E9\u10D4\u10DB\u10D7\u10D5\u10D8\u10E1 \u10DB\u10DC\u10D8\u10E8\u10D5\u10DC\u10D4\u10DA\u10DD\u10D1\u10D0
+          \u10D0\u10E0 \u10D0\u10E5\u10D5\u10E1"
+      - language: 8
+        text: Ilmastikuolud minu jaoks ei loe
+      - language: 9
+        text: "Les conditions m\xE9t\xE9orologiques ne m'importent pas"
+      - language: 10
+        text: "\u041C\u0435\u043D \u04AF\u0448\u0456\u043D \u0430\u0443\u0430-\u0440\u0430\u0439\u044B
+          \u043C\u0430\u04A3\u044B\u0437\u0434\u044B \u0435\u043C\u0435\u0441"
+      - language: 11
+        text: "\u0410\u0431\u0430 \u044B\u0440\u0430\u0439\u044B\u043D\u044B\u043D
+          \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044B \u043C\u0435\u043D \u04AF\u0447\u04AF\u043D
+          \u043C\u0430\u0430\u043D\u0438\u043B\u04AF\u04AF \u044D\u043C\u0435\u0441"
+      - language: 12
+        text: "Oro s\u0105lygos man nesvarbu"
+      - language: 13
+        text: "Laikapst\u0101k\u013Ciem man nav noz\u012Bmes"
+      - language: 14
+        text: "Condi\u021Biile meteo nu conteaz\u0103 pentru mine"
+      - language: 15
+        text: "\u0428\u0430\u0440\u043E\u0438\u0442\u0438 \u043E\u0431\u0443 \u04B3\u0430\u0432\u043E
+          \u0431\u0430\u0440\u043E\u0438 \u043C\u0430\u043D \u043C\u0443\u04B3\u0438\u043C
+          \u043D\u0435\u0441\u0442"
+      - language: 16
+        text: "Howany\u0148 \xFDagda\xFDy meni\u0148 \xFC\xE7in m\xF6h\xFCm d\xE4l"
+      - language: 17
+        text: "\u041F\u043E\u0433\u043E\u0434\u043D\u0456 \u0443\u043C\u043E\u0432\u0438
+          \u043D\u0435 \u043C\u0430\u044E\u0442\u044C \u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044F
+          \u0434\u043B\u044F \u043C\u0435\u043D\u0435"
+      - language: 18
+        text: Ob-havo sharoiti men uchun muhim emas
+      - language: 19
+        text: "Las condiciones clim\xE1ticas no me importan"
+      - language: 20
+        text: "As condi\xE7\xF5es clim\xE1ticas n\xE3o importam para mim"
+      - language: 21
+        text: "\u0627\u0644\u0638\u0631\u0648\u0641 \u0627\u0644\u062C\u0648\u064A\u0629
+          \u0644\u0627 \u062A\u0647\u0645\u0646\u064A"
+      - language: 22
+        text: Kondisi cuaca tidak penting bagi saya
+      - language: 23
+        text: "\u6C17\u8C61\u6761\u4EF6\u306F\u79C1\u306B\u306F\u95A2\u4FC2\u3042\u308A\u307E\u305B\u3093"
+      - language: 24
+        text: Le condizioni atmosferiche non mi interessano
+      - language: 25
+        text: "Die Wetterbedingungen spielen f\xFCr mich keine Rolle"
+      - language: 26
+        text: "\u092E\u094C\u0938\u092E \u0915\u0940 \u0938\u094D\u0925\u093F\u0924\u093F
+          \u092E\u0947\u0930\u0947 \u0932\u093F\u090F \u0915\u094B\u0908 \u092E\u093E\u092F\u0928\u0947
+          \u0928\u0939\u0940\u0902 \u0930\u0916\u0924\u0940"
+  - _resultDataId:
+      _value: Smoker
+    _localizedText:
+      _defaultText: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E
+        \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+        \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+        \u0432 \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      _languages:
+      - language: 0
+        text: "\u042F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+          \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+          \u0432 \u0441\u0432\u043E\u0438\u0445 \u0446\u0435\u043B\u044F\u0445"
+      - language: 1
+        text: I use adverse weather conditions to my advantage
+      - language: 2
+        text: "Olumsuz hava ko\u015Fullar\u0131n\u0131 avantaj\u0131ma kullan\u0131yorum"
+      - language: 3
+        text: "M\u0259n \u0259lveri\u015Fsiz hava \u015F\u0259raitind\u0259n \xF6z
+          xeyrim\u0259 istifad\u0259 edir\u0259m"
+      - language: 4
+        text: "\u042F \u0432\u044B\u043A\u0430\u0440\u044B\u0441\u0442\u043E\u045E\u0432\u0430\u044E
+          \u043D\u0435\u0441\u043F\u0440\u044B\u044F\u043B\u044C\u043D\u044B\u044F
+          \u045E\u043C\u043E\u0432\u044B \u043D\u0430\u0434\u0432\u043E\u0440'\u044F
+          \u045E \u0441\u0432\u0430\u0456\u0445 \u043C\u044D\u0442\u0430\u0445"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05E9\u05EA\u05DE\u05E9 \u05D1\u05EA\u05E0\u05D0\u05D9
+          \u05DE\u05D6\u05D2 \u05D0\u05D5\u05D5\u05D9\u05E8 \u05E7\u05E9\u05D9\u05DD
+          \u05DC\u05D8\u05D5\u05D1\u05EA\u05D9"
+      - language: 6
+        text: "\u0535\u057D \u0585\u0563\u057F\u0561\u0563\u0578\u0580\u056E\u0578\u0582\u0574
+          \u0565\u0574 \u0561\u0576\u0562\u0561\u0580\u0565\u0576\u057A\u0561\u057D\u057F
+          \u0565\u0572\u0561\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u057A\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580\u0568
+          \u056B\u0574 \u0585\u0563\u057F\u056B\u0576"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E9\u10D4\u10DB\u10E1 \u10E1\u10D0\u10E1\u10D0\u10E0\u10D2\u10D4\u10D1\u10DA\u10DD\u10D3
+          \u10D5\u10D8\u10E7\u10D4\u10DC\u10D4\u10D1 \u10D0\u10E0\u10D0\u10E1\u10D0\u10E1\u10E3\u10E0\u10D5\u10D4\u10DA\u10D8
+          \u10D0\u10DB\u10D8\u10DC\u10D3\u10D8\u10E1 \u10DE\u10D8\u10E0\u10DD\u10D1\u10D4\u10D1\u10E1"
+      - language: 8
+        text: Kasutan enda huvides ebasoodsaid ilmastikutingimusi
+      - language: 9
+        text: "J'utilise les conditions m\xE9t\xE9orologiques d\xE9favorables \xE0
+          mon avantage"
+      - language: 10
+        text: "\u041C\u0435\u043D \u049B\u043E\u043B\u0430\u0439\u0441\u044B\u0437
+          \u0430\u0443\u0430-\u0440\u0430\u0439\u044B\u043D \u04E9\u0437 \u043F\u0430\u0439\u0434\u0430\u043C
+          \u04AF\u0448\u0456\u043D \u043F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0430\u043C\u044B\u043D"
+      - language: 11
+        text: "\u0410\u0431\u0430 \u044B\u0440\u0430\u0439\u044B\u043D\u044B\u043D
+          \u044B\u04A3\u0433\u0430\u0439\u0441\u044B\u0437 \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044B\u043D
+          \u04E9\u0437 \u043F\u0430\u0439\u0434\u0430\u043C \u04AF\u0447\u04AF\u043D
+          \u043F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0430\u043C"
+      - language: 12
+        text: "Nepalankias oro s\u0105lygas naudoju savo naudai"
+      - language: 13
+        text: "Es izmantoju nelabv\u0113l\u012Bgus laikapst\u0101k\u013Cus sav\u0101
+          lab\u0101"
+      - language: 14
+        text: "Folosesc condi\u021Bii meteorologice nefavorabile \xEEn avantajul
+          meu"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0430\u0437 \u0448\u0430\u0440\u043E\u0438\u0442\u0438
+          \u043D\u043E\u043C\u0443\u0441\u043E\u0438\u0434\u0438 \u043E\u0431\u0443
+          \u04B3\u0430\u0432\u043E \u0431\u0430 \u043C\u0430\u043D\u0444\u0438\u0430\u0442\u0438
+          \u0445\u0443\u0434 \u0438\u0441\u0442\u0438\u0444\u043E\u0434\u0430 \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Amatsyz howa \u015Fertlerini \xF6z pe\xFDdam \xFC\xE7in ulan\xFDaryn"
+      - language: 17
+        text: "\u042F \u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u043E\u0432\u0443\u044E
+          \u043D\u0435\u0441\u043F\u0440\u0438\u044F\u0442\u043B\u0438\u0432\u0456
+          \u043F\u043E\u0433\u043E\u0434\u043D\u0456 \u0443\u043C\u043E\u0432\u0438
+          \u0437 \u043C\u0435\u0442\u043E\u044E"
+      - language: 18
+        text: Men noqulay ob-havo sharoitlarini o'z foydam uchun ishlataman
+      - language: 19
+        text: "Utilizo las condiciones clim\xE1ticas adversas a mi favor"
+      - language: 20
+        text: "Eu uso as condi\xE7\xF5es clim\xE1ticas adversas a meu favor"
+      - language: 21
+        text: "\u0623\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0638\u0631\u0648\u0641
+          \u0627\u0644\u062C\u0648\u064A\u0629 \u0627\u0644\u0633\u064A\u0626\u0629
+          \u0644\u0635\u0627\u0644\u062D\u064A"
+      - language: 22
+        text: Saya memanfaatkan kondisi cuaca buruk untuk keuntungan saya
+      - language: 23
+        text: "\u79C1\u306F\u60AA\u5929\u5019\u3092\u6709\u5229\u306B\u5229\u7528\u3057\u307E\u3059"
+      - language: 24
+        text: Sfrutto le condizioni meteorologiche avverse a mio vantaggio
+      - language: 25
+        text: Ich nutze widrige Wetterbedingungen zu meinem Vorteil
+      - language: 26
+        text: "\u092E\u0948\u0902 \u0905\u092A\u0928\u0947 \u0932\u093E\u092D \u0915\u0947
+          \u0932\u093F\u090F \u092A\u094D\u0930\u0924\u093F\u0915\u0942\u0932 \u092E\u094C\u0938\u092E
+          \u0915\u0940 \u0938\u094D\u0925\u093F\u0924\u093F \u0915\u093E \u0909\u092A\u092F\u094B\u0917
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Witch
+    _localizedText:
+      _defaultText: "\u042F \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E \u043D\u0430
+        \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+        \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+        \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0435\u0439 \u0438 \u043F\u0430\u043D\u0438\u043A\u043E\u0439"
+      _languages:
+      - language: 0
+        text: "\u042F \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u044E \u043D\u0430
+          \u043D\u0435\u0431\u043B\u0430\u0433\u043E\u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435
+          \u043F\u043E\u0433\u043E\u0434\u043D\u044B\u0435 \u0443\u0441\u043B\u043E\u0432\u0438\u044F
+          \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0435\u0439 \u0438 \u043F\u0430\u043D\u0438\u043A\u043E\u0439"
+      - language: 1
+        text: I react to adverse weather conditions with aggression and panic
+      - language: 2
+        text: "Olumsuz hava ko\u015Fullar\u0131na sald\u0131rganl\u0131k ve panikle
+          tepki veririm"
+      - language: 3
+        text: "M\u0259n \u0259lveri\u015Fsiz hava \u015F\u0259raitin\u0259 aqressiya
+          v\u0259 panika il\u0259 reaksiya verir\u0259m"
+      - language: 4
+        text: "\u042F \u0440\u044D\u0430\u0433\u0443\u044E \u043D\u0430 \u043D\u0435\u0441\u043F\u0440\u044B\u044F\u043B\u044C\u043D\u044B\u044F
+          \u045E\u043C\u043E\u0432\u044B \u043D\u0430\u0434\u0432\u043E\u0440'\u044F
+          \u0430\u0433\u0440\u044D\u0441\u0456\u044F\u0439 \u0456 \u043F\u0430\u043D\u0456\u043A\u0430\u0439"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05DE\u05D2\u05D9\u05D1 \u05DC\u05EA\u05E0\u05D0\u05D9
+          \u05DE\u05D6\u05D2 \u05D0\u05D5\u05D5\u05D9\u05E8 \u05E7\u05E9\u05D9\u05DD
+          \u05D1\u05EA\u05D5\u05E7\u05E4\u05E0\u05D5\u05EA \u05D5\u05D1\u05D1\u05D4\u05DC\u05D4"
+      - language: 6
+        text: "\u0535\u0572\u0561\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u0561\u0576\u0562\u0561\u0580\u0565\u0576\u057A\u0561\u057D\u057F
+          \u057A\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580\u056B\u0576 \u0565\u057D
+          \u0561\u0580\u0571\u0561\u0563\u0561\u0576\u0584\u0578\u0582\u0574 \u0565\u0574
+          \u0561\u0563\u0580\u0565\u057D\u056B\u057E\u0578\u0582\u0569\u0575\u0561\u0574\u0562
+          \u0587 \u056D\u0578\u0582\u0573\u0561\u057A\u0578\u057E"
+      - language: 7
+        text: "\u10D0\u10E0\u10D0\u10EE\u10D4\u10DA\u10E1\u10D0\u10E7\u10E0\u10D4\u10DA
+          \u10D0\u10DB\u10D8\u10DC\u10D3\u10D8\u10E1 \u10DE\u10D8\u10E0\u10DD\u10D1\u10D4\u10D1\u10D6\u10D4
+          \u10D0\u10D2\u10E0\u10D4\u10E1\u10D8\u10D8\u10D7 \u10D3\u10D0 \u10DE\u10D0\u10DC\u10D8\u10D9\u10D8\u10D7
+          \u10D5\u10E0\u10D4\u10D0\u10D2\u10D8\u10E0\u10D4\u10D1"
+      - language: 8
+        text: Ma reageerin ebasoodsatele ilmastikutingimustele agressiivsuse ja paanikaga
+      - language: 9
+        text: "Je r\xE9agis aux conditions m\xE9t\xE9orologiques d\xE9favorables
+          avec agressivit\xE9 et panique"
+      - language: 10
+        text: "\u041C\u0435\u043D \u0430\u0443\u0430-\u0440\u0430\u0439\u044B\u043D\u044B\u04A3
+          \u049B\u043E\u043B\u0430\u0439\u0441\u044B\u0437\u0434\u044B\u0493\u044B\u043D\u0430
+          \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044F\u043C\u0435\u043D \u0436\u04D9\u043D\u0435
+          \u0434\u04AF\u0440\u0431\u0435\u043B\u0435\u04A3\u043C\u0435\u043D \u0436\u0430\u0443\u0430\u043F
+          \u0431\u0435\u0440\u0435\u043C\u0456\u043D"
+      - language: 11
+        text: "\u0410\u0431\u0430 \u044B\u0440\u0430\u0439\u044B\u043D\u044B\u043D
+          \u0436\u0430\u0433\u044B\u043C\u0441\u044B\u0437 \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044B\u043D\u0430
+          \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044F \u0436\u0430\u043D\u0430
+          \u0434\u04AF\u0440\u0431\u04E9\u043B\u04E9\u04A3 \u043C\u0435\u043D\u0435\u043D
+          \u0436\u043E\u043E\u043F \u0431\u0435\u0440\u0435\u043C"
+      - language: 12
+        text: "\u012E nepalankias oro s\u0105lygas reaguoju agresija ir panika"
+      - language: 13
+        text: "Uz nelabv\u0113l\u012Bgiem laikapst\u0101k\u013Ciem rea\u0123\u0113ju
+          ar agresiju un paniku"
+      - language: 14
+        text: "Reac\u021Bionez la condi\u021Biile meteorologice nefavorabile cu agresivitate
+          \u0219i panic\u0103"
+      - language: 15
+        text: "\u041C\u0430\u043D \u0431\u0430 \u0448\u0430\u0440\u043E\u0438\u0442\u0438
+          \u043D\u043E\u043C\u0443\u0441\u043E\u0438\u0434\u0438 \u043E\u0431\u0443
+          \u04B3\u0430\u0432\u043E \u0431\u043E \u0445\u0430\u0448\u043C \u0432\u0430
+          \u0432\u043E\u04B3\u0438\u043C\u0430 \u043C\u0443\u043D\u043E\u0441\u0438\u0431\u0430\u0442
+          \u043C\u0435\u043A\u0443\u043D\u0430\u043C"
+      - language: 16
+        text: "Versearamaz howa \u015Fertlerine agressi\xFDa we howsala bilen reaksi\xFDa
+          bildir\xFD\xE4rin"
+      - language: 17
+        text: "\u042F \u0440\u0435\u0430\u0433\u0443\u044E \u043D\u0430 \u043D\u0435\u0441\u043F\u0440\u0438\u044F\u0442\u043B\u0438\u0432\u0456
+          \u043F\u043E\u0433\u043E\u0434\u043D\u0456 \u0443\u043C\u043E\u0432\u0438
+          \u0430\u0433\u0440\u0435\u0441\u0456\u0454\u044E \u0442\u0430 \u043F\u0430\u043D\u0456\u043A\u043E\u044E"
+      - language: 18
+        text: Men noqulay ob-havo sharoitlariga tajovuzkorlik va vahima bilan munosabat
+          bildiraman
+      - language: 19
+        text: "Reacciono ante las condiciones clim\xE1ticas adversas con agresi\xF3n
+          y p\xE1nico."
+      - language: 20
+        text: "Reajo a condi\xE7\xF5es clim\xE1ticas adversas com agressividade e
+          p\xE2nico"
+      - language: 21
+        text: "\u0623\u062A\u0641\u0627\u0639\u0644 \u0645\u0639 \u0627\u0644\u0638\u0631\u0648\u0641
+          \u0627\u0644\u062C\u0648\u064A\u0629 \u0627\u0644\u0633\u064A\u0626\u0629
+          \u0628\u0627\u0644\u0639\u062F\u0648\u0627\u0646 \u0648\u0627\u0644\u0630\u0639\u0631"
+      - language: 22
+        text: Saya bereaksi terhadap kondisi cuaca buruk dengan agresi dan panik
+      - language: 23
+        text: "\u60AA\u5929\u5019\u306B\u53CD\u5FDC\u3057\u3066\u653B\u6483\u6027\u3084\u30D1\u30CB\u30C3\u30AF\u3092\u8D77\u3053\u3059"
+      - language: 24
+        text: "Reagisco alle condizioni meteorologiche avverse con aggressivit\xE0
+          e panico"
+      - language: 25
+        text: Auf widrige Wetterbedingungen reagiere ich mit Aggression und Panik
+      - language: 26
+        text: "\u092E\u0948\u0902 \u092A\u094D\u0930\u0924\u093F\u0915\u0942\u0932
+          \u092E\u094C\u0938\u092E \u0915\u0940 \u0938\u094D\u0925\u093F\u0924\u093F
+          \u092A\u0930 \u0906\u0915\u094D\u0930\u093E\u092E\u0915\u0924\u093E \u0914\u0930
+          \u0918\u092C\u0930\u093E\u0939\u091F \u0915\u0947 \u0938\u093E\u0925 \u092A\u094D\u0930\u0924\u093F\u0915\u094D\u0930\u093F\u092F\u093E
+          \u0915\u0930\u0924\u093E \u0939\u0942\u0902"
+  - _resultDataId:
+      _value: Tank
+    _localizedText:
+      _defaultText: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u044E
+        \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434,
+        \u043D\u0435 \u043E\u0431\u0440\u0430\u0449\u0430\u044F \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F
+        \u043D\u0430 \u043F\u043E\u0433\u043E\u0434\u0443"
+      _languages:
+      - language: 0
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u044E
+          \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434,
+          \u043D\u0435 \u043E\u0431\u0440\u0430\u0449\u0430\u044F \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F
+          \u043D\u0430 \u043F\u043E\u0433\u043E\u0434\u0443"
+      - language: 1
+        text: I just keep moving forward, regardless of the weather.
+      - language: 2
+        text: Hava ne olursa olsun ilerlemeye devam ediyorum.
+      - language: 3
+        text: "Havadan as\u0131l\u0131 olmayaraq sad\u0259c\u0259 ir\u0259lil\u0259yir\u0259m."
+      - language: 4
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u0430 \u043F\u0440\u0430\u0446\u044F\u0433\u0432\u0430\u044E
+          \u0440\u0443\u0445\u0430\u0446\u0446\u0430 \u043D\u0430\u043F\u0435\u0440\u0430\u0434,
+          \u043D\u0435 \u0437\u0432\u0430\u0436\u0430\u044E\u0447\u044B \u043D\u0430
+          \u200B\u200B\u043D\u0430\u0434\u0432\u043E\u0440'\u0435"
+      - language: 5
+        text: "\u05D0\u05E0\u05D9 \u05E4\u05E9\u05D5\u05D8 \u05DE\u05DE\u05E9\u05D9\u05DA
+          \u05DC\u05D4\u05EA\u05E7\u05D3\u05DD, \u05DC\u05DC\u05D0 \u05E7\u05E9\u05E8
+          \u05DC\u05DE\u05D6\u05D2 \u05D4\u05D0\u05D5\u05D5\u05D9\u05E8."
+      - language: 6
+        text: "\u0535\u057D \u0578\u0582\u0572\u0572\u0561\u056F\u056B \u0577\u0561\u0580\u0578\u0582\u0576\u0561\u056F\u0578\u0582\u0574
+          \u0565\u0574 \u0561\u057C\u0561\u057B \u0563\u0576\u0561\u056C\u055D \u0561\u0576\u056F\u0561\u056D
+          \u0565\u0572\u0561\u0576\u0561\u056F\u056B\u0581\u0589"
+      - language: 7
+        text: "\u10DB\u10D4 \u10E3\u10D1\u10E0\u10D0\u10DA\u10DD\u10D3 \u10EC\u10D8\u10DC
+          \u10DB\u10D8\u10D5\u10D3\u10D8\u10D5\u10D0\u10E0, \u10DB\u10D8\u10E3\u10EE\u10D4\u10D3\u10D0\u10D5\u10D0\u10D3
+          \u10D0\u10DB\u10D8\u10DC\u10D3\u10D8\u10E1\u10D0."
+      - language: 8
+        text: Ma lihtsalt liigun edasi, olenemata ilmast.
+      - language: 9
+        text: "Je continue d\u2019avancer, quelle que soit la m\xE9t\xE9o."
+      - language: 10
+        text: "\u041C\u0435\u043D \u0430\u0443\u0430-\u0440\u0430\u0439\u044B\u043D\u0430
+          \u049B\u0430\u0440\u0430\u043C\u0430\u0441\u0442\u0430\u043D \u0442\u0435\u043A
+          \u0430\u043B\u0493\u0430 \u0436\u044B\u043B\u0436\u0430\u043C\u044B\u043D."
+      - language: 11
+        text: "\u0410\u0431\u0430 \u044B\u0440\u0430\u0439\u044B\u043D\u0430 \u043A\u0430\u0440\u0430\u0431\u0430\u0439
+          \u0430\u043B\u0434\u044B\u0433\u0430 \u0436\u044B\u043B\u0430 \u0431\u0435\u0440\u0435\u043C."
+      - language: 12
+        text: "A\u0161 tiesiog judu \u012F priek\u012F, nepaisant oro s\u0105lyg\u0173."
+      - language: 13
+        text: "Es turpinu virz\u012Bties uz priek\u0161u neatkar\u012Bgi no laikapst\u0101k\u013Ciem."
+      - language: 14
+        text: "Pur \u0219i simplu merg \xEEnainte, indiferent de vreme."
+      - language: 15
+        text: "\u041C\u0430\u043D \u043D\u043E\u0432\u043E\u0431\u0430\u0441\u0442\u0430
+          \u0430\u0437 \u043E\u0431\u0443 \u04B3\u0430\u0432\u043E \u0442\u0430\u043D\u04B3\u043E
+          \u0431\u0430 \u043F\u0435\u0448 \u04B3\u0430\u0440\u0430\u043A\u0430\u0442
+          \u043C\u0435\u043A\u0443\u043D\u0430\u043C."
+      - language: 16
+        text: "Howa garamazdan, di\u0148e \xF6\u0148e gitmegi dowam etdir\xFD\xE4rin."
+      - language: 17
+        text: "\u042F \u043F\u0440\u043E\u0441\u0442\u043E \u043F\u0440\u043E\u0434\u043E\u0432\u0436\u0443\u044E
+          \u0440\u0443\u0445\u0430\u0442\u0438\u0441\u044F \u0432\u043F\u0435\u0440\u0435\u0434,
+          \u043D\u0435 \u0437\u0432\u0430\u0436\u0430\u044E\u0447\u0438 \u043D\u0430
+          \u043F\u043E\u0433\u043E\u0434\u0443"
+      - language: 18
+        text: Men ob-havo qanday bo'lishidan qat'i nazar, faqat oldinga intilaman.
+      - language: 19
+        text: Sigo avanzando, sin importar el clima.
+      - language: 20
+        text: Eu apenas sigo em frente, independentemente do clima.
+      - language: 21
+        text: "\u0623\u0646\u0627 \u0641\u0642\u0637 \u0623\u0648\u0627\u0635\u0644
+          \u0627\u0644\u0645\u0636\u064A \u0642\u062F\u0645\u064B\u0627\u060C \u0628\u063A\u0636
+          \u0627\u0644\u0646\u0638\u0631 \u0639\u0646 \u0627\u0644\u0637\u0642\u0633."
+      - language: 22
+        text: Saya terus bergerak maju, apapun cuacanya.
+      - language: 23
+        text: "\u5929\u6C17\u306B\u95A2\u4FC2\u306A\u304F\u3001\u79C1\u306F\u305F\u3060\u524D\u306B\u9032\u307F\u7D9A\u3051\u308B\u3060\u3051\u3067\u3059\u3002"
+      - language: 24
+        text: Continuo ad andare avanti, indipendentemente dal tempo.
+      - language: 25
+        text: "Ich mache einfach weiter, unabh\xE4ngig vom Wetter."
+      - language: 26
+        text: "\u092E\u094C\u0938\u092E \u0915\u0940 \u092A\u0930\u0935\u093E\u0939
+          \u0915\u093F\u090F \u092C\u093F\u0928\u093E \u092E\u0948\u0902 \u092C\u0938
+          \u0906\u0917\u0947 \u092C\u0922\u093C\u0924\u093E \u0930\u0939\u0924\u093E
+          \u0939\u0942\u0902\u0964"
